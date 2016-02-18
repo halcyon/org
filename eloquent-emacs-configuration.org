@@ -1,0 +1,44 @@
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
+#+LAYOUT: post
+#+AUTHOR: Scott McLeod
+#+DATE: 2016-02-17 Wed 13:26
+#+TITLE: Eloquent Emacs Configuration
+#+DESCRIPTION: A guide to configuring Emacs
+#+TAGS: emacs
+#+CATEGORIES: emacs
+
+Drawing on its Lisp heritage, the Emacs community rapidly meets the
+needs of its user base.  As the community evolves, better community
+developed solutions and core functionality obsolete prior ones.  While
+this provides users with a wealth of options, it also results in dated
+advice and the paradox of choice.  In this post I will guide you in
+configuring Emacs from the ground up.
+
+#+BEGIN_SRC emacs-lisp
+;;; package --- init.el
+;;; Commentary:
+;;; Code:
+(setq message-log-max 10000) ; debugging
+
+(require 'package)
+(setq package-enable-at-startup nil)
+(setq package-archives '(("melpa-stable" . "https://stable.melpa.org/packages/")
+                         ("gnu" . "https://elpa.gnu.org/packages/")))
+
+(package-initialize)
+(setq quelpa-update-melpa-p nil)
+(unless (require 'quelpa nil t)
+  (with-temp-buffer
+    (url-insert-file-contents "https://raw.github.com/quelpa/quelpa/master/bootstrap.el")
+    (eval-buffer)))
+
+;; install use-package and the quelpa handler
+(quelpa '(use-package :fetcher github :repo "jwiegley/use-package" :stable t))
+(quelpa '(quelpa-use-package :fetcher github :repo "quelpa/quelpa-use-package"))
+(require 'quelpa-use-package)
+
+(setq use-package-always-ensure t)
+(quelpa-use-package-activate-advice)
+#+END_SRC
