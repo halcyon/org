@@ -1,0 +1,158 @@
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
+#+LAYOUT: default
+#+AUTHOR: Scott McLeod
+#+DATE: 2016-02-18 Thu 10:44
+#+TITLE: Resume
+#+DESCRIPTION:
+#+TAGS: resume
+#+CATEGORIES: resume
+
+* Scott McLeod
+** *Senior Clojure Developer*
+- tel: 404-697-0103
+- email: scott.mcleod@zeddworks.com
+- website: http://www.zeddworks.com/resume.html
+
+* Professional Summary
+*** *Programming Languages*
+Clojure, JavaScript, Java, Ruby, Groovy, CoffeeScript, Python, C, C++, C#, Bash, Scala
+*** *Cloud Deployment*
+Heroku
+*** *Continuous Integration*
+Jenkins, Travis
+*** *Project Management and Agile Methodologies*
+Trello, Jira/GreenHopper, Kanban
+*** *Documentation*
+Org Mode, Markdown, AsciiDoc
+*** *Testing Frameworks and Tools*
+Mockito, TestNG, JUnit, Jasmine, Karma, Mocha, RSpec, Selenium, Watir
+*** *Web Technologies*
+HTML5, CSS, JavaScript, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup (Clojure HTML templating library)
+*** *Frameworks*
+Ruby on Rails, Compojure (Clojure web service routing library), Grails, Spring, Stripes, Hibernate, Ibatis
+*** *Message Queues*
+RabbitMQ, ActiveMQ, JMS
+*** *System Administration*
+Linux, Mac OS X, Solaris, FreeBSD, OpenBSD, NetBSD, Windows
+*** *Build Tools*
+Leiningen, Boot-clj, Maven, Gradle, Buildr, GNU Make, Boost Build, Ant, Nmake, Autoconf
+*** *SCM Tools*
+Git, Mercurial, Subversion, Perforce, Bitkeeper, CVS
+*** *Network Administration*
+IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB, Apache, Nginx
+*** *Application Servers*
+Jetty, Tomcat, GlassFish, WAS, JES, JBoss
+*** *Databases*
+PostgreSQL, MySQL, Oracle, MongoDB, DB2, CouchDB
+*** *LDAP*
+Sun Enterprise Directory Server, Open LDAP, OpenDS
+*** *Solaris Technologies*
+Zones, ZFS, DTrace, SMF, Jumpstart, Grid Engine
+*** *Virtualization*
+Docker, VirtualBox/Vagrant/Veewee, Octohost, SmartOS(KVM/Zones), VMware(ESX), LXC
+*** *Enterprise Deployment Tools*
+Ansible, Chef, Puppet
+*** *Data Integration and ETL*
+Pentaho Kettle, Informatica
+
+* Employment History
+** August 2014 - Present Connolly iHealth Technologies, Sandy Springs, GA
+*** *Senior Technical Architect*
+- Secured REST endpoints of microservice with openid-connect
+- Built unit tests for microservice endpoints with MockMvc
+- Built Spring Boot microservice reference implementation
+- Refactored legacy code and built regression tests using Mockito
+- Automated build and deployment with Ansible
+- Developed front-end written in AngularJS
+
+** July 2013 - August 2014 Izenda, LLC Atlanta, GA
+*** *VP Engineering*
+- Managed Engineering business unit consisting of Development, QA, and Support departments
+- Mentored and built team of Clojurists
+- Built Clojure RESTful service on Heroku to provide license management and integrated it with website and SalesForce
+- Designed and implemented an SDLC with a full release process
+- Migrated development from Subversion to Git
+- Automated build and deployment process
+
+** December 2007 - July 2013 InterContinentalExchange, Inc. Sandy Springs, GA
+*** *Senior Developer*
+- Responsible for developing new features for the website, in-house content management system, reporting systems, and associated customer-facing web products
+- Ported web application for maintaining products on the website from Grails to a BackboneJS & Grails architecture to provide for better "separation of concerns"
+- Wrote NodeJS program for providing ad hoc querying and data transformations for product managers
+- Wrote recursive non-blocking spidering/scraping utility to aggregate university data for a social media initiative utilizing NodeJS
+
+*** *Manager SDLC Team*
+- Championed and implemented Chef deployment strategies to automate provisioning of SDLC stack (Gitorious, Jenkins, Nexus, Jira) and wrote a Chef provider to automate signing of SSL certificates by ICE's Certificate Authority
+- Lead development of Nexus Artifact Cleaner to expunge old artifacts
+- Environment Dashboard project architect - System which provides real-time monitoring of ICE systems
+- Championed and introduced Buildr to the SDLC tools stack to supersede Maven
+- Championed and introduced Git to the SDLC tools stack to supersede Mercurial
+- Lead design and implementation of automated integration testing system for long running tests
+- Wrote single-button deployment system in Ruby to deploy to hundreds of target systems in parallel
+- Wrote Java Maven plugin to generate and email release notes upon Maven release builds
+- Implemented SDLC Release Process
+
+*** *R&D Systems Engineer*
+- Developed and formalized SDLC release process
+- Architect of SDLC (Continuous Integration, Distributed Source Control, Shared Build Artifacts Repository, Build Process, and Defect Tracking)
+- Migrated IBM Directory Server schema to Sun Enterprise Directory Server schema for NYBOT eCOPS (Electronic Commodity Operations Processing System)
+- Designed and implemented multi-master SSL LDAP clusters (Sun Enterprise Directory Server) for Clearing and Trading business silos
+- Architect of production deployment system used to deploy to hundreds of systems within a one-hour maintenance window - included jruby test suite and deployment verification
+- System administrator of production Solaris, AIX, and Linux systems
+
+** June 2004 - December 2007 Equifax, Inc. Alpharetta, GA
+*** *Application Developer IV*
+- Wrote C++ bindings for parsing configuration files with libyaml
+- Developed server-side invocation and monitoring agent for grid job control system
+
+*** *Development Infrastructure Architect*
+- Architect of automated system to generate continuous integration environments on demand
+- Deployed enterprise Subversion SCM with LDAP backend
+- Perforce and Subversion SCM administrator
+- Migrated Nmake build environment to Boost Build
+- Trained team to use Subversion
+- Designed SDLC processes adopted by business process reengineering team
+- Consulted with security team on design of enterprise LDAP authentication system
+- Project manager for migration of production databases
+
+*** *CM Team Lead*
+- Supported J2EE eCommerce system
+- Liaison to IBM Global Architecture
+- Developed SDLC best practices
+- Implemented NIS centralized authentication system
+- Migrated source control management system from CVS to Subversion
+
+*** *Release Engineer*
+- Supported 20 SDLC environments
+- Responsible for building continuous integration environments
+- Second tier support for batch/offline production environments
+
+** April 1999 - November 2001 Exchange-America Alpharetta, GA
+*** *Software Developer*
+- Developed a regular expression library for Java
+- Developed CORBA clients and servers in Java and C++
+- Developed utility enabling Internet Explorer 5.5sp2 to utilize Netscape plugins
+- Developed Netscape plugin to launch product in Solaris and Windows
+- Built plugin architecture for querying version metadata of in-house C++ libraries
+- Administered open source development tools
+
+** October 1997 - May 1999 GA State Board of Pardons and Paroles Atlanta, GA
+*** *Network Engineer*
+- Developed Lotus Notes database applications
+- Administered Central Office Network serving 300 internal nodes and 57 Parole offices
+- Built network imaging system for deployment of Windows 95
+
+* Education
+** Georgia Institute of Technology Atlanta, GA
+- Bachelor of Computer Science (2007)
+- Certificate in Industrial Organizational Psychology (2007)
+
+** Continuing Education
+- Computational Investing, Part I - Georgia Institute of Technology (2012)
+- Developing Innovative Ideas for New Companies - University of Maryland, College Park (2013)
+- Functional Programming Principles in Scala - École Polytechnique Fédérale de Lausanne (2013)
+
+* Professional References
+- Available upon request
