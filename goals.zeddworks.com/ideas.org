@@ -1,0 +1,47 @@
+* Blogs
+- http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
+- http://www.lispcast.com/
+- http://bridgetconsulting.com/
+- http://engineering.skybettingandgaming.com/2016/02/02/how-we-release-so-frequently/
+- https://puppetlabs.com/blog/continuous-delivery-vs-continuous-deployment-whats-diff
+- http://ardumont.github.io/
+- http://juanreyero.com/
+- http://endlessparentheses.com/
+- http://emacslife.com/
+
+* Shopping
+- https://www.packtpub.com/packt/offers/free-learning
+- 15NOW
+- [[https://jet.com/product/KandN-33-2498-Replacement-Air-Filter/c635c8f055ac42f6a3647ba392ec8edb][K&N 33-2498 Replacement Air Filter]]
+- [[https://jet.com/product/SanDisk-Extreme-Pro-Sdxc-128GB-Uhs-1-SDSDXP-128G-A46/7a2c033408914c259ba218bf92fb53fd][SANDISK SDSDXP128GA46 Extreme PRO SDXC 128G]]
+- [[https://jet.com/product/WD-My-Passport-Ultra-2TB-External-Hard-Drive-Assorted-Colors/a28b6e076b114823826e48dc34a29f64][WD My Passport Ultra 2TB External]]
+
+* RP
+- [[https://docs.google.com/document/d/1fh78pWPJtFGXlZkiJMbaeEzFyeAh9kF8_f44iLvJddg/edit#heading%3Dh.wqj6qmdqtdgy][Template for Future Clojure Projects]]
+
+* Clojure Function of the Day blog
+
+* Tooling is Technology blog post
+- Abraham Lincoln & the Axe
+- China and the Axe
+- Traditional view of tools
+- Star Trek view of tools
+- Bicycle of the mind
+- Getting lost in tooling
+- Unix admin
+- Puppet/Chef
+- LXC
+- Docker
+- Kubernetes
+- LXD
+
+** Emacs
+- Cider
+- Orders of magnitude productivity boosts
+
+** Org Mode
+- Calendar
+
+** Leadership
+- Timing is everything
+- Even when the timing is off, a seed has been planted

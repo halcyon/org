@@ -1,0 +1,101 @@
+* Short Term Goal 1 - Technical
+** STARTED [[http://xuanji.appspot.com/isicp/lambda.html][Lambda Calculus]]
+
+* Short Term Goal 2 - Non-Technical
+** TODO [[http://theultimatehang.com/2012/07/portable-hammock-pipe-stand/][Build a Portable Hammock Pipe Stand]]
+
+* Long Term Goal 1 - Technical
+** TODO [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]]
+
+* Long Term Goal 2 - Non-Technical
+** TODO [[http://12factor.net/][The Twelve-Factor App]]
+
+* Opportunities
+** Opportunity to be mentored by experts
+
+* Strengths
+** Learning
+
+* In Progress
+** STARTED FATS talk on configuring EMACS
+
+* Completed
+** DONE Turn org files into slide shows
+** DONE https://github.com/clojure-emacs/clj-refactor.el
+** DONE Setup EMACS as a postgres client
+** DONE [[https://allysonjulian.com/setting-up-docker-with-xhyve/][Setting up docker with xhyve (OS X virtualization)]]
+** DONE [[https://github.com/clojure-emacs/squiggly-clojure][Flycheck Clojure]]
+** DONE https://github.com/flycheck/flycheck
+** DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
+** DONE Setup persistent nrepl history in EMACS
+
+* Backlog
+** TODO FATS talk on setting up postgres in EMACS
+** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
+** TODO https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
+** TODO https://www.youtube.com/watch?v=0SARbwvhupQw
+** TODO http://orgmode.org/manual/Fast-access-to-TODO-states.html#Fast-access-to-TODO-states
+** TODO https://github.com/patric-r/jvmtop
+** TODO http://stackoverflow.com/questions/2129044/java-heap-terminology-young-old-and-permanent-generations
+** TODO http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
+** TODO https://github.com/jkbrzt/httpie
+** TODO https://github.com/ardumont/org2jekyll
+** TODO [[http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1][SICP - 1.1 Sections 1-8 The Elements of Programming]]
+** TODO http://www.sicpdistilled.com/
+** TODO http://mishadoff.com/blog/clojure-design-patterns/
+** TODO [[http://gigamonkeys.com/book/][Practical Common Lisp]]
+** TODO http://acaird.github.io/computers/2013/05/24/blogging-with-org-and-git/
+** TODO http://emacs-doctor.com/blogging-from-emacs.html
+** TODO http://tex.stackexchange.com/questions/157332/how-can-you-make-your-cv-accessible
+** TODO https://github.com/punchagan/resume
+** TODO https://clusterhq.com/2016/02/11/kubernetes-redis-cluster/?utm_source=dbweekly&utm_medium=email
+** TODO https://github.com/mhjort/clj-gatling
+** TODO https://github.com/hugoduncan/criterium
+** TODO https://github.com/mhjort/clojider
+** TODO https://github.com/weavejester/reloaded.repl
+** TODO https://pragprog.com/book/actb/technical-blogging
+** TODO https://tbaldridge.pivotshare.com/categories/function-of-the-day/2084/media
+** TODO http://jonathangraham.github.io/2015/09/01/Clojure%20functions/
+** TODO http://jonathangraham.github.io/2016/01/07/property_based_testing_clojure_functions/
+** TODO [[https://github.com/awkay/om-tutorial][Learn Om Next using Dev Cards]]
+** TODO [[https://github.com/Day8/re-frame][Re-frame]]
+** TODO The Little Schemer
+** TODO https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure
+** TODO http://www.4clojure.com
+** TODO http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
+** TODO 100 Clojure Functions with Anki Flashcards
+** TODO http://www.parens-of-the-dead.com
+** TODO https://www.masteringemacs.org
+** TODO http://www.datomic.com/training.html https://github.com/Datomic/day-of-datomic
+** TODO https://github.com/cloojure/tupelo
+** TODO https://pragprog.com/book/cjclojure/mastering-clojure-macros
+** TODO http://clojure-cookbook.com/
+** TODO http://matthiasnehlsen.com/blog/2014/10/15/talk-transcripts/
+** TODO http://nealford.com/functionalthinking.html
+** TODO https://github.com/evancz/elm-architecture-tutorial
+** TODO Devcards http://rigsomelight.com/devcards/#!/devdemos.core
+** TODO Learn you some Erlang for great good
+** TODO Learn you a Haskell for great good
+** TODO Read Paul Graham Essay
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft1/index.html][Functional thinking: Thinking functionally, Part 1]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft2/index.html][Functional thinking: Thinking functionally, Part 2]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft3/index.html][Functional thinking: Thinking functionally, Part 3]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft4/index.html][Functional thinking: Immutability]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft5/index.html][Functional thinking: Coupling and composition, Part 1]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft6/index.html][Functional thinking: Coupling and composition, Part 2]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft7/index.html][Functional thinking: Functional features in Groovy, Part 1]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft8/index.html][Functional thinking: Functional features in Groovy, Part 2]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft9/index.html][Functional thinking: Functional features in Groovy, Part 3]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft10/index.html][Functional thinking: Functional design patterns, Part 1]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft11/index.html][Functional thinking: Functional design patterns, Part 2]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft12/index.html][Functional thinking: Functional design patterns, Part 3]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft13/index.html][Functional thinking: Functional error handling with Either and Option]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft14/index.html][Functional thinking: Either trees and pattern matching]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft15/index.html][Functional thinking: Rethinking dispatch]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft16/index.html][Functional thinking: Tons of transformations]]
+** TODO [[http://www.ibm.com/developerworks/java/library/j-ft17/index.html][Functional thinking: Transformations and optimizations]]
+
+* Icebox
+** TODO https://github.com/rupa/z
+** TODO https://www.bountysource.com/teams/cider
+** TODO http://www.jorgecastro.org/2016/02/12/super-fast-local-workloads-with-juju/
