@@ -17,6 +17,7 @@
 ** Learning
 
 * In Progress
+** STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]]
 ** STARTED FATS talk on configuring EMACS
 
 * Completed

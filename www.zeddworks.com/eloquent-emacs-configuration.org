@@ -9,13 +9,20 @@
 #+TAGS: emacs
 #+CATEGORIES: emacs
 
+* Why do I need a guide to configure Emacs?
 Drawing on its Lisp heritage, the Emacs community rapidly meets the
 needs of its user base.  As the community evolves, better community
 developed solutions and core functionality obsolete prior ones.  While
 this provides users with a wealth of options, it also results in dated
-advice and the paradox of choice.  In this post I will guide you in
-configuring Emacs from the ground up.
+advice and the paradox of choice.  I will guide you in configuring
+Emacs from the ground up.
 
+* Some people think their system is important.  We know better.
+#+BEGIN_QUOTE
+I'm going to bring my Emacs with me -- Eric Caspary
+#+END_QUOTE
+
+* Bootstrapping the system
 #+BEGIN_SRC emacs-lisp
 ;;; package --- init.el
 ;;; Commentary:
