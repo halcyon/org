@@ -31,6 +31,9 @@
 ** DONE Setup persistent nrepl history in EMACS
 
 * Backlog
+** TODO Learn to operate outshine or ditch it
+** TODO Make org2jekyll more permissive of org metadata
+** TODO Fix font face of author/date in org mode
 ** TODO FATS talk on setting up postgres in EMACS
 ** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
 ** TODO https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
@@ -100,3 +103,5 @@
 ** TODO https://github.com/rupa/z
 ** TODO https://www.bountysource.com/teams/cider
 ** TODO http://www.jorgecastro.org/2016/02/12/super-fast-local-workloads-with-juju/
+** TODO http://www.mbtest.org/
+** TODO http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/

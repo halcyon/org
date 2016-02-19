@@ -2,6 +2,7 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
 #+LAYOUT: post
+#+COMMENTS: true
 #+AUTHOR: Scott McLeod
 #+DATE: 2016-02-17 Wed 13:26
 #+TITLE: Eloquent Emacs Configuration

@@ -8,6 +8,7 @@
 #+DESCRIPTION:
 #+TAGS: resume
 #+CATEGORIES: resume
+#+PERMALINK: /resume
 
 * Scott McLeod
 ** *Senior Clojure Developer*
