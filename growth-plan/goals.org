@@ -18,6 +18,9 @@
 
 * STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]]
 * STARTED FATS talk on configuring EMACS
+* STARTED Make org2jekyll more permissive of org metadata
+* TODO Fix font face of author/date in org mode
+* DONE Configure outshine to be useful and not an obstacle
 * DONE Turn org files into slide shows
 * DONE https://github.com/clojure-emacs/clj-refactor.el
 * DONE Setup EMACS as a postgres client
@@ -26,9 +29,6 @@
 * DONE https://github.com/flycheck/flycheck
 * DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
 * DONE Setup persistent nrepl history in EMACS
-* TODO Learn to operate outshine or ditch it
-* TODO Make org2jekyll more permissive of org metadata
-* TODO Fix font face of author/date in org mode
 * TODO FATS talk on setting up postgres in EMACS
 * TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
 * TODO https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html

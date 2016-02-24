@@ -9,7 +9,7 @@
 #+DESCRIPTION: A guide to configuring Emacs
 #+TAGS: emacs
 #+CATEGORIES: emacs
-#+COMMENTS: true
+#+COMMENTS: false
 
 * Why do I need a guide to configure Emacs?
 Drawing on its Lisp heritage, the Emacs community rapidly meets the
