@@ -16,11 +16,11 @@
 * Strengths
 ** Learning
 
+* TODO Fix font face of author/date in org mode
 * STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]]
 * STARTED FATS talk on configuring EMACS
-* STARTED Make org2jekyll more permissive of org metadata
-* TODO Fix font face of author/date in org mode
-* DONE Configure outshine to be useful and not an obstacle
+* DONE Make org2jekyll more permissive of org metadata
+* DONE Configure [[https://github.com/tj64/outshine][outshine]] to be useful and not an obstacle
 * DONE Turn org files into slide shows
 * DONE https://github.com/clojure-emacs/clj-refactor.el
 * DONE Setup EMACS as a postgres client
@@ -31,6 +31,7 @@
 * DONE Setup persistent nrepl history in EMACS
 * TODO FATS talk on setting up postgres in EMACS
 * TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
+* TODO [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
 * TODO https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
 * TODO https://www.youtube.com/watch?v=0SARbwvhupQw
 * TODO http://orgmode.org/manual/Fast-access-to-TODO-states.html#Fast-access-to-TODO-states
