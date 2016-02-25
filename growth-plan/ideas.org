@@ -8,6 +8,9 @@
 - http://juanreyero.com/
 - http://endlessparentheses.com/
 - http://emacslife.com/
+- http://ergoemacs.org/emacs/blog.html
+- http://ergoemacs.org/emacs/emacs.html
+- http://ergoemacs.org/emacs/elisp.html
 - https://lfender6445.github.io
 - https://www.thoughtworks.com/radar
 * Shopping
