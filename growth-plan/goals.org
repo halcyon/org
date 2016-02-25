@@ -17,6 +17,7 @@
 ** Learning
 
 * TODO Fix font face of author/date in org mode
+* TODO Setup CI for org2jekyll with travis
 * STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]]
 * STARTED FATS talk on configuring EMACS
 * DONE Make org2jekyll more permissive of org metadata
