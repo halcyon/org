@@ -20,7 +20,7 @@
 ** uncommit = reset --soft HEAD^
 ** 4 points of contact
 * STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
-* TODO presentations should go on slides.zeddworfks.com
+* TODO presentations should go on slides.zeddworks.com
 * TODO fix cl-lib namespace issue for org-reveal
 * STARTED FATS talk on configuring Emacs
 * TODO FATS talk on docker with xhyve
