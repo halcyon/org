@@ -39,6 +39,30 @@
 - LXD
 
 ** Emacs
+*** A Little History
+ [[../img/norris/3-missed-calls.jpg]]
+
+*** It's never too late to get started.
+ [[../img/norris/beard-at-18.jpg]]
+*** Don't be afraid
+ [[../img/norris/chuck-norris-north-korea.jpg]]
+*** Wimpy Editors
+    If you are using Pico/TextEdit/Notepad then you need to read Steve
+    Yegge's post on [[http://steve-yegge.blogspot.com/2008/09/programmings-dirtiest-little-secret.html][Programming's Dirtiest Little Secret]]
+
+[[../img/xkcd/real_programmers.png]]
+
+- Replace 2 finger typist with "with wimpy editors"
+- Whenever I'm confronted with several choices, especially if they are
+  relatively low cost, I choose them all.
+- My wife has learned that sending me to the store can be risky
+  business.  I'm likely to return with 4 different brands of mustard.
+
+[[../img/buy-all-the-cheeses.jpg]]
+
+- "Let's do this for science!"  --Chris Bui
+
+[[../img/simpsons/up-all-night-eating-cheese.jpg]]
 - Cider
 - Orders of magnitude productivity boosts
 

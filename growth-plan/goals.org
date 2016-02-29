@@ -15,17 +15,27 @@
 
 * Strengths
 ** Learning
-* TODO Setup CI for org2jekyll with travis
-* STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]]
-* STARTED FATS talk on configuring EMACS
-* DONE Fix font face of author/date in org mode to something readable
-* DONE Make org2jekyll more permissive of org metadata
+* Reminders
+** unstage = reset HEAD
+** uncommit = reset --soft HEAD^
+** 4 points of contact
+* STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
+* TODO presentations should go on slides.zeddworfks.com
+* TODO fix cl-lib namespace issue for org-reveal
+* STARTED FATS talk on configuring Emacs
+* TODO FATS talk on docker with xhyve
+* TODO FATS talk on flycheck-clojure
+* TODO FATS talk on using EMACS as a postgres client
+* DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
+* DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR]]
+* DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR]]
+* DONE [[https://github.com/halcyon/.emacs.d/blob/master/init.el#L184-L185][Fix foreground color of author/date in org mode to something readable]]
+* DONE [[https://github.com/halcyon/org2jekyll/tree/permissive-frontmatter][Make org2jekyll allow all jekyll keywords]]
 * DONE Configure [[https://github.com/tj64/outshine][outshine]] to be useful and not an obstacle
 * DONE Turn org files into slide shows
 * DONE https://github.com/clojure-emacs/clj-refactor.el
 * DONE Setup EMACS as a postgres client
 * DONE [[https://allysonjulian.com/setting-up-docker-with-xhyve/][Setting up docker with xhyve (OS X virtualization)]]
-* DONE [[https://github.com/clojure-emacs/squiggly-clojure][Flycheck Clojure]]
 * DONE https://github.com/flycheck/flycheck
 * DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
 * DONE Setup persistent nrepl history in EMACS
