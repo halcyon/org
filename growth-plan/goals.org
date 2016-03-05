@@ -26,6 +26,7 @@
 * TODO FATS talk on docker with xhyve
 * TODO FATS talk on flycheck-clojure
 * TODO FATS talk on using EMACS as a postgres client
+* DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
 * DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
 * DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR]]
 * DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR]]
@@ -108,4 +109,5 @@
 * HOLD https://www.bountysource.com/teams/cider
 * HOLD http://www.jorgecastro.org/2016/02/12/super-fast-local-workloads-with-juju/
 * HOLD http://www.mbtest.org/
-* HOLD http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
+* TODO http://beautifulracket.com/first-lang.html
+* TODO https://jwiegley.github.io/git-from-the-bottom-up/

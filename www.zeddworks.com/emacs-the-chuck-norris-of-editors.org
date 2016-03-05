@@ -1,0 +1,43 @@
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t reveal_mathjax:t
+#+LAYOUT: post
+#+AUTHOR: Scott McLeod
+#+DATE: 2016-02-29 Mon 16:06
+#+TITLE: Emacs
+#+EMAIL: @deepresolve
+#+DESCRIPTION: The Chuck Norris of Editors
+#+TAGS: emacs
+#+CATEGORIES: emacs
+#+REVEAL_THEME: night
+#+REVEAL_TRANS: linear
+
+
+* A LISP environment
+#+BEGIN_NOTES
+This is the beginning of the end
+#+END_NOTES
+* Simple to extend
+#+BEGIN_NOTES
+Extending it is easy
+#+END_NOTES
+* Vibrant community
+#+BEGIN_NOTES
+Community is pretty good
+#+END_NOTES
+
+* To be or not to be Modal?
+#+BEGIN_NOTES
+Magit is freaking awesome.  For those who like vim, you'll like the
+speed boost you get with Magit.
+#+END_NOTES
+* Asynchronous
+* This dog can learn new tricks
+#+ATTR_REVEAL: :frag (t)
+- I appear.
+- I appear.
+- I appear.
+
+#+BEGIN_NOTES
+Did the appearance notes show up in this fragment slide?
+#+END_NOTES

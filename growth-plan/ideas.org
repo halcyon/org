@@ -64,6 +64,12 @@
 
 [[../img/simpsons/up-all-night-eating-cheese.jpg]]
 - Cider
+*** Magit
+- I'm a command line guy
+- I don't find much value in hunting through menus with a mouse to try
+  and duplicate what I could do from the CLI with a reverse search or
+  machine-gun style typing
+
 - Orders of magnitude productivity boosts
 
 ** Org Mode
