@@ -112,3 +112,4 @@
 * TODO http://beautifulracket.com/first-lang.html
 * TODO https://jwiegley.github.io/git-from-the-bottom-up/
 * TODO http://practicaltypography.com/equity.html
+* TODO http://www.lispcast.com/clj-refactor
