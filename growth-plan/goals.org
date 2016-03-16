@@ -40,6 +40,11 @@
 - Wide L: Full contact through ball
 - Wide R: Contact in front
 
+*** DNO footwork
+- Defense: Open stance, highest net clearance - 2-5 ft or more over net, Always cross court
+- Neutral: Semi open stance - Middle clearance - 5-10 ft over net, Always cross court
+- Offense: Closed stance - Lowest clearance - 10 ft or more over net, Down the line?
+
 * Todo List [14%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
