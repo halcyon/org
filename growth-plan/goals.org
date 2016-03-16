@@ -28,13 +28,7 @@
 - Respectfulness
 - Toughness
 
-*** 4 Errors
-- Net
-- Long
-- Wide L
-- Wide R
-
-*** How to prevent
+*** 4 errors and how to prevent them
 - Net: Hand must be under ball, and push up and forward
 - Long: Close racket face
 - Wide L: Full contact through ball
