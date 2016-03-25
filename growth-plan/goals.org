@@ -1,4 +1,5 @@
 * Short Term Goal 1 - Technical
+** TODO An Introduction To Functional Programming Through Lambda Calculus
 ** STARTED [[http://xuanji.appspot.com/isicp/lambda.html][Lambda Calculus]]
 
 * Short Term Goal 2 - Non-Technical
@@ -95,6 +96,7 @@
 ** TODO [[https://github.com/awkay/om-tutorial][Learn Om Next using Dev Cards]]
 ** TODO [[https://github.com/Day8/re-frame][Re-frame]]
 ** TODO The Little Schemer
+** TODO [[https://braydie.gitbooks.io/how-to-be-a-programmer/content/en/index.html][How to be a Programmer]]
 ** TODO https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure
 ** TODO http://www.4clojure.com
 ** TODO http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
