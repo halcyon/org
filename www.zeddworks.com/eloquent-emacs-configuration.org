@@ -86,30 +86,30 @@ advice and the paradox of choice.
 * ELPA
 
 * Marmalade
-#BEGIN_QUOTE
+#+BEGIN_QUOTE
 In marmalade, packages are manually submitted by authors. They need to
-be built by the developers and then uploaded to the sight [sic].
-#END_QUOTE
+be built by the developers and then uploaded to the site.
+#+END_QUOTE
 
 * MELPA
-#BEGIN_QUOTE
+#+BEGIN_QUOTE
 In MELPA, packages are automatically built by our server. The recipes
 must be uploaded/submitted by someone but if there is no major change
-to repository structure then the recipe doesn't need to be update
-[sic] and packages are automatically updated when the package author
-pushes new code to their repository. It was built because I wanted to
-use the versions of packages that were in the VCS but I didn't want to
-use submodules or have to worry about VCS systems like mercurial, svn,
+to repository structure then the recipe doesn't need to be updated and
+packages are automatically updated when the package author pushes new
+code to their repository. It was built because I wanted to use the
+versions of packages that were in the VCS but I didn't want to use
+submodules or have to worry about VCS systems like mercurial, svn,
 git, and bazaar.
-#END_QUOTE
+#+END_QUOTE
 
 - Server Side homebrew
 
 * package-list-packages
 * package-install
-#+BEGIN_SRC emacs-lisp
+#+BEGIN_SRC elisp
 ; list the packages you want
-(setq package-list '(package1 package2))
+(setq package-list '(package1 package2 package3))
 
 ; list the repositories containing them
 (setq package-archives '(("elpa" . "http://tromey.com/elpa/")
@@ -147,20 +147,39 @@ bits of elisp are not available in a package archive.  Bits of Elisp
 are on the [[https://www.emacswiki.org][Emacs Wiki]], and various revision management systems.  Most
 Elisp written today is published first on Github and then to MELPA.
 
-El-package provides a layer of abstraction above all these different
-sources of Elisp.  You might even say it provides a plethora of methods for
+El-Get provides a layer of abstraction above all these different
+sources of Elisp.  You might say it provides a plethora of methods for
 fetching Elisp code.
 #+END_NOTES
-#+REVEAL: split
 
 * use-package
+#+ATTR_REVEAL: :frag (t)
+- Macro written by John Wiegley
+- Provides for organization
+- Each package and its configuration can be self contained
+- Helps us remember which settings are affiliated with each package
+
+* outshine
+#+ATTR_REVEAL: :frag (t)
+- When combined with use-package gives us an easy way to fold our
+  config for easy viewing and maintenance
 
 * quelpa
-
-** quelpa-use-package
+#+ATTR_REVEAL: :frag (t)
+- Client side MELPA, i.e. the homebrew of emacs
+- Creates and builds packages locally from any source
+- Uses same recipes as MELPA for formulas
+#+ATTR_REVEAL: :frag t
+#+BEGIN_SRC elisp
+(color-theme :url "http://bzr.savannah.gnu.org/r/color-theme/trunk"
+             :fetcher bzr
+             :files ("*.el" "themes"))
+#+END_SRC
+* quelpa-use-package
+- Allows us to integrate quelpa and use-package
 
 * Bootstrapping the system
-#+BEGIN_SRC emacs-lisp
+#+BEGIN_SRC elisp
 ;;; package --- init.el
 ;;; Commentary:
 ;;; Code:
@@ -190,3 +209,6 @@ fetching Elisp code.
 I'm going to bring my Emacs with me.
 #+END_QUOTE
 ―Eric Caspary
+
+* Emacs Startup Time
+C-u 0 M-x byte-recompile-directory
