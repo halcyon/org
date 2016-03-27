@@ -48,7 +48,6 @@
 ** TODO presentations should go on slides.zeddworks.com
 ** TODO fix cl-lib namespace issue for org-reveal
 ** STARTED FATS talk on configuring Emacs
-** TODO FATS talk on docker with xhyve
 ** TODO FATS talk on flycheck-clojure
 ** TODO FATS talk on using EMACS as a postgres client
 ** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
@@ -65,7 +64,6 @@
 ** DONE https://github.com/flycheck/flycheck
 ** DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
 ** DONE Setup persistent nrepl history in EMACS
-** TODO FATS talk on setting up postgres in EMACS
 ** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
 ** TODO [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
 ** TODO https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
