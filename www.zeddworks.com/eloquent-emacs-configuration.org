@@ -153,13 +153,20 @@ fetching Elisp code.
 #+END_NOTES
 
 * use-package
+#+BEGIN_NOTES
+It can be difficult to identify settings associated with packages no longer in use.
+#+END_NOTES
 #+ATTR_REVEAL: :frag (t)
 - Macro written by John Wiegley
 - Provides for organization
 - Each package and its configuration can be self contained
-- Helps us remember which settings are affiliated with each package
 
 * outshine
+#+BEGIN_NOTES
+Inspired by org-mode, outshine brings org-mode like outlining and
+navigation to non-org files.  Outshine is a minor mode we can use
+while reading and editing init.el.
+#+END_NOTES
 #+ATTR_REVEAL: :frag (t)
 - When combined with use-package gives us an easy way to fold our
   config for easy viewing and maintenance
