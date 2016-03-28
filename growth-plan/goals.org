@@ -40,6 +40,8 @@
 - Neutral: Semi open stance - Middle clearance - 5-10 ft over net, Always cross court
 - Offense: Closed stance - Lowest clearance - 10 ft or more over net, Down the line?
 
+*** CLJ
+- doto
 * Todo List [15%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
