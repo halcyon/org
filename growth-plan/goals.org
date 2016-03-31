@@ -42,17 +42,18 @@
 
 *** CLJ
 - doto
-* Todo List [14%]
+* Todo List [17%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** STARTED [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
-** TODO presentations should go on slides.zeddworks.com
-** TODO fix cl-lib namespace issue for org-reveal
 ** STARTED FATS talk on configuring Emacs
+** TODO [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
+** TODO fix cl-lib namespace issue for org-reveal
 ** TODO FATS talk on flycheck-clojure
 ** TODO FATS talk on using EMACS as a postgres client
 ** TODO FATS talk on setting up EMACS for the terminal
+** DONE [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
+** DONE presentations should go on slides.zeddworks.com
 ** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
 ** DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
 ** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR]]
