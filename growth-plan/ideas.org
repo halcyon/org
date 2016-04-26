@@ -21,6 +21,7 @@
 
 * JVM Performance monitoring and tooling blog post
 * Clojure Function of the Day blog post
+* Bicycle of The Mind
 * Tooling is Technology blog post
 - Abraham Lincoln & the Axe
 - China and the Axe
