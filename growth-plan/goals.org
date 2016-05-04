@@ -36,9 +36,9 @@
 - Wide R: Contact in front
 
 *** DNO footwork
-- Defense: Open stance, highest net clearance - 2-5 ft or more over net, Always cross court
+- Defense: Open stance, highest net clearance - 10 ft or more over net, Always cross court
 - Neutral: Semi open stance - Middle clearance - 5-10 ft over net, Always cross court
-- Offense: Closed stance - Lowest clearance - 10 ft or more over net, Down the line?
+- Offense: Closed stance - Lowest clearance - 2-5 ft or more over net, Down the line?
 
 *** CLJ
 - doto
@@ -46,6 +46,7 @@
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
+** Use diminish on several minor modes - flycheck etc
 ** STARTED FATS talk on configuring Emacs
 ** TODO [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
 ** TODO fix cl-lib namespace issue for org-reveal
