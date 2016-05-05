@@ -42,11 +42,12 @@
 
 *** CLJ
 - doto
-* Todo List [17%]
+* Todo List [16%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** Use diminish on several minor modes - flycheck etc
+** TODO Add unit tests to fundamentals
+** TODO Use diminish on several minor modes - flycheck etc
 ** STARTED FATS talk on configuring Emacs
 ** TODO [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
 ** TODO fix cl-lib namespace issue for org-reveal
