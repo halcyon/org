@@ -218,5 +218,7 @@ I'm going to bring my Emacs with me.
 #+END_QUOTE
 ―Eric Caspary
 
+* The enjoyment of one's tools is an essential ingredient of successful work. -Donald E. Knuth
+
 * Emacs Startup Time
 C-u 0 M-x byte-recompile-directory
