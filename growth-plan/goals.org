@@ -35,6 +35,13 @@
 - Wide L: Full contact through ball
 - Wide R: Contact in front
 
+*** Serve
+- Toss ball high
+- Raise left hand and measure ball while hitting
+- Hit up on ball
+- Pronate wrist
+- Balance, minimize motion in feet
+
 *** DNO footwork
 - Defense: Open stance, highest net clearance - 10 ft or more over net, Always cross court
 - Neutral: Semi open stance - Middle clearance - 5-10 ft over net, Always cross court
@@ -42,18 +49,20 @@
 
 *** CLJ
 - doto
-* Todo List [16%]
+* Todo List [18%]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** TODO Add unit tests to fundamentals
-** TODO Use diminish on several minor modes - flycheck etc
+** TODO [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
+** TODO http://mishadoff.com/blog/clojure-design-patterns/
 ** STARTED FATS talk on configuring Emacs
 ** TODO [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
 ** TODO fix cl-lib namespace issue for org-reveal
 ** TODO FATS talk on flycheck-clojure
 ** TODO FATS talk on using EMACS as a postgres client
 ** TODO FATS talk on setting up EMACS for the terminal
+** DONE Use diminish on several minor modes - flycheck etc
+** DONE Add unit tests to fundamentals
 ** DONE [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
 ** DONE presentations should go on slides.zeddworks.com
 ** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
@@ -82,7 +91,6 @@
 ** TODO https://github.com/ardumont/org2jekyll
 ** TODO [[http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1][SICP - 1.1 Sections 1-8 The Elements of Programming]]
 ** TODO http://www.sicpdistilled.com/
-** TODO http://mishadoff.com/blog/clojure-design-patterns/
 ** TODO [[http://gigamonkeys.com/book/][Practical Common Lisp]]
 ** TODO http://acaird.github.io/computers/2013/05/24/blogging-with-org-and-git/
 ** TODO http://emacs-doctor.com/blogging-from-emacs.html
