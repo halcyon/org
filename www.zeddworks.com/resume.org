@@ -5,7 +5,7 @@
 #+AUTHOR: Scott McLeod
 #+DATE: 2016-02-18 Thu 10:44
 #+TITLE: Resume
-#+DESCRIPTION:
+#+DESCRIPTION: Resume
 #+TAGS: resume
 #+CATEGORIES: resume
 #+PERMALINK: /resume
