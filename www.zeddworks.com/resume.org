@@ -59,7 +59,14 @@ Ansible, Chef, Puppet
 Pentaho Kettle, Informatica
 
 * Employment History
-** August 2014 - Present Connolly iHealth Technologies, Sandy Springs, GA
+** October 2015 - Present RentPath, LLC Atlanta, GA
+*** *Senior Clojure Developer*
+- Daily contributor to Clojure team projects
+- Generative testing
+- Integration tests
+- Refactoring & Code Reviews
+
+** August 2014 - October 2015 Connolly iHealth Technologies, Sandy Springs, GA
 *** *Senior Technical Architect*
 - Secured REST endpoints of microservice with openid-connect
 - Built unit tests for microservice endpoints with MockMvc
