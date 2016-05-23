@@ -49,18 +49,19 @@
 
 *** CLJ
 - doto
-* Todo List [18%]
+* Todo List [20/99]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
 ** TODO [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
 ** TODO http://mishadoff.com/blog/clojure-design-patterns/
 ** STARTED FATS talk on configuring Emacs
-** TODO [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
 ** TODO fix cl-lib namespace issue for org-reveal
 ** TODO FATS talk on flycheck-clojure
 ** TODO FATS talk on using EMACS as a postgres client
 ** TODO FATS talk on setting up EMACS for the terminal
+** DONE [[https://www.hackerrank.com/domains/tutorials/30-days-of-code][30 Days of Code - Java based HackerRank course]]
+** DONE [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
 ** DONE Use diminish on several minor modes - flycheck etc
 ** DONE Add unit tests to fundamentals
 ** DONE [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]

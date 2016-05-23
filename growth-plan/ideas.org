@@ -76,3 +76,5 @@
 ** Leadership
 - Timing is everything
 - Even when the timing is off, a seed has been planted
+
+- Programming is not about typing... it's about thinking. -Rich Hickey
