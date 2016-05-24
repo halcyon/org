@@ -54,7 +54,9 @@
 :COOKIE_DATA: todo recursive
 :END:
 ** TODO [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
+** TODO [[https://class.coursera.org/progfun-002/lecture][Coursera - Functional Programming Principles in Scala]]
 ** TODO http://mishadoff.com/blog/clojure-design-patterns/
+** TODO [[http://www.alchemist-elixir.org/][Elixir Tooling Integration Into Emacs]]
 ** STARTED FATS talk on configuring Emacs
 ** TODO fix cl-lib namespace issue for org-reveal
 ** TODO FATS talk on flycheck-clojure
