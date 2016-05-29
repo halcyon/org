@@ -53,9 +53,11 @@
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** STARTED Learn you a Haskell for great good
+** STARTED [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
 ** STARTED [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
 ** TODO http://mishadoff.com/blog/clojure-design-patterns/
+** TODO [[http://learnyouanelm.github.io/][Learn You an Elm]]
+** TODO [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
 ** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
 ** TODO http://www.parens-of-the-dead.com
 ** STARTED FATS talk on configuring Emacs
@@ -127,7 +129,6 @@
 ** TODO http://nealford.com/functionalthinking.html
 ** TODO https://github.com/evancz/elm-architecture-tutorial
 ** TODO Devcards http://rigsomelight.com/devcards/#!/devdemos.core
-** TODO Learn you some Erlang for great good
 ** TODO Read Paul Graham Essay
 ** TODO [[http://www.ibm.com/developerworks/java/library/j-ft1/index.html][Functional thinking: Thinking functionally, Part 1]]
 ** TODO [[http://www.ibm.com/developerworks/java/library/j-ft2/index.html][Functional thinking: Thinking functionally, Part 2]]
