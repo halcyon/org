@@ -49,7 +49,7 @@
 
 *** CLJ
 - doto
-* Todo List [20/101]
+* Todo List [20/105]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -60,6 +60,7 @@
 ** TODO [[http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266][Lisp: Classes in the Metaobject Protocol]]
 ** TODO [[http://learnyouanelm.github.io/][Learn You an Elm]]
 ** TODO [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
+** TODO [[https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n][Functional Programming with Erlang]]
 ** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
 ** TODO http://www.parens-of-the-dead.com
 ** STARTED FATS talk on configuring Emacs
