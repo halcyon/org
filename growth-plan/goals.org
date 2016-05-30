@@ -57,6 +57,7 @@
 ** STARTED [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
 ** TODO Venkat's erlang talk
 ** TODO http://mishadoff.com/blog/clojure-design-patterns/
+** TODO [[http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266][Lisp: Classes in the Metaobject Protocol]]
 ** TODO [[http://learnyouanelm.github.io/][Learn You an Elm]]
 ** TODO [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
 ** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
