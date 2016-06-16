@@ -220,5 +220,28 @@ I'm going to bring my Emacs with me.
 
 * The enjoyment of one's tools is an essential ingredient of successful work. -Donald E. Knuth
 
+- One of the enjoyable parts of driving, is the directness of the
+  connection between the driver and the vehicle.  The vehicle becomes
+  an extension of the driver.
+
+- Things that get in the way of that relationship impede the driving
+  process.  The more complex the interaction between the driver and
+  the vehicle, the less direct this connection becomes.
+
+- Lets not confuse this notion of simple interactions with unfamiliar
+  ones.  A keyboard combination or driving a stick shift vehicle
+  requires the development of skill.  But it's important to not
+  confuse unfamiliarity with the value of a direct interface.
+
+- The goal is to give the brain the most direct connection possible to
+  the code.
+
+- Often times I hear people say, "but I don't want to have to worry
+  about the editor, I just want to worry about the code".  I
+  sympathize, because the goal is the same - but the terrible irony is
+  that the less one has mastered their code manipulation tool, the
+  less they'll be able to focus on their code.
+
+
 * Emacs Startup Time
 C-u 0 M-x byte-recompile-directory
