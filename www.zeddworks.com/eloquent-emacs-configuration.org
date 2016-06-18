@@ -262,3 +262,11 @@ d))))) (merge 'fvector (remove-if-not (inside-p obj-b)
 * My first exposure to Emacs
 
 * My first exposure to Clojure
+
+* Stop using the Mac special keys
+- The mac keyboard is kind of ingenious
+- The trackpad is riddled with pain
+- The GUI version does crazy stuff
+- Cross platform is your friend
+- Learn emacs, not Mac
+- tmate is your mate
