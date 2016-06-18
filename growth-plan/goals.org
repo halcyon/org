@@ -52,10 +52,11 @@
 ** Under and up
 ** Right to left motion
 ** Pronation drill at fence
-* Todo List [21/106]
+* Todo List [21/108]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
+** STARTED Pare down emacs init.el.  Remove all the stuff you will never use.  Terminal for instance.
 ** STARTED [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
 ** HOLD Tasty Trade
 ** HOLD [[http://exercism.io/][Setup exercism.io to practice Haskell exercises]]
