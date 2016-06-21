@@ -40,8 +40,8 @@ Sometimes the differentiators can be difficult to sort out.
 ** [[https://github.com/bbatsov/prelude][Emacs Prelude]]
 - Written by our favorite Bulgarian, Bozhidar Batsov
 #+BEGIN_NOTES
-You might remember Bozhidar from such projects as [[https://github.com/bbatsov/rubocop][Rubocop]], [[https://github.com/clojure-emacs/cider][Cider]], and [[https://github.com/bbatsov/clojure-style-guide][The
-Clojure Style Guide]].
+You might remember Bozhidar from such projects as [[https://github.com/bbatsov/rubocop][Rubocop]], [[https://github.com/clojure-emacs/cider][Cider]], and
+[[https://github.com/bbatsov/clojure-style-guide][The Clojure Style Guide]].
 #+END_NOTES
 #+ATTR_REVEAL: :frag t
 [[../img/simpsons/troy-mcclure.jpg]]
@@ -102,7 +102,6 @@ versions of packages that were in the VCS but I didn't want to use
 submodules or have to worry about VCS systems like mercurial, svn,
 git, and bazaar.
 #+END_QUOTE
-
 - Server Side homebrew
 
 * package-list-packages
@@ -115,7 +114,6 @@ git, and bazaar.
 (setq package-archives '(("elpa" . "http://tromey.com/elpa/")
                          ("gnu" . "http://elpa.gnu.org/packages/")
                          ("marmalade" . "http://marmalade-repo.org/packages/")))
-
 ; activate all the packages (in particular autoloads)
 (package-initialize)
 
@@ -264,9 +262,42 @@ d))))) (merge 'fvector (remove-if-not (inside-p obj-b)
 * My first exposure to Clojure
 
 * Stop using the Mac special keys
-- The mac keyboard is kind of ingenious
+- The mac keyboard is ingenious
+#+BEGIN_NOTES
+They've packed a lot of functionality into the keyboard by drying it
+up. Look at how they have eliminated the need for a separate
+page-down, page-up, home and end keys. It's full of tricks. Tricks
+that will pretty much only work on the Mac platform. Which is the only
+platform I'll use.. for now. In the meantime, I'm chock full of bad
+habits. Instead of using the emacs commands for paging up and down,
+I'm using fn and an arrow. This is inefficient, and holds me back from
+realizing my greater emacs self.
+#+END_NOTES
+#+BEGIN_NOTES
+And that's the rub. One day I'm likely to go back to a linux system,
+just as soon as the fonts are as polished and pretty - and all the
+kinks are worked out of basic functions like actually sleeping when I
+close the lid, and gracefully handling connecting to various displays
+without me having to exert effort.
+#+END_NOTES
 - The trackpad is riddled with pain
 - The GUI version does crazy stuff
 - Cross platform is your friend
 - Learn emacs, not Mac
 - tmate is your mate
+
+* Escape keys
+** Mac
+*** iterm2
+
+#+BEGIN_SRC elisp
+  (define-key key-translation-map (kbd "<backtab>") (kbd "<S-tab>"))
+  (define-key key-translation-map (kbd "\e[9;3") (kbd "<M-tab>"))
+  (define-key key-translation-map (kbd "\e[65;6") (kbd "C-S-a"))
+  (define-key key-translation-map (kbd "\e[68;6") (kbd "C-S-d"))
+  (define-key key-translation-map (kbd "\e[86;8") (kbd "C-M-S-v"))
+#+END_SRC
+** Linux
+- Coming soon
+** Windows
+- Here's a quarter kid, buy yourself a real computer
