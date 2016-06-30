@@ -1,3 +1,7 @@
+* Write google voice for emacs in elisp
+* Write hourly weather report for emacs in elisp
+
+
 - https://www.packtpub.com/packt/offers/free-learning
 
 * Blogs
@@ -19,9 +23,8 @@
 * RP
 - [[https://docs.google.com/document/d/1fh78pWPJtFGXlZkiJMbaeEzFyeAh9kF8_f44iLvJddg/edit#heading%3Dh.wqj6qmdqtdgy][Template for Future Clojure Projects]]
 
-* Write google voice for emacs in elisp
-* JVM Performance monitoring and tooling blog post
 * Clojure Function of the Day blog post
+* JVM Performance monitoring and tooling blog post
 * Bicycle of The Mind
 * Tooling is Technology blog post
 - Abraham Lincoln & the Axe
