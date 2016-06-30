@@ -19,6 +19,7 @@
 * RP
 - [[https://docs.google.com/document/d/1fh78pWPJtFGXlZkiJMbaeEzFyeAh9kF8_f44iLvJddg/edit#heading%3Dh.wqj6qmdqtdgy][Template for Future Clojure Projects]]
 
+* Write google voice for emacs in elisp
 * JVM Performance monitoring and tooling blog post
 * Clojure Function of the Day blog post
 * Bicycle of The Mind
