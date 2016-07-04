@@ -52,6 +52,7 @@
 ** Under and up
 ** Right to left motion
 ** Pronation drill at fence
+** Always turn body sideways to hit an overhead (shoulder turn just like on the serve)
 * Todo List [21/109]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
