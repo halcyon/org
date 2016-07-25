@@ -110,7 +110,9 @@
 ** DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
 ** DONE Setup persistent nrepl history in EMACS
 ** HOLD [[http://www.alchemist-elixir.org/][Alchemist - Elixir Integration for Emacs]]
-** TODO [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
+** Git
+*** TODO [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
+*** TODO https://jwiegley.github.io/git-from-the-bottom-up/
 ** TODO [[https://class.coursera.org/progfun-002/lecture][Coursera - Functional Programming Principles in Scala]]
 ** TODO https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
 ** TODO https://www.youtube.com/watch?v=0SARbwvhupQw
@@ -147,31 +149,31 @@
 ** TODO https://github.com/cloojure/tupelo
 ** TODO http://clojure-cookbook.com/
 ** TODO http://matthiasnehlsen.com/blog/2014/10/15/talk-transcripts/
-** TODO http://nealford.com/functionalthinking.html
 ** TODO https://github.com/evancz/elm-architecture-tutorial
 ** TODO Devcards http://rigsomelight.com/devcards/#!/devdemos.core
 ** TODO Read Paul Graham Essay
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft1/index.html][Functional thinking: Thinking functionally, Part 1]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft2/index.html][Functional thinking: Thinking functionally, Part 2]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft3/index.html][Functional thinking: Thinking functionally, Part 3]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft4/index.html][Functional thinking: Immutability]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft5/index.html][Functional thinking: Coupling and composition, Part 1]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft6/index.html][Functional thinking: Coupling and composition, Part 2]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft7/index.html][Functional thinking: Functional features in Groovy, Part 1]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft8/index.html][Functional thinking: Functional features in Groovy, Part 2]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft9/index.html][Functional thinking: Functional features in Groovy, Part 3]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft10/index.html][Functional thinking: Functional design patterns, Part 1]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft11/index.html][Functional thinking: Functional design patterns, Part 2]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft12/index.html][Functional thinking: Functional design patterns, Part 3]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft13/index.html][Functional thinking: Functional error handling with Either and Option]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft14/index.html][Functional thinking: Either trees and pattern matching]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft15/index.html][Functional thinking: Rethinking dispatch]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft16/index.html][Functional thinking: Tons of transformations]]
-** TODO [[http://www.ibm.com/developerworks/java/library/j-ft17/index.html][Functional thinking: Transformations and optimizations]]
+** Functional Thinking - Neal Ford
+*** TODO http://nealford.com/functionalthinking.html
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft1/index.html][Functional thinking: Thinking functionally, Part 1]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft2/index.html][Functional thinking: Thinking functionally, Part 2]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft3/index.html][Functional thinking: Thinking functionally, Part 3]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft4/index.html][Functional thinking: Immutability]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft5/index.html][Functional thinking: Coupling and composition, Part 1]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft6/index.html][Functional thinking: Coupling and composition, Part 2]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft7/index.html][Functional thinking: Functional features in Groovy, Part 1]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft8/index.html][Functional thinking: Functional features in Groovy, Part 2]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft9/index.html][Functional thinking: Functional features in Groovy, Part 3]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft10/index.html][Functional thinking: Functional design patterns, Part 1]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft11/index.html][Functional thinking: Functional design patterns, Part 2]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft12/index.html][Functional thinking: Functional design patterns, Part 3]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft13/index.html][Functional thinking: Functional error handling with Either and Option]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft14/index.html][Functional thinking: Either trees and pattern matching]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft15/index.html][Functional thinking: Rethinking dispatch]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft16/index.html][Functional thinking: Tons of transformations]]
+*** TODO [[http://www.ibm.com/developerworks/java/library/j-ft17/index.html][Functional thinking: Transformations and optimizations]]
 ** HOLD https://github.com/rupa/z
 ** HOLD https://www.bountysource.com/teams/cider
 ** HOLD http://www.jorgecastro.org/2016/02/12/super-fast-local-workloads-with-juju/
 ** HOLD http://www.mbtest.org/
 ** TODO http://beautifulracket.com/first-lang.html
-** TODO https://jwiegley.github.io/git-from-the-bottom-up/
 ** TODO http://practicaltypography.com/equity.html
