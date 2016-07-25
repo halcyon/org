@@ -90,10 +90,10 @@
 ** DONE presentations should go on slides.zeddworks.com
 ** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
 ** DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
-** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR]]
-** DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR]]
+** DONE Refactor org2jekyll to accept any front matter [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
+** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
+** DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
 ** DONE [[https://github.com/halcyon/.emacs.d/blob/master/init.el#L184-L185][Fix foreground color of author/date in org mode to something readable]]
-** DONE [[https://github.com/halcyon/org2jekyll/tree/permissive-frontmatter][Make org2jekyll allow all jekyll keywords]]
 ** DONE Configure [[https://github.com/tj64/outshine][outshine]] to be useful and not an obstacle
 ** DONE Turn org files into slide shows
 ** DONE https://github.com/clojure-emacs/clj-refactor.el
