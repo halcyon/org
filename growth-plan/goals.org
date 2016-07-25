@@ -17,9 +17,11 @@
 * Strengths
 ** Learning
 * Reminders
-** unstage = reset HEAD
-** uncommit = reset --soft HEAD^
-** 4 points of contact
+** Git
+*** unstage = reset HEAD
+*** uncommit = reset --soft HEAD^
+** Tennis
+*** 4 points of contact
 *** Seven attributes that lead to success
 - Confidence
 - Determination
@@ -47,39 +49,47 @@
 - Neutral: Semi open stance - Middle clearance - 5-10 ft over net, Always cross court
 - Offense: Closed stance - Lowest clearance - 2-5 ft or more over net, Down the line?
 
-*** CLJ
+** Clojure
+** House
+*** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
 - doto
 ** Under and up
 ** Right to left motion
 ** Pronation drill at fence
 ** Always turn body sideways to hit an overhead (shoulder turn just like on the serve)
-* Todo List [23/112]
+* Todo List [24/112]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** TODO [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
+** STARTED [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
+** TODO http://www.lispcast.com/clj-refactor
 ** TODO [[https://juxt.pro/blog/posts/yada-1.html][Yada Part 1]]
 ** TODO [[https://juxt.pro/blog/posts/yada-2.html][Yada Part 2]]
-** STARTED [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
-** HOLD Tasty Trade
+** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
+** STARTED http://www.parens-of-the-dead.com
 ** HOLD [[http://exercism.io/][Setup exercism.io to practice Haskell exercises]]
 ** HOLD [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
 ** TODO http://mishadoff.com/blog/clojure-design-patterns/
 ** TODO [[http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266][Lisp: Classes in the Metaobject Protocol]]
 ** TODO [[http://learnyouanelm.github.io/][Learn You an Elm]]
 ** TODO [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
-** TODO [[https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n][Functional Programming with Erlang]]
+** TODO [[https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n][University of Kent MOOC - Functional Programming with Erlang]]
 ** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
-** TODO http://www.parens-of-the-dead.com
-** STARTED FATS talk on configuring Emacs
-** TODO fix cl-lib namespace issue for org-reveal
-** TODO [[http://www.alchemist-elixir.org/][Elixir Tooling Integration Into Emacs]]
+** HOLD FATS talk on configuring Emacs
 ** TODO FATS talk on flycheck-clojure
 ** TODO FATS talk on using EMACS as a postgres client
 ** TODO FATS talk on setting up EMACS for the terminal
-** TODO https://pragprog.com/book/cjclojure/mastering-clojure-macros
-** TODO [[http://gigamonkeys.com/book/][Practical Common Lisp]]
-** DONE update defunkt's emacs gist documentation to use oauth tokens - [[https://github.com/defunkt/gist.el/pull/91][PR-91]]
+** HOLD https://pragprog.com/book/cjclojure/mastering-clojure-macros
+** HOLD [[http://gigamonkeys.com/book/][Practical Common Lisp]]
+** HOLD Tasty Trade
+*** Open Source Contributions
+**** TODO fix cl-lib namespace issue for org-reveal
+**** DONE update defunkt's emacs gist documentation to use oauth tokens - [[https://github.com/defunkt/gist.el/pull/91][PR-91]]
+**** DONE Refactor org2jekyll to accept any front matter [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
+**** DONE fix java 8 doc lookups in ensime-server - [[https://github.com/ensime/ensime-server/pull/1441][PR-1441]]
+**** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
+**** DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
+** DONE [[https://github.com/Day8/re-frame][Re-frame]]
 ** DONE Pare down emacs init.el.  Remove all the stuff you will never use.
 ** DONE Venkat's erlang talk
 ** DONE [[https://www.hackerrank.com/domains/tutorials/30-days-of-code][30 Days of Code - Java based HackerRank course]]
@@ -90,9 +100,6 @@
 ** DONE presentations should go on slides.zeddworks.com
 ** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
 ** DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
-** DONE Refactor org2jekyll to accept any front matter [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
-** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
-** DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
 ** DONE [[https://github.com/halcyon/.emacs.d/blob/master/init.el#L184-L185][Fix foreground color of author/date in org mode to something readable]]
 ** DONE Configure [[https://github.com/tj64/outshine][outshine]] to be useful and not an obstacle
 ** DONE Turn org files into slide shows
@@ -102,6 +109,7 @@
 ** DONE https://github.com/flycheck/flycheck
 ** DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
 ** DONE Setup persistent nrepl history in EMACS
+** HOLD [[http://www.alchemist-elixir.org/][Alchemist - Elixir Integration for Emacs]]
 ** TODO [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
 ** TODO [[https://class.coursera.org/progfun-002/lecture][Coursera - Functional Programming Principles in Scala]]
 ** TODO https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
@@ -128,7 +136,6 @@
 ** TODO http://jonathangraham.github.io/2015/09/01/Clojure%20functions/
 ** TODO http://jonathangraham.github.io/2016/01/07/property_based_testing_clojure_functions/
 ** TODO [[https://github.com/awkay/om-tutorial][Learn Om Next using Dev Cards]]
-** TODO [[https://github.com/Day8/re-frame][Re-frame]]
 ** TODO The Little Schemer
 ** TODO [[https://braydie.gitbooks.io/how-to-be-a-programmer/content/en/index.html][How to be a Programmer]]
 ** TODO https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure
@@ -168,4 +175,3 @@
 ** TODO http://beautifulracket.com/first-lang.html
 ** TODO https://jwiegley.github.io/git-from-the-bottom-up/
 ** TODO http://practicaltypography.com/equity.html
-** TODO http://www.lispcast.com/clj-refactor
