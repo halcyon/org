@@ -3,17 +3,14 @@
 ** STARTED [[http://xuanji.appspot.com/isicp/lambda.html][Lambda Calculus]]
 
 * Short Term Goal 2 - Non-Technical
-** TODO [[http://theultimatehang.com/2012/07/portable-hammock-pipe-stand/][Build a Portable Hammock Pipe Stand]]
-
+** STARTED [[http://theultimatehang.com/2012/07/portable-hammock-pipe-stand/][Build a Portable Hammock Pipe Stand]]
+*** http://www.loopalien.com/
 * Long Term Goal 1 - Technical
 ** TODO [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]]
-
 * Long Term Goal 2 - Non-Technical
 ** TODO [[http://12factor.net/][The Twelve-Factor App]]
-
 * Opportunities
 ** Opportunity to be mentored by experts
-
 * Strengths
 ** Learning
 * Reminders
@@ -55,7 +52,6 @@
 - doto
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
-
 
 * Todo List [25/113]
 :PROPERTIES:
