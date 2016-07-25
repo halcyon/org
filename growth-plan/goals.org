@@ -21,6 +21,7 @@
 *** unstage = reset HEAD
 *** uncommit = reset --soft HEAD^
 ** Tennis
+*** Under and up
 *** 4 points of contact
 *** Seven attributes that lead to success
 - Confidence
@@ -36,27 +37,26 @@
 - Long: Close racket face
 - Wide L: Full contact through ball
 - Wide R: Contact in front
-
 *** Serve
 - Toss ball high
 - Raise left hand and measure ball while hitting
 - Hit up on ball
 - Pronate wrist
 - Balance, minimize motion in feet
-
+- Right to left motion
+- Pronation drill at fence
+*** Overhead
+- Always turn body sideways to hit an overhead (shoulder turn just like on the serve)
 *** DNO footwork
 - Defense: Open stance, highest net clearance - 10 ft or more over net, Always cross court
 - Neutral: Semi open stance - Middle clearance - 5-10 ft over net, Always cross court
 - Offense: Closed stance - Lowest clearance - 2-5 ft or more over net, Down the line?
-
 ** Clojure
+- doto
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
-- doto
-** Under and up
-** Right to left motion
-** Pronation drill at fence
-** Always turn body sideways to hit an overhead (shoulder turn just like on the serve)
+
+
 * Todo List [24/112]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
