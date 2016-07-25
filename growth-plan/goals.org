@@ -53,12 +53,14 @@
 ** Right to left motion
 ** Pronation drill at fence
 ** Always turn body sideways to hit an overhead (shoulder turn just like on the serve)
-* Todo List [21/109]
+* Todo List [22/112]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
 ** TODO update defunkt's emacs gist documentation for tokens
-** STARTED Pare down emacs init.el.  Remove all the stuff you will never use.  Terminal for instance.
+** TODO [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
+** TODO [[https://juxt.pro/blog/posts/yada-1.html][Yada Part 1]]
+** TODO [[https://juxt.pro/blog/posts/yada-2.html][Yada Part 2]]
 ** STARTED [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
 ** HOLD Tasty Trade
 ** HOLD [[http://exercism.io/][Setup exercism.io to practice Haskell exercises]]
@@ -78,6 +80,7 @@
 ** TODO FATS talk on setting up EMACS for the terminal
 ** TODO https://pragprog.com/book/cjclojure/mastering-clojure-macros
 ** TODO [[http://gigamonkeys.com/book/][Practical Common Lisp]]
+** DONE Pare down emacs init.el.  Remove all the stuff you will never use.
 ** DONE Venkat's erlang talk
 ** DONE [[https://www.hackerrank.com/domains/tutorials/30-days-of-code][30 Days of Code - Java based HackerRank course]]
 ** DONE [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
