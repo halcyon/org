@@ -61,6 +61,7 @@
 ** TODO [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-2.html][Lambda Calculus Live Tutorial with Klipse: Boolean Algebra]]
 ** TODO http://blog.klipse.tech
 ** STARTED http://www.parens-of-the-dead.com
+** TODO [[https://christopherdbui.com][cb on software]]
 ** TODO [[https://www.youtube.com/watch?v=ZQkIWWTygio][Jeanine Adkisson - Variants are Not Unions]]
 ** TODO [[http://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.ps][An Introduction to Functional Programming Through Lambda Calculus]]
 ** TODO [[http://www.macs.hw.ac.uk/~greg/books/][Greg Michaelson Books]]
