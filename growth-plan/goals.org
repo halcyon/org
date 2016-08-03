@@ -73,7 +73,7 @@
 ** TODO http://mishadoff.com/blog/clojure-design-patterns/
 ** TODO http://orgmode.org/manual/Fast-access-to-TODO-states.html#Fast-access-to-TODO-states
 ** TODO [[https://www.youtube.com/watch?v=0SARbwvhupQw][Google I/O - The Myth of the Genius Programmer]]
-** TODO https://github.com/weavejester/reloaded.repl
+** TODO https://github.com/weavejester/reloaded.repl [[https://www.reddit.com/r/Clojure/comments/4rcwyi/edge_a_complete_clojure_project_you_can_leap_from/d51kzyi]]
 ** TODO http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
 ** TODO [[http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/][This 90-Day Plan Turns Engineers into Remarkable Managers]]
 ** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
