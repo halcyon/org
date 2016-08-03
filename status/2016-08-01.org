@@ -1,0 +1,20 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-01 Mon>
+#+OPTIONS: toc:nil
+* Yesterday
+  - [X] 5% Internalized lambda calculus by doing clojure exercises
+    - [X] Learned lambda calculus notation
+    - [X] Basic Church numerals
+    - [X] Visualization of church numerals
+    - [X] Function to generate a church numeral n
+    - [X] Macro for generating church numeral n (for science)
+    - [X] Function to check for equality between church numerals
+    - [X] Church numeral deftype: learned about clojure.lang.IFn/invoke, toString, equals, and the print-method multimethod - and how they differ from their cljs counterparts
+    - [X] Successor function
+    - [X] Add function
+    - [X] Multiply function
+    - [X] Exponentiation function
+* Today
+- Meetings
+* Blockers
+- nil

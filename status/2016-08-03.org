@@ -1,0 +1,10 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-03 Wed>
+#+OPTIONS: toc:nil
+* Yesterday
+- Tooling cleanup
+- Cross-platform terminal GPG2/git/emacs-server integration
+* Today
+- Listing Service - json logging
+* Blockers
+- nil

@@ -1,0 +1,10 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-02 Tue>
+#+OPTIONS: toc:nil
+* Yesterday
+- Meetings
+* Today
+- Tooling cleanup
+- Cross-platform terminal GPG2/git/emacs-server integration
+* Blockers
+- nil
