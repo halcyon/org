@@ -1,0 +1,10 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-04 Thu>
+#+OPTIONS: toc:nil
+* Yesterday
+- Listing service JSON logging configuration
+- Documentation meeting
+* Today
+- Listing Service - json logging of response data
+* Blockers
+- nil
