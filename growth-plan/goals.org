@@ -97,6 +97,11 @@
 **** DONE fix java 8 doc lookups in ensime-server - [[https://github.com/ensime/ensime-server/pull/1441][PR-1441]]
 **** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
 **** DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
+** DONE Master building clojure transducers from other transducers
+** DONE Master building clojure transducers from reducing functions
+** DONE Master building clojure transducers from scratch
+** DONE Master clojure reduce-kv
+** DONE Master clojure reduce and reducing functions
 ** DONE [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
 ** DONE Learn clojure test fixtures
 ** DONE Learn property-based testing using clojure.spec
