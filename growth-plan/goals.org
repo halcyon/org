@@ -57,6 +57,7 @@
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
+** TODO Learn about elisp advice
 ** TODO https://www.infoq.com/presentations/Clojure-Reducers
 ** TODO https://bendyworks.com/transducers-clojures-next-big-idea/
 ** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
