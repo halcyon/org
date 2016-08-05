@@ -53,10 +53,14 @@
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
 
-* Todo List [38/131]
+* Todo List [43/140]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
+** TODO https://www.infoq.com/presentations/Clojure-Reducers
+** TODO https://bendyworks.com/transducers-clojures-next-big-idea/
+** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
+** TODO http://www.infoq.com/presentations/Clojure-Reducers
 ** TODO [[http://baatz.io/posts/haskell-in-a-startup/]]
 ** TODO [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-2.html][Lambda Calculus Live Tutorial with Klipse: Boolean Algebra]]
 ** TODO http://blog.klipse.tech
@@ -69,7 +73,6 @@
 ** TODO https://tbaldridge.pivotshare.com/categories/function-of-the-day/2084/media
 ** TODO [[https://juxt.pro/blog/posts/yada-1.html][Yada Part 1]]
 ** TODO [[https://juxt.pro/blog/posts/yada-2.html][Yada Part 2]]
-** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
 ** TODO http://mishadoff.com/blog/clojure-design-patterns/
 ** TODO http://orgmode.org/manual/Fast-access-to-TODO-states.html#Fast-access-to-TODO-states
 ** TODO [[https://www.youtube.com/watch?v=0SARbwvhupQw][Google I/O - The Myth of the Genius Programmer]]
