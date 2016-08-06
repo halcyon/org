@@ -48,16 +48,40 @@
 - Defense: Open stance, highest net clearance - 10 ft or more over net, Always cross court
 - Neutral: Semi open stance - Middle clearance - 5-10 ft over net, Always cross court
 - Offense: Closed stance - Lowest clearance - 2-5 ft or more over net, Down the line?
+*** 2-handed backhand
+- Stance Sideways, chest facing the fence
+- Grip
+ - Bottom Continental
+ - Top Eastern
+- Start with butt of racket pointed straight down at the ground, and racket head up
+- Next small circle with racket head kept closed but moving towards
+  the ground, butt of racket should be pointing at target at
+  completion of circle
+- Contact point should be far in front, extend
+- Hold on to racket with both hands all the way through follow through
+- Loose wrists
+*** Ground strokes
+- Bend the ball
+ - All in the loose wrists
+*** Volley
+- Most important thing is to lock the wrist with racket straight up, butt pointed straight down at ground
+*** Serve + Volley
+- On Deuce side only - serve to the backhand, and close in on ad side
+  to volley.  Opponent is most likely to hit towards the center
+- On Ad side - serve to the backhand wide with kick, close towards the center
 ** Clojure
 - doto
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
 
-* Todo List [43/140]
+* Todo List [43/143]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** TODO turn find-element into a transducer
+** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
+** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
+** TODO check out slack emacs client (valuable for moving code in and out of emacs) - and for thinking about SMS emacs
+** TODO Buy soft gum picks
 ** TODO Learn about elisp advice
 ** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
 ** TODO https://www.infoq.com/presentations/Clojure-Reducers
