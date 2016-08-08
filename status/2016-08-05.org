@@ -1,0 +1,9 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-05 Fri>
+#+OPTIONS: toc:nil
+* Yesterday
+- Listing service JSON logging configuration
+* Today
+- Integrate json logging configuration with changes to production config for logging to stdout
+* Blockers
+- nil

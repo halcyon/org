@@ -1,0 +1,9 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-08 Mon>
+#+OPTIONS: toc:nil
+* Yesterday
+- Integrate json logging configuration with changes to production config for logging to stdout
+* Today
+- Allow filtering by "pets allowed" for /listings
+* Blockers
+- nil
