@@ -69,8 +69,17 @@
 - On Deuce side only - serve to the backhand, and close in on ad side
   to volley.  Opponent is most likely to hit towards the center
 - On Ad side - serve to the backhand wide with kick, close towards the center
+*** Drills
+- Tie Breaker where one loses a point if they hit two ground strokes
+  into the service box. Yell short on the first one that is in the
+  service box
+- Tie Breaker where goal is to serve to backhand and re-return to backhand
+- Serve straight down using only wrist - goal is to get 3 bounces before it bounces over the net
+- 50 wrist flops using net to keep arm stationary (hit the net with the racket every time)
 ** Clojure
 - doto
+- refs
+- agents
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
 
@@ -78,10 +87,11 @@
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
-** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
-** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
+** TODO Status reports (Thursday & Friday)
 ** TODO check out slack emacs client (valuable for moving code in and out of emacs) - and for thinking about SMS emacs
 ** TODO Buy soft gum picks
+** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
+** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 ** TODO Learn about elisp advice
 ** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
 ** TODO https://www.infoq.com/presentations/Clojure-Reducers
