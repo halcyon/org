@@ -1,0 +1,10 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-09 Tue>
+#+OPTIONS: toc:nil
+* Yesterday
+- AC criteria for /points
+* Today
+- Complete test for AC criteria for /points
+- Pet criteria for /listing
+* Blockers
+- nil
