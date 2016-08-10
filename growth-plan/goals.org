@@ -1,3 +1,5 @@
+#+PROPERTY: COOKIE_DATA recursive
+
 * Goals
 ** Short Term
 *** Technical
@@ -12,16 +14,12 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-
-* Todo List [50/153]
-:PROPERTIES:
-:COOKIE_DATA: todo recursive
-:END:
+* Todo List [50/154]
 ** Todo [0/28]
-*** TODO Buy soft gum picks
-*** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
-*** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
+*** STARTED finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
+*** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
+*** TODO Buy soft gum picks
 *** TODO https://www.infoq.com/presentations/Clojure-Reducers
 *** TODO https://bendyworks.com/transducers-clojures-next-big-idea/
 *** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
@@ -178,7 +176,6 @@
 *** HOLD http://www.mbtest.org/
 *** HOLD http://beautifulracket.com/first-lang.html
 *** HOLD http://practicaltypography.com/equity.html
-
 
 * Reminders
 ** Git
