@@ -1,0 +1,12 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-10 Wed>
+#+OPTIONS: toc:nil
+* Yesterday
+- Completed testing for AC criteria for /points
+- Added more extensive testing for pets criteria on /points
+- Submitted PR for AC criteria for /points
+- Implemented feedback for PR
+* Today
+- Pet criteria for /listing
+* Blockers
+- nil
