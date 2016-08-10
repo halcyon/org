@@ -1,18 +1,17 @@
-* Short Term Goal 1 - Technical
-** TODO An Introduction To Functional Programming Through Lambda Calculus
-** STARTED [[http://xuanji.appspot.com/isicp/lambda.html][Lambda Calculus]]
-
-* Short Term Goal 2 - Non-Technical
-** STARTED [[http://theultimatehang.com/2012/07/portable-hammock-pipe-stand/][Build a Portable Hammock Pipe Stand]]
+* Short Term Goals
+** Technical
+*** TODO An Introduction To Functional Programming Through Lambda Calculus
+*** STARTED [[http://xuanji.appspot.com/isicp/lambda.html][Lambda Calculus]]
+** Non-Technical
+*** STARTED [[http://theultimatehang.com/2012/07/portable-hammock-pipe-stand/][Build a Portable Hammock Pipe Stand]]
 *** http://www.loopalien.com/
-* Long Term Goal 1 - Technical
-** TODO [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]]
-* Long Term Goal 2 - Non-Technical
-** TODO [[http://12factor.net/][The Twelve-Factor App]]
-* Opportunities
-** Opportunity to be mentored by experts
-* Strengths
-** Learning
+
+* Long Term Goals
+** Technical
+*** TODO [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]]
+** Non-Technical
+*** TODO [[http://12factor.net/][The Twelve-Factor App]]
+
 * Reminders
 ** Git
 *** unstage = reset HEAD
@@ -83,7 +82,7 @@
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
 
-* Todo List [50/151]
+* Todo List [49/150]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -113,57 +112,44 @@
 ** TODO https://github.com/weavejester/reloaded.repl [[https://www.reddit.com/r/Clojure/comments/4rcwyi/edge_a_complete_clojure_project_you_can_leap_from/d51kzyi]]
 ** TODO http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
 ** TODO [[http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/][This 90-Day Plan Turns Engineers into Remarkable Managers]]
-** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
-** HOLD [[http://exercism.io/][Setup exercism.io to practice Haskell exercises]]
-** HOLD [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
-** HOLD [[http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266][Lisp: Classes in the Metaobject Protocol]]
-** HOLD [[http://learnyouanelm.github.io/][Learn You an Elm]]
-** HOLD [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
-** HOLD [[https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n][University of Kent MOOC - Functional Programming with Erlang]]
-** HOLD FATS talk on configuring Emacs
-** HOLD FATS talk on flycheck-clojure
-** HOLD FATS talk on using EMACS as a postgres client
-** HOLD FATS talk on setting up EMACS for the terminal
-** HOLD https://pragprog.com/book/cjclojure/mastering-clojure-macros
-** HOLD [[http://gigamonkeys.com/book/][Practical Common Lisp]]
-** HOLD Tasty Trade
-** Open Source Contributions
+** TODO Tasty Trade
+** Open Source Contributions [5/6]
 **** TODO fix cl-lib namespace issue for org-reveal
 **** DONE update defunkt's emacs gist documentation to use oauth tokens - [[https://github.com/defunkt/gist.el/pull/91][PR-91]]
-**** DONE Refactor org2jekyll to accept any front matter [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
 **** DONE fix java 8 doc lookups in ensime-server - [[https://github.com/ensime/ensime-server/pull/1441][PR-1441]]
+**** DONE Refactor org2jekyll to accept jekyll properties [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
 **** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
-**** DONE Implement run test at point for elisp testing in Emacs [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
-** DONE Master clojure reader conditionals
-** DONE Master using macros in clojurescript
-** DONE Learn about "advising" lisp functions
-** DONE Learn about clojure's support for regexes and groups
-** DONE Master building clojure transducers from "off the shelf" transducers
-** DONE Master writing clojure transducers from reducing functions
-** DONE Master writing clojure transducers from scratch
-** DONE Master clojure reduce-kv
-** DONE Master clojure reduce and reducing functions
-** DONE [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
-** DONE Learn clojure test fixtures
-** DONE Learn property-based testing using clojure.spec
-** DONE Learn clojure.spec
-** DONE Learn oauth2
-** DONE Learn google data apis
-** DONE Learn [[https://github.com/drapanjanas/re-natal][React Native]]
-** DONE Learn [[http://reagent-project.github.io][Reagent]]
-** DONE Master Functional Reactive Programming [[https://github.com/Day8/re-frame][Re-frame]]
-** DONE Learn clojure macros
-** DONE Learn clojure multimethods
-** DONE Learn clojure protocols
-** DONE Learn clojure records
-** DONE Learn clojure deftype
-** DONE Learn clojure reify
+**** DONE Implement run test at point for testing in Emacs Lisp [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
+** Clojure [25/25]
+*** DONE Learn about "advising" lisp functions
+*** DONE Learn to write clojure test fixtures
+*** DONE Master clojure reader conditionals
+*** DONE Master using macros in clojurescript
+*** DONE Learn clojure macros
+*** DONE Learn about clojure's support for regexes and groups
+*** DONE Master building clojure transducers from "off the shelf" transducers
+*** DONE Master writing clojure transducers from reducing functions
+*** DONE Master writing clojure transducers from scratch
+*** DONE Master clojure reduce-kv
+*** DONE Master clojure reduce and reducing functions
+*** DONE [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
+*** DONE Learn property-based testing using clojure.spec
+*** DONE Learn clojure.spec
+*** DONE Learn oauth2 protocol and implement in clojure
+*** DONE Learn how to use clojurescript with [[https://github.com/drapanjanas/re-natal][React Native]]
+*** DONE Learn [[http://reagent-project.github.io][Reagent]]
+*** DONE Master Functional Reactive Programming [[https://github.com/Day8/re-frame][Re-frame]]
+*** DONE Learn clojure multimethods
+*** DONE Learn clojure deftype
+*** DONE Learn clojure reify
+*** DONE Learn clojure protocols
+*** DONE Learn clojure records
+*** DONE [[https://www.hackerrank.com/domains/tutorials/30-days-of-code][30 Days of Code - Java based HackerRank course]]
+*** DONE Write a [[https://github.com/halcyon/hackerrank-clj][test harness in Clojure that can evaluate HackerRank solutions]]
 ** DONE Setup emacs to automate gnupg encryption of private information and to automatically sign git commits
-** DONE check out slack emacs client (valuable for moving code in and out of emacs) - and for thinking about SMS emacs
-** DONE Pare down emacs init.el.  Remove all the stuff you will never use.
+** DONE check out slack emacs clients (valuable for moving code in and out of emacs) - and for thinking about SMS emacs
+** DONE Learn google data apis
 ** DONE Venkat's erlang talk
-** DONE [[https://www.hackerrank.com/domains/tutorials/30-days-of-code][30 Days of Code - Java based HackerRank course]]
-** DONE [[http://mockfakestub.logdown.com/posts/289830][clj-hackerrank]]
 ** DONE Use diminish on several minor modes - flycheck etc
 ** DONE Add unit tests to fundamentals
 ** DONE [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
@@ -182,6 +168,20 @@
 ** Git
 *** HOLD [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
 *** HOLD https://jwiegley.github.io/git-from-the-bottom-up/
+
+** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
+** HOLD [[http://exercism.io/][Setup exercism.io to practice Haskell exercises]]
+** HOLD [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
+** HOLD [[http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266][Lisp: Classes in the Metaobject Protocol]]
+** HOLD [[http://learnyouanelm.github.io/][Learn You an Elm]]
+** HOLD [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
+** HOLD [[https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n][University of Kent MOOC - Functional Programming with Erlang]]
+** HOLD FATS talk on configuring Emacs
+** HOLD FATS talk on flycheck-clojure
+** HOLD FATS talk on using EMACS as a postgres client
+** HOLD FATS talk on setting up EMACS for the terminal
+** HOLD https://pragprog.com/book/cjclojure/mastering-clojure-macros
+** HOLD [[http://gigamonkeys.com/book/][Practical Common Lisp]]
 ** HOLD [[https://class.coursera.org/progfun-002/lecture][Coursera - Functional Programming Principles in Scala]]
 ** HOLD [[http://www.alchemist-elixir.org/][Alchemist - Elixir Integration for Emacs]]
 ** HOLD https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
