@@ -14,7 +14,7 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Todo List [50/154]
+* Todo List [50/155]
 ** Todo [0/28]
 *** STARTED finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
@@ -99,10 +99,11 @@
 *** DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
 *** DONE Setup persistent nrepl history in EMACS
 
-** Hold [0/73]
+** Hold [0/74]
 *** Git
 **** HOLD [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
 **** HOLD https://jwiegley.github.io/git-from-the-bottom-up/
+**** HOLD [[https://git-scm.com/docs/git-rebase][Splitting Commits]]
 
 *** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
 *** HOLD [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
@@ -178,6 +179,8 @@
 *** HOLD http://practicaltypography.com/equity.html
 
 * Reminders
+** Quotes
+*** Give me six hours to chop down a tree and I will spend the first four sharpening the axe.  --Abraham Lincoln
 ** Git
 *** unstage = reset HEAD
 *** uncommit = reset --soft HEAD^
