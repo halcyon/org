@@ -47,7 +47,7 @@
 *** TODO Tasty Trade
 *** TODO fix cl-lib namespace issue for org-reveal
 
-** Completed [50/50]
+** Done [50/50]
 *** Clojure [25/25]
 **** DONE Learn about "advising" lisp functions
 **** DONE Learn to write clojure test fixtures
