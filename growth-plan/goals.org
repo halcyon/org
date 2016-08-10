@@ -1,5 +1,3 @@
-#+PROPERTY: COOKIE_DATA recursive
-
 * Goals
 ** Short Term
 *** Technical
