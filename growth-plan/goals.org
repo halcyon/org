@@ -1,16 +1,184 @@
-* Short Term Goals
-** Technical
-*** TODO An Introduction To Functional Programming Through Lambda Calculus
-*** STARTED [[http://xuanji.appspot.com/isicp/lambda.html][Lambda Calculus]]
-** Non-Technical
-*** STARTED [[http://theultimatehang.com/2012/07/portable-hammock-pipe-stand/][Build a Portable Hammock Pipe Stand]]
-*** http://www.loopalien.com/
+* Goals
+** Short Term
+*** Technical
+**** TODO An Introduction To Functional Programming Through Lambda Calculus
+**** STARTED [[http://xuanji.appspot.com/isicp/lambda.html][Lambda Calculus]]
+*** Non-Technical
+**** STARTED [[http://theultimatehang.com/2012/07/portable-hammock-pipe-stand/][Build a Portable Hammock Pipe Stand]]
+**** http://www.loopalien.com/
+** Long Term
+*** Technical
+**** TODO [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]]
+*** Non-Technical
+**** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Long Term Goals
-** Technical
-*** TODO [[http://sarabander.github.io/sicp/][Structure and Interpretation of Computer Programs]]
-** Non-Technical
-*** TODO [[http://12factor.net/][The Twelve-Factor App]]
+
+* Todo List [50/153]
+:PROPERTIES:
+:COOKIE_DATA: todo recursive
+:END:
+** Todo [0/28]
+*** TODO Buy soft gum picks
+*** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
+*** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
+*** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
+*** TODO https://www.infoq.com/presentations/Clojure-Reducers
+*** TODO https://bendyworks.com/transducers-clojures-next-big-idea/
+*** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
+*** TODO http://www.infoq.com/presentations/Clojure-Reducers
+*** TODO [[http://baatz.io/posts/haskell-in-a-startup/]]
+*** TODO [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-2.html][Lambda Calculus Live Tutorial with Klipse: Boolean Algebra]]
+*** TODO http://blog.klipse.tech
+*** STARTED http://www.parens-of-the-dead.com
+*** TODO [[https://christopherdbui.com][cb on software]]
+*** TODO [[https://www.youtube.com/watch?v=ZQkIWWTygio][Jeanine Adkisson - Variants are Not Unions]]
+*** TODO [[http://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.ps][An Introduction to Functional Programming Through Lambda Calculus]]
+*** TODO [[http://www.macs.hw.ac.uk/~greg/books/][Greg Michaelson Books]]
+*** TODO https://tbaldridge.pivotshare.com/categories/function-of-the-day/2084/media
+*** TODO http://www.lispcast.com/clj-refactor
+*** TODO [[https://juxt.pro/blog/posts/yada-1.html][Yada Part 1]]
+*** TODO [[https://juxt.pro/blog/posts/yada-2.html][Yada Part 2]]
+*** TODO http://mishadoff.com/blog/clojure-design-patterns/
+*** TODO http://orgmode.org/manual/Fast-access-to-TODO-states.html#Fast-access-to-TODO-states
+*** TODO [[https://www.youtube.com/watch?v=0SARbwvhupQw][Google I/O - The Myth of the Genius Programmer]]
+*** TODO https://github.com/weavejester/reloaded.repl [[https://www.reddit.com/r/Clojure/comments/4rcwyi/edge_a_complete_clojure_project_you_can_leap_from/d51kzyi]]
+*** TODO http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
+*** TODO [[http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/][This 90-Day Plan Turns Engineers into Remarkable Managers]]
+*** TODO Tasty Trade
+*** TODO fix cl-lib namespace issue for org-reveal
+
+** Completed [50/50]
+*** Clojure [25/25]
+**** DONE Learn about "advising" lisp functions
+**** DONE Learn to write clojure test fixtures
+**** DONE Master clojure reader conditionals
+**** DONE Master using macros in clojurescript
+**** DONE Learn clojure macros
+**** DONE Learn about clojure's support for regexes and groups
+**** DONE Master building clojure transducers from "off the shelf" transducers
+**** DONE Master writing clojure transducers from reducing functions
+**** DONE Master writing clojure transducers from scratch
+**** DONE Master clojure reduce-kv
+**** DONE Master clojure reduce and reducing functions
+**** DONE [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
+**** DONE Learn property-based testing using clojure.spec
+**** DONE Learn clojure.spec
+**** DONE Learn oauth2 protocol and implement in clojure
+**** DONE Learn how to use clojurescript with [[https://github.com/drapanjanas/re-natal][React Native]]
+**** DONE Learn [[http://reagent-project.github.io][Reagent]]
+**** DONE Master Functional Reactive Programming [[https://github.com/Day8/re-frame][Re-frame]]
+**** DONE Learn clojure multimethods
+**** DONE Learn clojure deftype
+**** DONE Learn clojure reify
+**** DONE Learn clojure protocols
+**** DONE Learn clojure records
+**** DONE [[https://www.hackerrank.com/domains/tutorials/30-days-of-code][30 Days of Code - Java based HackerRank course]]
+**** DONE Write a [[https://github.com/halcyon/hackerrank-clj][test harness in Clojure that can evaluate HackerRank solutions]]
+*** Open Source Contributions [5/5]
+**** DONE update defunkt's emacs gist documentation to use oauth tokens - [[https://github.com/defunkt/gist.el/pull/91][PR-91]]
+**** DONE fix java 8 doc lookups in ensime-server - [[https://github.com/ensime/ensime-server/pull/1441][PR-1441]]
+**** DONE Refactor org2jekyll to accept jekyll properties [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
+**** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
+**** DONE Implement run test at point for testing in Emacs Lisp [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
+*** DONE Setup emacs to automate gnupg encryption of private information and to automatically sign git commits
+*** DONE check out slack emacs clients (valuable for moving code in and out of emacs) - and for thinking about SMS emacs
+*** DONE Learn google data apis
+*** DONE Venkat's erlang talk
+*** DONE Write tests for [[https://github.com/halcyon/fundamentals][java8 lambda and streaming code]]
+*** DONE Use diminish on several minor modes - flycheck etc
+*** DONE Write [[https://github.com/halcyon/fundamentals][java8 lambda and streaming code]]
+*** DONE [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
+*** DONE presentations should go on slides.zeddworks.com
+*** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
+*** DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
+*** DONE [[https://github.com/halcyon/.emacs.d/blob/master/init.el#L184-L185][Fix foreground color of author/date in org mode to something readable]]
+*** DONE Configure [[https://github.com/tj64/outshine][outshine]] to be useful and not an obstacle
+*** DONE Turn org files into slide shows
+*** DONE https://github.com/clojure-emacs/clj-refactor.el
+*** DONE Setup EMACS as a postgres client
+*** DONE [[https://allysonjulian.com/setting-up-docker-with-xhyve/][Setting up docker with xhyve (OS X virtualization)]]
+*** DONE https://github.com/flycheck/flycheck
+*** DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
+*** DONE Setup persistent nrepl history in EMACS
+
+** Hold [0/73]
+*** Git
+**** HOLD [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
+**** HOLD https://jwiegley.github.io/git-from-the-bottom-up/
+
+*** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
+*** HOLD [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
+*** HOLD [[http://exercism.io/][Setup exercism.io to practice Haskell exercises]]
+*** HOLD [[http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266][Lisp: Classes in the Metaobject Protocol]]
+*** HOLD [[http://learnyouanelm.github.io/][Learn You an Elm]]
+*** HOLD [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
+*** HOLD [[https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n][University of Kent MOOC - Functional Programming with Erlang]]
+*** HOLD FATS talk on configuring Emacs
+*** HOLD FATS talk on flycheck-clojure
+*** HOLD FATS talk on using EMACS as a postgres client
+*** HOLD FATS talk on setting up EMACS for the terminal
+*** HOLD https://pragprog.com/book/cjclojure/mastering-clojure-macros
+*** HOLD [[http://gigamonkeys.com/book/][Practical Common Lisp]]
+*** HOLD [[https://class.coursera.org/progfun-002/lecture][Coursera - Functional Programming Principles in Scala]]
+*** HOLD [[http://www.alchemist-elixir.org/][Alchemist - Elixir Integration for Emacs]]
+*** HOLD https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
+*** HOLD https://github.com/patric-r/jvmtop
+*** HOLD http://stackoverflow.com/questions/2129044/java-heap-terminology-young-old-and-permanent-generations
+*** HOLD http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
+*** HOLD https://github.com/jkbrzt/httpie
+*** HOLD [[http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1][SICP - 1.1 Sections 1-8 The Elements of Programming]]
+*** HOLD http://www.sicpdistilled.com/
+*** HOLD http://acaird.github.io/computers/2013/05/24/blogging-with-org-and-git/
+*** HOLD http://emacs-doctor.com/blogging-from-emacs.html
+*** HOLD http://tex.stackexchange.com/questions/157332/how-can-you-make-your-cv-accessible
+*** HOLD https://github.com/punchagan/resume
+*** HOLD https://clusterhq.com/2016/02/11/kubernetes-redis-cluster/?utm_source=dbweekly&utm_medium=email
+*** HOLD https://github.com/mhjort/clj-gatling
+*** HOLD https://github.com/hugoduncan/criterium
+*** HOLD https://github.com/mhjort/clojider
+*** HOLD https://pragprog.com/book/actb/technical-blogging
+*** HOLD http://jonathangraham.github.io/2015/09/01/Clojure%20functions/
+*** HOLD http://jonathangraham.github.io/2016/01/07/property_based_testing_clojure_functions/
+*** HOLD [[https://github.com/awkay/om-tutorial][Learn Om Next using Dev Cards]]
+*** HOLD The Little Schemer
+*** HOLD [[https://braydie.gitbooks.io/how-to-be-a-programmer/content/en/index.html][How to be a Programmer]]
+*** HOLD https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure
+*** HOLD http://www.4clojure.com
+*** HOLD 100 Clojure Functions with Anki Flashcards
+*** HOLD https://www.masteringemacs.org
+*** HOLD http://www.datomic.com/training.html https://github.com/Datomic/day-of-datomic
+*** HOLD https://github.com/cloojure/tupelo
+*** HOLD http://clojure-cookbook.com/
+*** HOLD http://matthiasnehlsen.com/blog/2014/10/15/talk-transcripts/
+*** HOLD https://github.com/evancz/elm-architecture-tutorial
+*** HOLD Devcards http://rigsomelight.com/devcards/#!/devdemos.core
+*** HOLD Read Paul Graham Essay
+*** Functional Thinking - Neal Ford
+**** HOLD http://nealford.com/functionalthinking.html
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft1/index.html][Functional thinking: Thinking functionally, Part 1]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft2/index.html][Functional thinking: Thinking functionally, Part 2]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft3/index.html][Functional thinking: Thinking functionally, Part 3]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft4/index.html][Functional thinking: Immutability]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft5/index.html][Functional thinking: Coupling and composition, Part 1]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft6/index.html][Functional thinking: Coupling and composition, Part 2]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft7/index.html][Functional thinking: Functional features in Groovy, Part 1]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft8/index.html][Functional thinking: Functional features in Groovy, Part 2]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft9/index.html][Functional thinking: Functional features in Groovy, Part 3]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft10/index.html][Functional thinking: Functional design patterns, Part 1]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft11/index.html][Functional thinking: Functional design patterns, Part 2]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft12/index.html][Functional thinking: Functional design patterns, Part 3]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft13/index.html][Functional thinking: Functional error handling with Either and Option]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft14/index.html][Functional thinking: Either trees and pattern matching]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft15/index.html][Functional thinking: Rethinking dispatch]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft16/index.html][Functional thinking: Tons of transformations]]
+**** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft17/index.html][Functional thinking: Transformations and optimizations]]
+*** HOLD https://github.com/rupa/z
+*** HOLD https://www.bountysource.com/teams/cider
+*** HOLD http://www.jorgecastro.org/2016/02/12/super-fast-local-workloads-with-juju/
+*** HOLD http://www.mbtest.org/
+*** HOLD http://beautifulracket.com/first-lang.html
+*** HOLD http://practicaltypography.com/equity.html
+
 
 * Reminders
 ** Git
@@ -81,163 +249,3 @@
 - agents
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
-
-* Todo List [49/150]
-:PROPERTIES:
-:COOKIE_DATA: todo recursive
-:END:
-** TODO Buy soft gum picks
-** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
-** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
-** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
-** TODO https://www.infoq.com/presentations/Clojure-Reducers
-** TODO https://bendyworks.com/transducers-clojures-next-big-idea/
-** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
-** TODO http://www.infoq.com/presentations/Clojure-Reducers
-** TODO [[http://baatz.io/posts/haskell-in-a-startup/]]
-** TODO [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-2.html][Lambda Calculus Live Tutorial with Klipse: Boolean Algebra]]
-** TODO http://blog.klipse.tech
-** STARTED http://www.parens-of-the-dead.com
-** TODO [[https://christopherdbui.com][cb on software]]
-** TODO [[https://www.youtube.com/watch?v=ZQkIWWTygio][Jeanine Adkisson - Variants are Not Unions]]
-** TODO [[http://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.ps][An Introduction to Functional Programming Through Lambda Calculus]]
-** TODO [[http://www.macs.hw.ac.uk/~greg/books/][Greg Michaelson Books]]
-** TODO http://www.lispcast.com/clj-refactor
-** TODO https://tbaldridge.pivotshare.com/categories/function-of-the-day/2084/media
-** TODO [[https://juxt.pro/blog/posts/yada-1.html][Yada Part 1]]
-** TODO [[https://juxt.pro/blog/posts/yada-2.html][Yada Part 2]]
-** TODO http://mishadoff.com/blog/clojure-design-patterns/
-** TODO http://orgmode.org/manual/Fast-access-to-TODO-states.html#Fast-access-to-TODO-states
-** TODO [[https://www.youtube.com/watch?v=0SARbwvhupQw][Google I/O - The Myth of the Genius Programmer]]
-** TODO https://github.com/weavejester/reloaded.repl [[https://www.reddit.com/r/Clojure/comments/4rcwyi/edge_a_complete_clojure_project_you_can_leap_from/d51kzyi]]
-** TODO http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
-** TODO [[http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/][This 90-Day Plan Turns Engineers into Remarkable Managers]]
-** TODO Tasty Trade
-** Open Source Contributions [5/6]
-**** TODO fix cl-lib namespace issue for org-reveal
-**** DONE update defunkt's emacs gist documentation to use oauth tokens - [[https://github.com/defunkt/gist.el/pull/91][PR-91]]
-**** DONE fix java 8 doc lookups in ensime-server - [[https://github.com/ensime/ensime-server/pull/1441][PR-1441]]
-**** DONE Refactor org2jekyll to accept jekyll properties [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
-**** DONE Setup CI for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
-**** DONE Implement run test at point for testing in Emacs Lisp [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
-** Clojure [25/25]
-*** DONE Learn about "advising" lisp functions
-*** DONE Learn to write clojure test fixtures
-*** DONE Master clojure reader conditionals
-*** DONE Master using macros in clojurescript
-*** DONE Learn clojure macros
-*** DONE Learn about clojure's support for regexes and groups
-*** DONE Master building clojure transducers from "off the shelf" transducers
-*** DONE Master writing clojure transducers from reducing functions
-*** DONE Master writing clojure transducers from scratch
-*** DONE Master clojure reduce-kv
-*** DONE Master clojure reduce and reducing functions
-*** DONE [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-1.html][Numbers and Arithmetics with functions only: lambda calculus live tutorial]]
-*** DONE Learn property-based testing using clojure.spec
-*** DONE Learn clojure.spec
-*** DONE Learn oauth2 protocol and implement in clojure
-*** DONE Learn how to use clojurescript with [[https://github.com/drapanjanas/re-natal][React Native]]
-*** DONE Learn [[http://reagent-project.github.io][Reagent]]
-*** DONE Master Functional Reactive Programming [[https://github.com/Day8/re-frame][Re-frame]]
-*** DONE Learn clojure multimethods
-*** DONE Learn clojure deftype
-*** DONE Learn clojure reify
-*** DONE Learn clojure protocols
-*** DONE Learn clojure records
-*** DONE [[https://www.hackerrank.com/domains/tutorials/30-days-of-code][30 Days of Code - Java based HackerRank course]]
-*** DONE Write a [[https://github.com/halcyon/hackerrank-clj][test harness in Clojure that can evaluate HackerRank solutions]]
-** DONE Setup emacs to automate gnupg encryption of private information and to automatically sign git commits
-** DONE check out slack emacs clients (valuable for moving code in and out of emacs) - and for thinking about SMS emacs
-** DONE Learn google data apis
-** DONE Venkat's erlang talk
-** DONE Use diminish on several minor modes - flycheck etc
-** DONE Add unit tests to fundamentals
-** DONE [[https://github.com/yjwen/org-reveal][Convert org mode to reveal slide shows]] [[http://jr0cket.co.uk/2013/10/create-cool-slides--Org-mode-Revealjs.html][cool slides]]
-** DONE presentations should go on slides.zeddworks.com
-** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
-** DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
-** DONE [[https://github.com/halcyon/.emacs.d/blob/master/init.el#L184-L185][Fix foreground color of author/date in org mode to something readable]]
-** DONE Configure [[https://github.com/tj64/outshine][outshine]] to be useful and not an obstacle
-** DONE Turn org files into slide shows
-** DONE https://github.com/clojure-emacs/clj-refactor.el
-** DONE Setup EMACS as a postgres client
-** DONE [[https://allysonjulian.com/setting-up-docker-with-xhyve/][Setting up docker with xhyve (OS X virtualization)]]
-** DONE https://github.com/flycheck/flycheck
-** DONE https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
-** DONE Setup persistent nrepl history in EMACS
-** Git
-*** HOLD [[https://codewords.recurse.com/issues/two/git-from-the-inside-out][Git From the Inside Out]]
-*** HOLD https://jwiegley.github.io/git-from-the-bottom-up/
-
-** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
-** HOLD [[http://exercism.io/][Setup exercism.io to practice Haskell exercises]]
-** HOLD [[https://quantumexperience.ng.bluemix.net/qstage/#/tutorial?sectionId=c59b3710b928891a1420190148a72cce][IBM Quantum Computing Tutorial]]
-** HOLD [[http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266][Lisp: Classes in the Metaobject Protocol]]
-** HOLD [[http://learnyouanelm.github.io/][Learn You an Elm]]
-** HOLD [[http://learnyousomeerlang.com/][Learn You Some Erlang for Great Good!]]
-** HOLD [[https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n][University of Kent MOOC - Functional Programming with Erlang]]
-** HOLD FATS talk on configuring Emacs
-** HOLD FATS talk on flycheck-clojure
-** HOLD FATS talk on using EMACS as a postgres client
-** HOLD FATS talk on setting up EMACS for the terminal
-** HOLD https://pragprog.com/book/cjclojure/mastering-clojure-macros
-** HOLD [[http://gigamonkeys.com/book/][Practical Common Lisp]]
-** HOLD [[https://class.coursera.org/progfun-002/lecture][Coursera - Functional Programming Principles in Scala]]
-** HOLD [[http://www.alchemist-elixir.org/][Alchemist - Elixir Integration for Emacs]]
-** HOLD https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html
-** HOLD https://github.com/patric-r/jvmtop
-** HOLD http://stackoverflow.com/questions/2129044/java-heap-terminology-young-old-and-permanent-generations
-** HOLD http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
-** HOLD https://github.com/jkbrzt/httpie
-** HOLD [[http://sarabander.github.io/sicp/html/1_002e1.xhtml#g_t1_002e1][SICP - 1.1 Sections 1-8 The Elements of Programming]]
-** HOLD http://www.sicpdistilled.com/
-** HOLD http://acaird.github.io/computers/2013/05/24/blogging-with-org-and-git/
-** HOLD http://emacs-doctor.com/blogging-from-emacs.html
-** HOLD http://tex.stackexchange.com/questions/157332/how-can-you-make-your-cv-accessible
-** HOLD https://github.com/punchagan/resume
-** HOLD https://clusterhq.com/2016/02/11/kubernetes-redis-cluster/?utm_source=dbweekly&utm_medium=email
-** HOLD https://github.com/mhjort/clj-gatling
-** HOLD https://github.com/hugoduncan/criterium
-** HOLD https://github.com/mhjort/clojider
-** HOLD https://pragprog.com/book/actb/technical-blogging
-** HOLD http://jonathangraham.github.io/2015/09/01/Clojure%20functions/
-** HOLD http://jonathangraham.github.io/2016/01/07/property_based_testing_clojure_functions/
-** HOLD [[https://github.com/awkay/om-tutorial][Learn Om Next using Dev Cards]]
-** HOLD The Little Schemer
-** HOLD [[https://braydie.gitbooks.io/how-to-be-a-programmer/content/en/index.html][How to be a Programmer]]
-** HOLD https://pragprog.com/book/mbfpp/functional-programming-patterns-in-scala-and-clojure
-** HOLD http://www.4clojure.com
-** HOLD 100 Clojure Functions with Anki Flashcards
-** HOLD https://www.masteringemacs.org
-** HOLD http://www.datomic.com/training.html https://github.com/Datomic/day-of-datomic
-** HOLD https://github.com/cloojure/tupelo
-** HOLD http://clojure-cookbook.com/
-** HOLD http://matthiasnehlsen.com/blog/2014/10/15/talk-transcripts/
-** HOLD https://github.com/evancz/elm-architecture-tutorial
-** HOLD Devcards http://rigsomelight.com/devcards/#!/devdemos.core
-** HOLD Read Paul Graham Essay
-** Functional Thinking - Neal Ford
-*** HOLD http://nealford.com/functionalthinking.html
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft1/index.html][Functional thinking: Thinking functionally, Part 1]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft2/index.html][Functional thinking: Thinking functionally, Part 2]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft3/index.html][Functional thinking: Thinking functionally, Part 3]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft4/index.html][Functional thinking: Immutability]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft5/index.html][Functional thinking: Coupling and composition, Part 1]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft6/index.html][Functional thinking: Coupling and composition, Part 2]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft7/index.html][Functional thinking: Functional features in Groovy, Part 1]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft8/index.html][Functional thinking: Functional features in Groovy, Part 2]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft9/index.html][Functional thinking: Functional features in Groovy, Part 3]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft10/index.html][Functional thinking: Functional design patterns, Part 1]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft11/index.html][Functional thinking: Functional design patterns, Part 2]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft12/index.html][Functional thinking: Functional design patterns, Part 3]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft13/index.html][Functional thinking: Functional error handling with Either and Option]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft14/index.html][Functional thinking: Either trees and pattern matching]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft15/index.html][Functional thinking: Rethinking dispatch]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft16/index.html][Functional thinking: Tons of transformations]]
-*** HOLD [[http://www.ibm.com/developerworks/java/library/j-ft17/index.html][Functional thinking: Transformations and optimizations]]
-** HOLD https://github.com/rupa/z
-** HOLD https://www.bountysource.com/teams/cider
-** HOLD http://www.jorgecastro.org/2016/02/12/super-fast-local-workloads-with-juju/
-** HOLD http://www.mbtest.org/
-** HOLD http://beautifulracket.com/first-lang.html
-** HOLD http://practicaltypography.com/equity.html
