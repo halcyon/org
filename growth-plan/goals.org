@@ -83,7 +83,7 @@
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
 
-* Todo List [49/150]
+* Todo List [50/151]
 :PROPERTIES:
 :COOKIE_DATA: todo recursive
 :END:
@@ -158,6 +158,7 @@
 ** DONE Learn clojure records
 ** DONE Learn clojure deftype
 ** DONE Learn clojure reify
+** DONE Setup emacs to automate gnupg encryption of private information and to automatically sign git commits
 ** DONE check out slack emacs client (valuable for moving code in and out of emacs) - and for thinking about SMS emacs
 ** DONE Pare down emacs init.el.  Remove all the stuff you will never use.
 ** DONE Venkat's erlang talk
