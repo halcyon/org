@@ -1,0 +1,10 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-12 Fri>
+#+OPTIONS: toc:nil
+* Yesterday
+- Work on tests for "pets allowed" /listings
+- Code Spelunk query abstraction work for /listings
+* Today
+- Continue filtering by "pets allowed" for /listings
+* Blockers
+- nil
