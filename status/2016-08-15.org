@@ -1,0 +1,14 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-15 Mon>
+#+OPTIONS: toc:nil
+* Yesterday
+- Refactored/consolidated nav descriptors
+- Refactored ListingsQuery deftype constructor
+- Submitted PR for early feedback at 30% completion
+- Completed tests for criteria filtering of "pets allowed" and AC on /listings
+- Implemented criteria filtering for pets and AC to /listings
+- Fixed api blueprint documentation for pets and AC criteria filtering on /listings
+* Today
+- Implement feedback for pets/AC criteria filtering on /listings PR
+* Blockers
+- nil
