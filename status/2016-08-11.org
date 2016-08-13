@@ -1,0 +1,10 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-11 Thu>
+#+OPTIONS: toc:nil
+* Yesterday
+- 1 on 1 with Kaushik
+- Allow filtering by "pets allowed" for /listings
+* Today
+- Continue work on filtering by "pets allowed" for /listings
+* Blockers
+- nil
