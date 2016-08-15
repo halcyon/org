@@ -1,0 +1,12 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-16 Tue>
+#+OPTIONS: toc:nil
+* Yesterday
+- Implemented feedback for pets/AC criteria filtering on /listings PR
+- Engineering Council meeting
+- Created PR for allowing for negative neigbhorhood IDs
+- Reviewed PRs
+* Today
+- HRsoft/PEFORMview Training (New Performance Mgmt System)
+* Blockers
+- nil

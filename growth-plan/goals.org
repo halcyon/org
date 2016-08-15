@@ -12,10 +12,9 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Todo List [50/155]
+* Todo List [51/156]
 ** Todo [0/28]
 *** STARTED finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
-*** TODO [[https://www.youtube.com/watch?v=o69H0MXCNxw][Zach Tellman - Some Things That Macros Do - Curry On]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
 *** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
 *** TODO Buy soft gum picks
@@ -44,8 +43,9 @@
 *** TODO Tasty Trade
 *** TODO fix cl-lib namespace issue for org-reveal
 
-** Done [50/50]
+** Done [51/51]
 *** Clojure [25/25]
+**** DONE [[https://www.youtube.com/watch?v=o69H0MXCNxw][Zach Tellman - Some Things That Macros Do - Curry On]]
 **** DONE Learn about "advising" lisp functions
 **** DONE Learn to write clojure test fixtures
 **** DONE Master clojure reader conditionals
