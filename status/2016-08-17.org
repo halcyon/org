@@ -1,0 +1,12 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-17 Wed>
+#+OPTIONS: toc:nil
+* Yesterday
+- Implemented feedback for pets/AC criteria filtering on /listings PR
+- Implemented feedback for allowing negative hood-ids PR
+- Reviewed PRs
+- HRsoft/PEFORMview Training (New Performance Mgmt System)
+* Today
+- Pair with Marc on recommended and nearby listings
+* Blockers
+- nil
