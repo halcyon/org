@@ -1,0 +1,10 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-18 Thu>
+#+OPTIONS: toc:nil
+* Yesterday
+- Worked with Marc on /listings/:id/recommended endpoint
+- Implemented feedback for pets/AC criteria filtering on /listings PR
+* Today
+- Pair with Marc on recommended and nearby listings
+* Blockers
+- nil
