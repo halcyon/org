@@ -1,0 +1,13 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-19 Fri>
+#+OPTIONS: toc:nil
+* Yesterday
+- Implemented feedback for pets/AC criteria filtering on /listings PR
+- Merged pets/AC filtering PR
+- Merged negative hood ID PR
+- Paired with Marc on recommended and nearby listings
+- 5% Lambda Calculus - Boolean Algebra
+* Today
+- Pair with Marc on recommended and nearby listings
+* Blockers
+- nil
