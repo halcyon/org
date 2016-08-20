@@ -12,10 +12,11 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Todo List [53/160]
+* Todo List [51/158]
 ** Todo [0/30]
 *** TODO [[http://hrsoft.rentpath.com][self-eval]]
 *** TODO [[http://blog.klipse.tech/lambda/2016/08/07/pure-y-combinator-clojure.html][Lambda Calculus: The Y combinator in clojure]]
+*** TODO [[http://www.viksit.com/tags/clojure/practical-applications-y-combinator-clojure/][Practical applications of Y Combinators in Clojure]]
 *** TODO [[http://blog.klipse.tech/lambda/2016/08/10/y-combinator-app.html][Y combinator real life application: recursive memoization in clojure]]
 *** STARTED finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
@@ -92,8 +93,6 @@
 *** DONE presentations should go on slides.zeddworks.com
 *** DONE http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/
 *** DONE Flycheck Clojure [[https://github.com/halcyon/dotfiles/blob/master/emacs/.emacs.d/init.el#L453-L468][init.el changes]] and [[https://github.com/halcyon/dotfiles/blob/master/lein/.lein/profiles.clj#L9][lein profile changes]]
-*** DONE [[https://github.com/halcyon/.emacs.d/blob/master/init.el#L184-L185][Fix foreground color of author/date in org mode to something readable]]
-*** DONE Configure [[https://github.com/tj64/outshine][outshine]] to be useful and not an obstacle
 *** DONE Turn org files into slide shows
 *** DONE https://github.com/clojure-emacs/clj-refactor.el
 *** DONE Setup EMACS as a postgres client

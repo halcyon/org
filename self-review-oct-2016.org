@@ -1,0 +1,89 @@
+* What do you consider to be your major on-the-job accomplishments over the last 12 months? In other words, what are you most proud of?
+
+- RentPath
+  - Proficient contributor and maintainer of Lease Pulse project
+  - Proficient contributor and maintainer of Reviews Service project
+  - Proficient contributor and maintainer of Listing Service project
+  - Mastery of Emacs and Clojure tooling for the highest levels of
+    productivity as both a team collaborator and individual
+    contributor
+
+- LISP topics applicable to all LISPs including Clojure
+  - Lambda Calculus
+    - Implementation of Add/Subtract/Mult/Exponentiation operations
+      using only the application of anonymous functions
+    - Implementation of Boolean Functions using only the application
+      of anonymous functions
+    - Implementation of recursion using only the application anonymous
+      functions
+  - Learned and utilized advice functions
+
+- Clojure topics
+  - Writing Clojure test fixtures
+  - Clojure reader conditionals
+  - Clojure macros
+  - Writing macros to be used in clojurescript
+  - Clojure core support for regexes and groups
+  - Mastered clojure reduce
+  - Mastered the clojure reduce-kv function
+  - Mastered writing clojure transducers from scratch
+  - Mastered writing clojure transducers from reducing functions
+  - Mastered building clojure transducers using "off-the-shelf" transducers such as map arity-1
+  - Mastered Prismatic Schema
+  - Mastered property-based/generative testing using Prismatic Schema
+  - Mastered clojure.spec
+  - Mastered property-based/generative testing using clojure.spec
+  - Learned the [[http://reagent-project.github.io][Reagent]] React clojurescript framework
+  - Master Functional Reactive Programming with the [[https://github.com/Day8/re-frame][Re-frame]] framework
+  - Learned multimethods
+  - Mastered protocols
+  - Learned clojure deftype
+  - Learned clojure reify
+  - Mastered clojure records
+  - Wrote a [[https://github.com/halcyon/hackerrank-clj][test harness in Clojure for completing HackerRank problems]] without the HackerRank environment
+
+
+- Open Source Contributions
+  - Updated defunkt's emacs gist documentation to use oauth tokens - [[https://github.com/defunkt/gist.el/pull/91][PR-91]]
+  - Fixed Java 8 documentation lookups in ensime-server - [[https://github.com/ensime/ensime-server/pull/1441][PR-1441]]
+  - Refactored org2jekyll to be able to support any jekyll propery [[https://github.com/ardumont/org2jekyll/pull/41][PR-41]]
+  - Setup continuous integration for org2jekyll with travis [[https://github.com/ardumont/org2jekyll/pull/31][PR-31]]
+  - Implemented run test at point for running Emacs Lisp unit tests from within Emacs [[https://github.com/tonini/overseer.el/pull/8][PR-8]]
+
+- Technology & Languages
+  - Learned how to use clojurescript with [[https://github.com/drapanjanas/re-natal][React Native]] for mobile devices (Android/IOS)
+  - Learned how to write automated unit tests for clojurescript
+  - Learned the oauth2 protocol and implemented an oauth2 client in clojure
+  - Learned how to access Google Data APIs
+  - Became proficient in use of GNU Privacy Guard encryption
+  - Studied Erlang
+  - Studied Scala
+  - Studied Haskell
+  - Studied and used [[https://github.com/halcyon/fundamentals][Java 8 Lambdas and Streaming]]
+  - Completed 30 Days of Code - a Java based HackerRank course
+
+
+* List your strengths, and opportunities for improvement in your current position.
+
+- Strengths
+  - Highly productive and efficient
+
+- Opportunities
+  - Give tech talks
+
+
+* What could be changed within your work environment to increase your overall job satisfaction?
+- Reduction of ceremony around process would further streamline my work
+
+* What professional goals would you be interested in working toward during the next 12 months? Include any additional training required.
+- Give a talk
+- Self Study
+  - Theoretical foundations and influences on Clojure
+    - Study Common Lisp ([[http://www.gigamonkeys.com/book/][Practical Common Lisp - Peter Seibel]])
+    - Study Scheme [[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm][MIT Course - Structure and Interpretation of Computer Programs]]
+  - Study a concatenative language (Factor or perhaps Forth)
+  - [[http://learnyouahaskell.com/][Study Haskell]] (Category Theory/Pattern Matching/Purely Functional/Monads)
+  - [[http://learnyousomeerlang.com/][Study Erlang]] (Massively paralell/Patterm Matching/Foundation for Elixir) http://learnyousomeerlang.com/
+  - Study Elixir
+  - Study [[https://github.com/clojure-emacs/clj-refactor.el/wiki][CLJ Refactorings]] (I am currently using about 4 out of about 30)
+  - Further improvements to Emacs proficiency http://emacsrocks.com/
