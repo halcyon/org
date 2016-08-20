@@ -14,7 +14,7 @@
 
 * Todo List [52/158]
 ** Todo [0/29]
-*** TODO self-eval
+*** TODO [[http://hrsoft.rentpath.com][self-eval]]
 *** TODO [[http://blog.klipse.tech/lambda/2016/08/07/almost-y-combinator-clojure.html][Recursions without names: Introduction to the Y combinator in clojure]]
 *** STARTED finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
