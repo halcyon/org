@@ -12,10 +12,11 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Todo List [52/158]
-** Todo [0/29]
+* Todo List [53/160]
+** Todo [0/30]
 *** TODO [[http://hrsoft.rentpath.com][self-eval]]
-*** TODO [[http://blog.klipse.tech/lambda/2016/08/07/almost-y-combinator-clojure.html][Recursions without names: Introduction to the Y combinator in clojure]]
+*** TODO [[http://blog.klipse.tech/lambda/2016/08/07/pure-y-combinator-clojure.html][Lambda Calculus: The Y combinator in clojure]]
+*** TODO [[http://blog.klipse.tech/lambda/2016/08/10/y-combinator-app.html][Y combinator real life application: recursive memoization in clojure]]
 *** STARTED finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
 *** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
@@ -44,8 +45,9 @@
 *** TODO Tasty Trade
 *** TODO fix cl-lib namespace issue for org-reveal
 
-** Done [52/52]
-*** Clojure [27/27]
+** Done [53/53]
+*** Clojure [28/28]
+**** DONE [[http://blog.klipse.tech/lambda/2016/08/07/almost-y-combinator-clojure.html][Recursions without names: Introduction to the Y combinator in clojure]]
 **** DONE [[http://blog.klipse.tech/lambda/2016/07/24/lambda-calculus-2.html][Lambda Calculus Live Tutorial with Klipse: Boolean Algebra]]
 **** DONE [[https://www.youtube.com/watch?v=o69H0MXCNxw][Zach Tellman - Some Things That Macros Do - Curry On]]
 **** DONE Learn about "advising" lisp functions
