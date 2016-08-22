@@ -2,15 +2,17 @@
 #+TITLE: <2016-08-22 Mon>
 #+OPTIONS: toc:nil
 * Yesterday
-- Paired with Marc on recommended and nearby listings
+- Recommended and nearby listings
+  - Paired with Marc
   - Completed refactorings
   - Added and fixed Dredd tests
   - Added integration tests
   - Submitted PR
+  - Additional refactoring
+  - Next Sprint's 5%
 * Today
 - 1:1 with Kaushik
 - Engineering Council
-- Self Review
 - Implement feedback for recommended and nearby listings PR
 * Blockers
 - nil
