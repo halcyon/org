@@ -1,0 +1,15 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-23 Tue>
+#+OPTIONS: toc:nil
+* Yesterday
+- Recommended and nearby listings
+  - 1:1 with Kaushik
+  - Studied some GoF Design Patterns
+    - Command
+    - Strategy
+    - State
+    - Visitor
+  - Minor refactoring on recommended/nearby listings
+* Today
+* Blockers
+- nil

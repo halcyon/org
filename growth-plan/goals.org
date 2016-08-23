@@ -17,6 +17,8 @@
 *** STARTED https://sourcemaking.com/design_patterns
 *** STARTED http://mishadoff.com/blog/clojure-design-patterns/
 *** STARTED [[http://hrsoft.rentpath.com][self-eval]]
+*** TODO [[http://clojure.org/reference/multimethods][Multimethods and Hierarchies]]
+*** TODO [[http://clojure.org/guides/spec#_instrumentation_and_testing][Instrumentation and Testing]]
 *** TODO [[http://baatz.io/posts/haskell-in-a-startup/]]
 *** TODO [[https://christopherdbui.com][cb on software]]
 *** TODO [[http://www.viksit.com/tags/clojure/practical-applications-y-combinator-clojure/][Practical applications of Y Combinators in Clojure]]
