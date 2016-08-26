@@ -1,0 +1,11 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-25 Thu>
+#+OPTIONS: toc:nil
+* Yesterday
+- Laundry refinements
+  - Implemented feedback
+- Read PRs
+* Today
+- More work on Laundry refinements
+* Blockers
+- nil

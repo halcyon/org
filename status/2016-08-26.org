@@ -1,0 +1,11 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-26 Fri>
+#+OPTIONS: toc:nil
+* Yesterday
+- Laundry refinements
+  - Implemented feedback
+- Listing service release
+* Today
+- Add tests for Laundry refinements on listings by id
+* Blockers
+- nil
