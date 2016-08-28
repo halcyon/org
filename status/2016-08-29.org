@@ -1,0 +1,11 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-29 Mon>
+#+OPTIONS: toc:nil
+* Yesterday
+- Completed Laundry refinements
+- Worked on Ratings refinements
+* Today
+- Seem to have a bug in my Ratings refinements, as I'm get the same
+  number of records back when using the refinement as when not
+* Blockers
+- nil
