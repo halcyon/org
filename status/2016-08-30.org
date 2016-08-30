@@ -1,0 +1,12 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-08-30 Tue>
+#+OPTIONS: toc:nil
+* Yesterday
+- Implemented feedback on refinements
+- Added Ratings for /listings
+- Meetings Monday
+- Macro Monday
+* Today
+- Work on listings referrals defect where a 500 is thrown when the referring record is missing
+* Blockers
+- nil
