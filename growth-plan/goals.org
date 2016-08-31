@@ -12,11 +12,11 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Todo List [55/84]
-** Todo [0/27]
-*** STARTED https://sourcemaking.com/design_patterns
-*** STARTED http://mishadoff.com/blog/clojure-design-patterns/
+* Todo List [55/89]
+** Todo [0/34]
 *** STARTED [[http://hrsoft.rentpath.com][self-eval]]
+*** TODO https://sourcemaking.com/design_patterns
+*** TODO http://mishadoff.com/blog/clojure-design-patterns/
 *** TODO [[https://asciinema.org/a/84033][CommonLisp SLIME, Quicklisp, ASDF and Prove Test-Driven Development Session]]
 *** TODO [[http://lispcookbook.github.io/cl-cookbook/][Common Lisp Cookbook]]
 *** TODO [[https://www.emacswiki.org/emacs/ElispCookbook][Elisp Cookbook]]
@@ -28,7 +28,7 @@
 *** TODO [[https://christopherdbui.com][cb on software]]
 *** TODO [[http://www.viksit.com/tags/clojure/practical-applications-y-combinator-clojure/][Practical applications of Y Combinators in Clojure]]
 *** TODO [[http://blog.klipse.tech/lambda/2016/08/10/y-combinator-app.html][Y combinator real life application: recursive memoization in clojure]]
-*** STARTED finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
+*** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
 *** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
 *** TODO Buy soft gum picks
