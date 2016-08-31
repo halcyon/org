@@ -15,6 +15,9 @@
 * Todo List [55/89]
 ** Todo [0/34]
 *** STARTED [[http://hrsoft.rentpath.com][self-eval]]
+*** TODO mail in shoes
+*** TODO mail in passport renewal
+*** TODO mail in vehicle registration renewal
 *** TODO https://sourcemaking.com/design_patterns
 *** TODO http://mishadoff.com/blog/clojure-design-patterns/
 *** TODO [[https://asciinema.org/a/84033][CommonLisp SLIME, Quicklisp, ASDF and Prove Test-Driven Development Session]]
