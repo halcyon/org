@@ -15,6 +15,7 @@
 * Todo List [55/89]
 ** Todo [0/34]
 *** STARTED [[http://hrsoft.rentpath.com][self-eval]]
+*** TODO test
 *** TODO mail in adidas shoes
 *** TODO mail in passport renewal
 *** TODO mail in vehicle registration renewal
