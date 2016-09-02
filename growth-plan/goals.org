@@ -15,7 +15,6 @@
 * Todo List [55/89]
 ** Todo [0/34]
 *** STARTED [[http://hrsoft.rentpath.com][self-eval]]
-*** TODO test
 *** TODO mail in adidas shoes
 *** TODO mail in passport renewal
 *** TODO mail in vehicle registration renewal
@@ -281,3 +280,84 @@
 - agents
 ** House
 *** [[http://homeguides.sfgate.com/transplant-maple-trees-41935.html][How to transplant a maple]]
+
+* readability
+- https://incenp.org/notes/2015/using-an-offline-gnupg-master-key.html
+- http://blog.thezerobit.com/2012/09/01/beautiful-quicksort-in-common-lisp.html
+- http://blog.thezerobit.com/2012/07/28/lazy-sequences-in-common-lisp.html
+- http://blog.thezerobit.com/2012/07/21/immutable-persistent-data-structures-in-common-lisp.html
+- http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/
+- https://blog.caseylucas.com/2013/03/03/oracle-sqlplus-and-instant-client-on-mac-osx-without-dyld_library_path/
+- https://alexcabal.com/creating-the-perfect-gpg-keypair/
+- http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/
+- http://www.drdobbs.com/parallel/lisp-classes-in-the-metaobject-protocol/200000266
+- http://sectionhiker.com/portable-hammock-stands-for-camping-by-derek-hansen/
+- https://leonid.shevtsov.me/post/oauth2-is-easy/
+- https://www.booleanknot.com/blog/2016/07/15/asynchronous-ring.html
+- https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/
+- http://hubpages.com/technology/Clojure-macro-writing-macros
+- https://learnxinyminutes.com/docs/clojure-macros/
+- https://www.reddit.com/r/Clojure/comments/4rcwyi/edge_a_complete_clojure_project_you_can_leap_from/d51kzyi
+- http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html
+- http://cellperformance.beyond3d.com/articles/2008/03/three-big-lies.html
+- https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/
+- http://help.trello.com/article/821-using-markdown-in-trello
+- http://help.trello.com/article/734-how-to-use-trello-like-a-pro
+- https://sites.google.com/site/steveyegge2/effective-emacs
+- http://blog.darevay.com/2011/08/briefly-the-arity-reduce-pattern-in-clojure/
+- http://clojure.org/reference/transients
+- http://martinfowler.com/bliki/CircuitBreaker.html
+- https://lexi-lambda.github.io/blog/2016/06/12/four-months-with-haskell/
+- http://bytopia.org/2014/07/07/inline-functions-in-clojure/
+- http://prog21.dadgum.com/215.html
+- http://prog21.dadgum.com/218.html
+- http://prog21.dadgum.com/195.html
+- http://prog21.dadgum.com/177.html
+- https://www.gnu.org/software/emacs/emacs-paper.html
+- https://github.com/chemouna/ClojureResources
+- http://www.evanmiller.org/elixir-ram-and-the-template-of-doom.html
+- http://kotka.de/blog/2010/03/memoize_done_right.html
+- http://betterexplained.com/guides/calculus/
+- http://www.breck-mckye.com/blog/2016/04/monads-explained-quickly/
+- http://www.businessinsider.com/the-inside-story-of-how-amazon-created-echo-2016-4?op=1
+- https://www.thekua.com/atwork/2016/04/12-years-12-lessons-working-at-thoughtworks/
+- http://mockfakestub.logdown.com/posts/289830
+- https://wiki.archlinux.org/index.php/Emacs#Shift_.2B_Arrow_keys_not_working_in_emacs_within_tmux
+- https://github.com/Homebrew/homebrew-bundle
+- https://github.com/colinrymer/philote/blob/master/roles/development/tasks/osx_defaults.yml
+- http://www.nytimes.com/2016/03/26/opinion/andy-groves-warning-to-silicon-valley.html?action=click&pgtype=Homepage&clickSource=story-heading&module=opinion-c-col-left-region&region=opinion-c-col-left-region&WT.nav=opinion-c-col-left-region&_r=1
+- http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+- https://www.oreilly.com/ideas/why-a-pattern-language-for-microservices?imm_mid=0e20f1&cmp=em-prog-na-na-newsltr_20160326
+- http://jacquesmattheij.com/my-passion-was-my-weak-spot
+- http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=second-column-region&region=top-news&WT.nav=top-news&_r=1
+- https://codewords.recurse.com/issues/two/git-from-the-inside-out
+- http://blogs.scientificamerican.com/guest-blog/beyond-resveratrol-the-anti-aging-nad-fad/?utm_source=outbrain&utm_medium=content&utm_term=longevity&utm_content=fastandMIT&utm_campaign=june2015
+- http://www.fastcompany.com/944128/worker-interrupted-cost-task-switching
+- https://moz.com/rand/if-management-is-the-only-way-up-were-all-fd/
+- http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
+- https://blogs.oracle.com/jonthecollector/entry/presenting_the_permanent_generation
+- http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-clojure.html
+- http://www.academia.edu/9761706/Building_a_Technical_Blog_Site_With_Jekyll_And_Emacs
+- http://juanreyero.com/open/ox-leanpub/index.html
+- http://jonathangraham.github.io/2015/09/01/Clojure%20functions/
+- http://juanreyero.com/article/emacs/org-teams.html
+- http://paulgraham.com/popular.html
+- http://begriffs.com/posts/2016-01-29-making-twenty-percent-time-work.html
+- https://divan.github.io/posts/go_concurrency_visualize/
+- http://paulgraham.com/javacover.html
+- http://paulgraham.com/avg.html
+- http://lib.store.yahoo.net/lib/paulgraham/bbnexcerpts.txt
+- http://lib.store.yahoo.net/lib/paulgraham/acl1.txt
+- http://lib.store.yahoo.net/lib/paulgraham/acl2.txt
+- http://paulgraham.com/progbot.html
+- https://www.masteringemacs.org/article/spotlight-flycheck-a-flymake-replacement
+- http://anmonteiro.com/2016/01/om-next-query-syntax/
+- http://web.media.mit.edu/~minsky/OLPC-1.html
+- http://staltz.com/why-react-redux-is-an-inferior-paradigm.html
+- http://blog.circleci.com/why-we-use-om-and-why-were-excited-for-om-next/
+- https://wingolog.org/archives/2016/01/19/unboxing-in-guile
+- https://dzone.com/articles/the-observer-pattern-using-modern-java?edition=132257&utm_source=Daily%20Digest&utm_medium=email&utm_content=DZone%20Daily%20Digest&utm_campaign=dd%202016-01-12&userid=796093
+- http://seekingalpha.com/article/3817686-options-boost-exxon-mobil-yield
+- http://www.more-magic.net/posts/internals-data-representation.html
+- http://www.more-magic.net/posts/internals-gc.html
+- http://mishadoff.com/blog/clojure-design-patterns/
