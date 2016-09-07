@@ -12,15 +12,15 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Todo List [55/89]
-** Todo [0/34]
-*** STARTED [[http://hrsoft.rentpath.com][self-eval]]
+* Todo List [55/94]
+** Todo [0/37]
 *** TODO mail in adidas shoes
 *** TODO mail in passport renewal
-*** TODO mail in vehicle registration renewal
+*** TODO change password of subkey
 *** TODO https://sourcemaking.com/design_patterns
 *** TODO http://mishadoff.com/blog/clojure-design-patterns/
 *** TODO [[https://asciinema.org/a/84033][CommonLisp SLIME, Quicklisp, ASDF and Prove Test-Driven Development Session]]
+*** TODO [[http://stackoverflow.com/questions/1152362/getting-items-on-the-local-clipboard-from-a-remote-ssh-session][ssh clipboard]]
 *** TODO [[http://lispcookbook.github.io/cl-cookbook/][Common Lisp Cookbook]]
 *** TODO [[https://www.emacswiki.org/emacs/ElispCookbook][Elisp Cookbook]]
 *** TODO [[https://github.com/nickg/swank-chicken][Swank Chicken]] [[http://wiki.call-cc.org/eggref/4/slime][Chicken Slime]]
@@ -283,9 +283,6 @@
 
 * readability
 - https://incenp.org/notes/2015/using-an-offline-gnupg-master-key.html
-- http://blog.thezerobit.com/2012/09/01/beautiful-quicksort-in-common-lisp.html
-- http://blog.thezerobit.com/2012/07/28/lazy-sequences-in-common-lisp.html
-- http://blog.thezerobit.com/2012/07/21/immutable-persistent-data-structures-in-common-lisp.html
 - http://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/
 - https://blog.caseylucas.com/2013/03/03/oracle-sqlplus-and-instant-client-on-mac-osx-without-dyld_library_path/
 - https://alexcabal.com/creating-the-perfect-gpg-keypair/
@@ -361,3 +358,20 @@
 - http://www.more-magic.net/posts/internals-data-representation.html
 - http://www.more-magic.net/posts/internals-gc.html
 - http://mishadoff.com/blog/clojure-design-patterns/
+
+A Perfect Murder
+Action Jackson
+Airheads
+Akira - CD2
+All The Pretty Horses
+Amadeus.CD1.avi
+Animal Crackers
+noble-apoc1.avi
+BadBoys
+Barry Lyndon Cd2.avi
+Basic Instinct
+Bend it like Beckham
+Beverly Hills Cops 3
+Black Mask
+Black Rain CD1.avi
+Black Rain CD2.avi
