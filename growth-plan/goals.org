@@ -14,6 +14,9 @@
 
 * Todo List [55/94]
 ** Todo [0/37]
+*** TODO https://www.macstories.net/tutorials/switching-from-google-authenticator-or-authy-to-1password/
+*** TODO [[https://leanpub.com/understandinges6/read][Understanding ES6]]
+*** TODO [[https://reactjs.co/][ReactJS Redux, the Right Way]]
 *** TODO mail in adidas shoes
 *** TODO mail in passport renewal
 *** TODO change password of subkey
