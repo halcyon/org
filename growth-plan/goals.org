@@ -14,6 +14,7 @@
 
 * Todo List [55/94]
 ** Todo [0/37]
+*** TODO [[https://www.rabbitmq.com/tutorials/amqp-concepts.html][AMQP 0-9-1 Model Explained]]
 *** TODO [[https://www.youtube.com/watch?v=VNTQ-M_uSo8]["Agility & Robustness: Clojure spec" by Stuart Halloway]]
 *** TODO [[http://clojure.org/guides/spec#_instrumentation_and_testing][Instrumentation and Testing]]
 *** TODO [[https://leanpub.com/understandinges6/read][Understanding ES6]]
