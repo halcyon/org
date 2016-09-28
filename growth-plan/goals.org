@@ -14,10 +14,37 @@
 
 * Todo List [55/94]
 ** Todo [0/37]
+user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publics 'clojure.core))))
+(#'clojure.core/qualified-keyword?
+ #'clojure.core/*print-namespace-maps*
+ #'clojure.core/inst-ms
+ #'clojure.core/any?
+ #'clojure.core/boolean?
+ #'clojure.core/inst?
+ #'clojure.core/simple-symbol?
+ #'clojure.core/StackTraceElement->vec
+ #'clojure.core/uri?
+ #'clojure.core/double?
+ #'clojure.core/int?
+ #'clojure.core/bigdec?
+ #'clojure.core/indexed?
+ #'clojure.core/simple-keyword?
+ #'clojure.core/neg-int?
+ #'clojure.core/bounded-count
+ #'clojure.core/bytes?
+ #'clojure.core/ident?
+ #'clojure.core/qualified-ident?
+ #'clojure.core/nat-int?
+ #'clojure.core/pos-int?
+ #'clojure.core/uuid?
+ #'clojure.core/simple-ident?
+ #'clojure.core/qualified-symbol?
+ #'clojure.core/seqable?)
 *** TODO [[https://www.rabbitmq.com/tutorials/amqp-concepts.html][AMQP 0-9-1 Model Explained]]
 *** TODO [[https://stefanoborini.gitbooks.io/modelviewcontroller/content/02_mvc_variations/variations_on_the_triad/10_model_view_adapter.html][Model View Adapter]]
 *** TODO [[https://www.youtube.com/watch?v=VNTQ-M_uSo8]["Agility & Robustness: Clojure spec" by Stuart Halloway]]
 *** TODO [[http://clojure.org/guides/spec#_instrumentation_and_testing][Instrumentation and Testing]]
+*** TODO Service As A Library
 *** TODO [[https://leanpub.com/understandinges6/read][Understanding ES6]]
 *** TODO [[https://reactjs.co/][ReactJS Redux, the Right Way]]
 *** TODO mail in adidas shoes
