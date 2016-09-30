@@ -150,6 +150,7 @@ user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publ
 *** HOLD https://jwiegley.github.io/git-from-the-bottom-up/
 *** HOLD [[https://git-scm.com/docs/git-rebase][Splitting Commits]]
 
+*** HOLD [[https://hackernoon.com/lesser-known-git-commands-151a1918a60#.q9w1gtwhh][Lesser Known Git Commands]]
 ** HOLD [[http://learnyouahaskell.com/][Learn You a Haskell for Great Good!]]
 ** HOLD [[http://www.macs.hw.ac.uk/~greg/books/gjm.book95.ps][G.J.Michaelson, Elementary Standard ML, UCL Press, ISBN 1-85728-398-8, 1995]]
 ** HOLD [[http://www.macs.hw.ac.uk/~greg/books/gjm.lambook88.ps][G.J.Michaelson, An Introduction to Functional Programming Through Lambda Calculus, Addison-Wesley, ISBN 0-201-17812-5, 1988]]
