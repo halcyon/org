@@ -1,0 +1,12 @@
+#+AUTHOR: Scott McLeod
+#+TITLE: <2016-10-03 Mon>
+#+OPTIONS: toc:nil
+* Yesterday
+  - Merged [[https://www.pivotaltracker.com/story/show/129716695][/listings Sort by ratings]]
+  - Merged [[https://www.pivotaltracker.com/story/show/129716937][/listings Sort by price]]
+  - Paired with Casp to fix failing CI deployments
+  - Paired with Sam on [[https://www.pivotaltracker.com/story/show/130787199][/listings Support chaining of sort options]]
+* Today
+  - [[https://www.pivotaltracker.com/story/show/131473991][/neighborhood-points Ratings Range in response]]
+* Blockers
+  - nil
