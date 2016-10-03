@@ -1,4 +1,5 @@
-* What do you consider to be your major on-the-job accomplishments over the last 12 months? In other words, what are you most proud of?
+* Self Assessment
+** What do you consider to be your major on-the-job accomplishments over the last 12 months? In other words, what are you most proud of?
 
 - RentPath
   - Proficient contributor and maintainer of Listing Service project
@@ -62,28 +63,82 @@
   - Completed 30 Days of Code - a Java based HackerRank course
 
 
-* List your strengths, and opportunities for improvement in your current position.
+** List your strengths, and opportunities for improvement in your current position.
 
-- Strengths
-  - Highly productive and efficient
+ - Strengths
+   - Highly productive and efficient
 
-- Opportunities
-  - Give a tech talk
+ - Opportunities
+   - Give a tech talk
 
-* What could be changed within your work environment to increase your overall job satisfaction?
-- Less process/ceremony
-  - Fewer meetings
-- Bring back 10% time
+** What could be changed within your work environment to increase your overall job satisfaction?
+ - Less process/ceremony
+   - Fewer meetings
+ - Bring back 10% time
 
-* What professional goals would you be interested in working toward during the next 12 months? Include any additional training required.
-- Give a talk
-- Self Study
-  - Theoretical foundations and influences on Clojure
-    - Common Lisp ([[http://www.gigamonkeys.com/book/][Practical Common Lisp - Peter Seibel]])
-    - Scheme [[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm][MIT Course - Structure and Interpretation of Computer Programs]]
-  - Gang of Four Design Patterns and their Clojure analogues
-  - A concatenative language (Factor or Forth)
-  - [[http://learnyouahaskell.com/][Haskell]] (Category Theory/Pattern Matching/Purely Functional/Monads)
-  - [[http://learnyousomeerlang.com/][Erlang]] (Massively paralell/Patterm Matching/Foundation for Elixir)
-  - Elixir
-  - Further improvements to Emacs proficiency http://emacsrocks.com/
+** What professional goals would you be interested in working toward during the next 12 months? Include any additional training required.
+ - Give a talk
+ - Self Study
+   - Theoretical foundations and influences on Clojure
+     - Common Lisp ([[http://www.gigamonkeys.com/book/][Practical Common Lisp - Peter Seibel]])
+     - Scheme [[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/index.htm][MIT Course - Structure and Interpretation of Computer Programs]]
+   - Gang of Four Design Patterns and their Clojure analogues
+   - A concatenative language (Factor or Forth)
+   - [[http://learnyouahaskell.com/][Haskell]] (Category Theory/Pattern Matching/Purely Functional/Monads)
+   - [[http://learnyousomeerlang.com/][Erlang]] (Massively paralell/Patterm Matching/Foundation for Elixir)
+   - Elixir
+   - Further improvements to Emacs proficiency http://emacsrocks.com/
+
+* Strengths/Accomplishments
+- Commenter: Kaushik Acharya
+- Status: Public
+- 9/29/2016: 6:35:15 PM
+Scott is a driven employee who focuses well on his tasks. During the
+course of the past year, Scott has made material contributions toward
+various Clojure code bases (in chronological order):
+
+- LeasePulse
+- Reviews API (new version)
+- Sitemapper
+- Listing Service
+
+  Specifically during the recent push in the development of Listing
+  Service, Scott has made great strides in getting features implemented
+  and delivered to QA, while maintaing reasonable code quality.
+
+  Scott's peers have expressed pleasure in pairing with him and describe the sessions as productive and informative.
+
+  Scott is meticulous about testing his code, which leads to added confidence in the team as far as code quality and fulfilment of business concerns are concerned.
+
+* Opportunities for Improvement
+- Commenter: Kaushik Acharya
+- Status: Public
+- 9/29/2016: 6:38:48 PM
+  Since joining RentPath, Scott has acquired in-depth knowledge of many
+  Clojure intricacies, which has helped him make good progress in his
+  position as senior software engineer.
+
+  As Scott progresses along his career, I would like to see him gain
+  more proficiency, not only as a coder but also in peripheral developer
+  skill sets such as assuming lead on projects and mentoring of junior
+  developers (some of which he has been doing).
+
+  Scott should work toward gaining knowledge of not only what code to
+  write in a given situation, but also why. I feel that exposure to this
+  side of the development world will only help him in his future
+  endeavors.
+
+  To this end, I would like to see Scott actively participate in
+  senior-level disucssions around code layout and architecture. Going
+  forward, I would like to see him advance to where he can make such
+  decisions himself and have those decisions be accepted by his
+  Engineering Lead and his peers.
+
+  Scott should seek pairing opportunities with other senior developers
+  also the Engineering Lead. This will ensure that his knowledge and
+  experience will grow as he gets exposed to the analysis and resolution
+  of complex business tasks using software.
+
+  Finally, I would also like Scott to give Tech Talks, which will not
+  only hone his own knowledge, but let others benefit from his research
+  as well.
