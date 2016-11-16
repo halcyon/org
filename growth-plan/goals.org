@@ -52,6 +52,7 @@ user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publ
 *** TODO https://sourcemaking.com/design_patterns
 *** TODO http://mishadoff.com/blog/clojure-design-patterns/
 *** TODO [[https://asciinema.org/a/84033][CommonLisp SLIME, Quicklisp, ASDF and Prove Test-Driven Development Session]]
+*** TODO [[https://ftfl.ca/blog/2015-12-28-emacs-clipboard-manager.html][emacs clipboard manager]]
 *** TODO [[http://stackoverflow.com/questions/1152362/getting-items-on-the-local-clipboard-from-a-remote-ssh-session][ssh clipboard]]
 *** TODO [[http://lispcookbook.github.io/cl-cookbook/][Common Lisp Cookbook]]
 *** TODO [[https://www.emacswiki.org/emacs/ElispCookbook][Elisp Cookbook]]
