@@ -15,6 +15,7 @@
 * Todo List [55/98]
 ** Todo [0/41]
 *** [[http://www.faqs.org/docs/artu/index.html][The Art Of Unix Programming]]
+*** [[http://thoughtram.io/rust-and-nickel][Rethinking Systems Programming]]
 *** GS Bank
 *** [[http://orgmode.org/manual/Capture.html][Org Capture]]
 user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publics 'clojure.core))))
