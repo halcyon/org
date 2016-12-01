@@ -44,12 +44,13 @@ user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publ
  #'clojure.core/simple-ident?
  #'clojure.core/qualified-symbol?
  #'clojure.core/seqable?)
+*** TODO mail in adidas shoes
+*** TODO githubify mohnani-group website
 *** TODO [[https://stefanoborini.gitbooks.io/modelviewcontroller/content/02_mvc_variations/variations_on_the_triad/10_model_view_adapter.html][Model View Adapter]]
 *** TODO [[https://www.youtube.com/watch?v=VNTQ-M_uSo8]["Agility & Robustness: Clojure spec" by Stuart Halloway]]
 *** TODO [[http://clojure.org/guides/spec#_instrumentation_and_testing][Instrumentation and Testing]]
 *** TODO [[https://leanpub.com/understandinges6/read][Understanding ES6]]
 *** TODO [[https://reactjs.co/][ReactJS Redux, the Right Way]]
-*** TODO mail in adidas shoes
 *** TODO mail in passport renewal
 *** TODO https://sourcemaking.com/design_patterns
 *** TODO http://mishadoff.com/blog/clojure-design-patterns/
