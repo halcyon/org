@@ -12,14 +12,13 @@
 *** Non-Technical
 **** TODO [[http://12factor.net/][The Twelve-Factor App]]
 
-* Todo List [55/98]
-** Todo [0/41]
-*** GS Bank
-*** [[https://github.com/brson/httptest][How to build a web service in Rust]]
-*** [[https://github.com/johnschug/rust-gpgme][rust-gpgme]]
-*** [[https://github.com/mikedilger/mailstrom][Mailstrom]]
-*** [[github.com/emk/heroku-buildpack-rust][heroku-buildpack-rust]]
-*** rclone dropbox->google
+* Todo List [55/100]
+** Todo [0/43]
+*** TODO [[http://julienblanchard.com/2015/rust-on-aws-lambda/][Rust on AWS Lambda]]
+**** [[https://github.com/brson/httptest][How to build a web service in Rust]]
+**** [[https://github.com/johnschug/rust-gpgme][rust-gpgme]]
+**** [[https://github.com/mikedilger/mailstrom][Mailstrom]]
+**** [[github.com/emk/heroku-buildpack-rust][heroku-buildpack-rust]]
 *** [[http://www.faqs.org/docs/artu/index.html][The Art Of Unix Programming]]
 *** [[http://thoughtram.io/rust-and-nickel][Rethinking Systems Programming]]
 *** [[http://orgmode.org/manual/Capture.html][Org Capture]]
