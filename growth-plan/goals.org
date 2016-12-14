@@ -19,6 +19,7 @@
 **** [[https://github.com/johnschug/rust-gpgme][rust-gpgme]]
 **** [[https://github.com/mikedilger/mailstrom][Mailstrom]]
 **** [[github.com/emk/heroku-buildpack-rust][heroku-buildpack-rust]]
+*** [[https://github.com/untangled-web/untangled-devguide][Untangled Dev Guide]]
 *** [[http://www.faqs.org/docs/artu/index.html][The Art Of Unix Programming]]
 *** [[http://thoughtram.io/rust-and-nickel][Rethinking Systems Programming]]
 *** [[http://orgmode.org/manual/Capture.html][Org Capture]]
