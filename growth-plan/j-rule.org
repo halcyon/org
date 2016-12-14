@@ -1,0 +1,8 @@
+* Initiating Option Position
+** Call
+*** 30% @ The Money Premium (first approximation)
+*** Find a strike at that value
+** Put
+*** 30% @ The Money Premium (first approximation)
+*** STO Put
+*** BTO Put * .5 of ^
