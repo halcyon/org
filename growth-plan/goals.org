@@ -19,6 +19,10 @@
 **** [[https://github.com/johnschug/rust-gpgme][rust-gpgme]]
 **** [[https://github.com/mikedilger/mailstrom][Mailstrom]]
 **** [[github.com/emk/heroku-buildpack-rust][heroku-buildpack-rust]]
+*** TODO [[https://www.tastytrade.com/tt/learn][Tasty Trade]]
+**** TODO [[https://www.tastytrade.com/tt/shows/step-up-to-options][Step Up To Options]]
+**** TODO [[https://www.tastytrade.com/tt/glossary][Glossary]]
+**** TODO [[https://www.tastytrade.com/tt/learn/implied-volatility][Implied Volatility]]
 *** [[https://github.com/untangled-web/untangled-devguide][Untangled Dev Guide]]
 *** [[http://www.faqs.org/docs/artu/index.html][The Art Of Unix Programming]]
 *** [[http://thoughtram.io/rust-and-nickel][Rethinking Systems Programming]]
@@ -89,7 +93,6 @@ user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publ
 *** TODO https://github.com/weavejester/reloaded.repl [[https://www.reddit.com/r/Clojure/comments/4rcwyi/edge_a_complete_clojure_project_you_can_leap_from/d51kzyi]]
 *** TODO http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/
 *** TODO [[http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/][This 90-Day Plan Turns Engineers into Remarkable Managers]]
-*** TODO Tasty Trade
 *** TODO fix cl-lib namespace issue in org-reveal
 
 ** Done [55/55]
