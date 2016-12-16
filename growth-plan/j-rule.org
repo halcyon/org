@@ -1,8 +1,36 @@
 * Initiating Option Position
 ** Call
-*** 30% @ The Money Premium (first approximation)
-*** Find a strike at that value
+- 30% @ The Money Premium (first approximation)
+- Find a strike at that value
 ** Put
-*** 30% @ The Money Premium (first approximation)
-*** STO Put
-*** BTO Put * .5 of ^
+- 30% @ The Money Premium (first approximation)
+- STO Put
+- BTO Put * .5 of ^
+
+137 3.35
+
+HD Feb 17
+| Op  | Type | Quantity | Strike | Worst | Best |
+|-----+------+----------+--------+-------+------|
+| STO | Call |        1 |    143 |   103 |  109 |
+| STO | Put  |        1 |    129 |    96 |  104 |
+| BTO | Put  |        1 |    124 |   -53 |  -45 |
+|-----+------+----------+--------+-------+------|
+|     |      |          |        |   146 |  168 |
+#+TBLFM: @5$5=vsum(@2..@-1)::@5$6=vsum(@2..@-1)
+
+HD Feb 17
+@The Money Call Premium 415
+@The Money Put Premium 443
+
+Call .3 of 415 = 125
+Put .3 of 443 = 133
+
+| Op  | Type | Quantity | Strike | Worst | Best |
+|-----+------+----------+--------+-------+------|
+| STO | Call |        1 |    145 |   121 |  123 |
+| STO | Put  |        1 |    125 |    97 |   99 |
+| BTO | Put  |        1 |    115 |   -35 |  -34 |
+|-----+------+----------+--------+-------+------|
+|     |      |          |        |   183 |  188 |
+#+TBLFM: @5$5=vsum(@2..@4)::@5$6=vsum(@2..@4)
