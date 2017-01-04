@@ -14,11 +14,9 @@
 
 * Todo List [55/100]
 ** Todo [0/43]
+*** TODO Call/Put @ The Money Premium extrapolation
 *** TODO [[http://julienblanchard.com/2015/rust-on-aws-lambda/][Rust on AWS Lambda]]
 **** [[https://github.com/brson/httptest][How to build a web service in Rust]]
-**** [[https://github.com/johnschug/rust-gpgme][rust-gpgme]]
-**** [[https://github.com/mikedilger/mailstrom][Mailstrom]]
-**** [[github.com/emk/heroku-buildpack-rust][heroku-buildpack-rust]]
 *** TODO [[https://www.tastytrade.com/tt/learn][Tasty Trade]]
 **** TODO [[https://www.tastytrade.com/tt/shows/step-up-to-options][Step Up To Options]]
 **** TODO [[https://www.tastytrade.com/tt/glossary][Glossary]]
@@ -79,7 +77,6 @@ user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publ
 *** TODO finish [[https://youtu.be/dGVqrGmwOAw?t=1317][Clojure Concurrency - Rich Hickey]]
 *** TODO Learn refs and agents [[http://www.tbray.org/ongoing/When/200x/2009/12/01/Clojure-Theses][Eleven Theses on Clojure]] [[http://blog.jayfields.com/2011/04/clojure-state-management.html][JayFields - It's About State]] [[http://www.shayne.me/blog/2015/2015-09-14-clojure-agents/][Clojure's Overlooked Agents]]
 *** TODO http://joearms.github.io/2013/05/31/a-week-with-elixir.html
-*** TODO Buy soft gum picks
 *** TODO https://www.infoq.com/presentations/Clojure-Reducers
 *** TODO https://bendyworks.com/transducers-clojures-next-big-idea/
 *** TODO http://kukuruku.co/hub/funcprog/clojure-transducers-reducers-and-other-stuff
