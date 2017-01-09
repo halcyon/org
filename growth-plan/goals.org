@@ -18,6 +18,7 @@
 **** TODO Blog about AWS Lambda experience
 **** TODO Contribute to Clojure Community
 **** TODO Haskell/Scala/Rust Type System/Optional Types/Monads
+**** TODO Big Data/Analytics/Deep Learning/Stats
 *** TODO Call/Put @ The Money Premium extrapolation
 *** TODO [[http://julienblanchard.com/2015/rust-on-aws-lambda/][Rust on AWS Lambda]]
 **** [[https://github.com/brson/httptest][How to build a web service in Rust]]
