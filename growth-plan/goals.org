@@ -19,11 +19,10 @@
 **** TODO Contribute to Clojure Community
 **** TODO Haskell/Scala/Rust Type System/Optional Types/Monads
 **** TODO Big Data/Analytics/Deep Learning/Stats
-*** TODO Call/Put @ The Money Premium extrapolation
+*** TODO https://soundcloud.com/podcastcode
 *** TODO [[http://julienblanchard.com/2015/rust-on-aws-lambda/][Rust on AWS Lambda]]
 **** [[https://github.com/brson/httptest][How to build a web service in Rust]]
 *** TODO [[https://www.tastytrade.com/tt/learn][Tasty Trade]]
-**** TODO [[https://www.tastytrade.com/tt/shows/step-up-to-options][Step Up To Options]]
 **** TODO [[https://www.tastytrade.com/tt/glossary][Glossary]]
 **** TODO [[https://www.tastytrade.com/tt/learn/implied-volatility][Implied Volatility]]
 *** [[https://github.com/awkay/om/wiki/Om-Next-Overview][Om Next Overview]]
