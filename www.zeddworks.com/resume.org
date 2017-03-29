@@ -14,13 +14,13 @@
 ** *Senior Clojure Developer*
 - tel: 404-697-0103
 - email: scott.mcleod@zeddworks.com
-- website: https://www.zeddworks.com/resume
+- website: http://www.zeddworks.com/resume
 
 * Professional Summary
 *** *Programming Languages*
-Clojure, JavaScript, Java, Ruby, Groovy, CoffeeScript, Python, C, C++, C#, Bash, Scala
+Clojure, ClojureScript, JavaScript, Java, Ruby, Groovy, CoffeeScript, Python, Rust, C, C++, C#, Bash, Scala
 *** *Cloud Deployment*
-Heroku
+Amazon Lambda, Heroku
 *** *Continuous Integration*
 Jenkins, Travis
 *** *Project Management and Agile Methodologies*
@@ -32,7 +32,7 @@ Mockito, TestNG, JUnit, Jasmine, Karma, Mocha, RSpec, Selenium, Watir
 *** *Web Technologies*
 HTML5, CSS, JavaScript, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup (Clojure HTML templating library)
 *** *Frameworks*
-Ruby on Rails, Compojure (Clojure web service routing library), Grails, Spring, Stripes, Hibernate, Ibatis
+Om, Reagent, re-frame, Ruby on Rails, Compojure (Clojure web service routing library), Grails, Spring, Stripes, Hibernate, Ibatis
 *** *Message Queues*
 RabbitMQ, ActiveMQ, JMS
 *** *System Administration*
@@ -61,10 +61,11 @@ Pentaho Kettle, Informatica
 * Employment History
 ** October 2015 - Present RentPath, LLC Atlanta, GA
 *** *Senior Clojure Developer*
-- Daily contributor to Clojure team projects
-- Generative testing
-- Integration tests
-- Refactoring & Code Reviews
+- Daily contributor
+- Opensource contributor
+- Generative testing (unit & regression tests)
+- Refactoring
+- Code Reviews
 
 ** August 2014 - October 2015 Connolly iHealth Technologies, Sandy Springs, GA
 *** *Senior Technical Architect*

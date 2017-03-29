@@ -15,6 +15,7 @@
 * Todo List [55/100]
 ** Todo [0/43]
 *** Professional Goals
+**** TODO The halting problem
 **** TODO Blog about AWS Lambda experience
 **** TODO Contribute to Clojure Community
 **** TODO Haskell/Scala/Rust Type System/Optional Types/Monads
