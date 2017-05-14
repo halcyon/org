@@ -1,0 +1,758 @@
+* TW Margin
+** AMRN Reverse Big Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | AMRN   | 15 SEP |    2.5 | PUT  |
+| SHORT |  -1 | AMRN   | 15 SEP |      3 | PUT  |
+| SHORT |  -1 | AMRN   | 15 SEP |      3 | CALL |
+*** Credit
+    - 0.82 Cr. <2017-05-10 Wed>
+*** Cost Basis
+    - 3.70
+** AMZN JUN IC
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | AMZN   | 16 JUN |    870 | PUT  |
+| SHORT |  -1 | AMZN   | 16 JUN |    890 | PUT  |
+| SHORT |  -1 | AMZN   | 16 JUN |   1000 | CALL |
+| LONG  |   1 | AMZN   | 16 JUN |   1020 | CALL |
+*** Credit
+    - 5.55 Cr. <2017-04-28 Fri>
+** BIDU JUN Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | BIDU   | 16 JUN |    175 | PUT  |
+| SHORT |  -1 | BIDU   | 16 JUN |    185 | CALL |
+*** Credit
+    - 2.63 Cr. <2017-04-28 Fri>
+    - 1.25 Cr. <2017-05-05 Fri> (Roll down call 195->185)
+    - 1.00 Cr. <2017-05-10 Wed> (Roll up put 170->175)
+** BP
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | BP     | 16 JUN |     34 | PUT  |
+*** Credit
+    - 0.62 Cr. <2017-05-10 Wed>
+** CAT Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | CAT    | 16 JUN |   92.5 | PUT  |
+*** Credit
+    - 0.68 Cr. <2017-05-05 Fri>
+** CAT Call
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | CAT    | 21 JUL |    100 | CALL |
+*** Credit
+    - 2.28 Cr. <2017-04-24 Mon>
+    - 1.02 Cr. <2017-04-26 Wed> (Roll 28 APR 98.5 -> JUL 100)
+** COST Straddle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | COST   | 19 MAY |    168 | PUT  |
+| SHORT |  -1 | COST   | 16 JUN |    168 | CALL |
+*** Credit
+    - 1.02 Cr. <2017-04-04 Tue>
+    - 0.76 Cr. <2017-04-21 Fri> (Roll up put 155->165)
+    - 1.32 Cr. <2017-04-28 Fri> (Roll up put 165->175)
+    - 1.58 Cr. <2017-05-02 Tue> (Roll call MAY->JUN)
+** COST Earnings Setup Calendar
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | COST   | 16 JUN |    168 | CALL |
+| LONG  |   1 | COST   | 21 JUL |    163 | CALL |
+*** Credit
+    - 1.08 Db. <2017-04-21 Fri>
+** ED Covered Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | ED     | 16 JUN |     75 | PUT  |
+| SHORT |  -1 | ED     | 16 JUN |     80 | CALL |
+*** Credit
+    0.92 Cr. <2017-05-10 Wed>
+*** Cost Basis
+    - 56.0382
+** EFA JUN Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | EFA    | 16 JUN |     64 | PUT  |
+| SHORT |  -1 | EFA    | 16 JUN |     66 | CALL |
+*** Credit
+    - 0.51 Cr. <2017-04-25 Tue>
+    - 0.35 Cr. <2017-05-05 Fri> (Roll up put 61->64)
+** EWW JUN Jade Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | EWW    | 16 JUN |     49 | PUT  |
+| SHORT |  -1 | EWW    | 16 JUN |     53 | PUT  |
+| LONG  |   1 | EWW    | 16 JUN |     54 | CALL |
+*** Credit
+    - 1.04 Cr. <2017-04-25 Tue>
+** EWZ Puts
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | EWZ    | 16 JUN |     37 | PUT  |
+*** Credit
+    - 0.84 Cr. <2017-05-10 Wed>
+** FXE Srangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | FXE    | 16 JUN |    103 | PUT  |
+| SHORT |  -1 | FXE    | 16 JUN |    108 | CALL |
+*** Credit
+    0.47 Cr. <2017-05-10 Wed>
+** GDXJ MAY Jade Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | GDXJ   | 16 JUN |     33 | PUT  |
+| SHORT |  -1 | GDXJ   | 19 MAY |     40 | CALL |
+| SHORT |   1 | GDXJ   | 19 MAY |     41 | CALL |
+*** Credit
+    - 1.07 Cr. <2017-04-06 Thu>
+    - 0.61 Cr. <2017-05-01 Mon> (Roll put MAY->JUN)
+*** GDXJ JUN Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | GDXJ   | 16 JUN |     27 | PUT  |
+| SHORT |  -1 | GDXJ   | 16 JUN |     32 | CALL |
+*** Credit
+    - 0.80 Cr. <2017-05-02 Tue>
+    - 0.69 Cr. <2017-05-04 Thu> (Roll down call 37->32)
+** GLD JUN PUT
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | GLD    | 16 JUN |    119 | CALL |
+*** Credit
+    - 0.72 Cr. <2017-04-25 Tue>
+    - 0.97 Cr. <2017-05-04 Thu> (Roll MAY->JUN)
+** HD JUL Call
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | HD     | 21 JUL |    150 | CALL |
+*** Credit
+    - 0.88 Cr. <2017-04-03 Mon>
+    - 1.45 Cr. <2017-04-11 Tue> (Roll 148->150 APR->MAY)
+    - 1.30 Cr. <2017-05-01 Mon> (Roll MAY->JUL)
+** HTZ Puts
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | HTZ    | 21 JUL |     20 | PUT  |
+|       |     |        |        |        |      |
+*** Credit
+    - 0.51 Cr. <2017-03-13 Mon>
+    - 0.16 Cr. <2017-04-10 Mon> (Roll APR->MAY)
+    - 0.45 Cr. <2017-04-24 Mon> (Roll MAY->JUL)
+** IWM Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | IWM    | 19 MAY |    137 | PUT  |
+*** Credit
+    - 0.66 Cr. <2017-05-10 Wed>
+** LULU MAY Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | LULU   | 19 MAY |     50 | PUT  |
+| SHORT |  -1 | LULU   | 19 MAY |     53 | CALL |
+*** Credit
+    - 0.90 Cr. <2017-04-27 Thu>
+    - 0.29 Cr. <2017-05-05 Fri> (Roll down call 55->53)
+** MCD JUN Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | MCD    | 16 JUN |    145 | PUT  |
+| SHORT |  -1 | MCD    | 16 JUN |    135 | CALL |
+*** Credit
+    - 1.55 Cr. <2017-04-06 Thu>
+    - 1.88 Cr. <2017-04-28 Fri> (Roll up put 125->141)
+    - 3.16 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 141->145)
+** MSFT JUN Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | MSFT   | 16 JUN |   67.5 | PUT  |
+| SHORT |  -1 | MSFT   | 16 JUN |     70 | CALL |
+*** Credit
+    - 0.92 Cr. <2017-04-28 Fri>
+    - 0.49 Cr. <2017-05-03 Wed> (Roll up put 65->67.5)
+** NAT
+*** Cost Basis
+    - 10.5677
+** NUE JUN Straddle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | NUE    | 16 JUN |     60 | PUT  |
+| SHORT |  -1 | NUE    | 16 JUN |     60 | CALL |
+*** Credit
+    - 1.03 Cr. <2017-04-28 Fri>
+    - 2.08 Cr. <2017-05-10 Wed> (Roll MAY->JUN)
+** NUGT Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | NUGT   | 16 JUN |     28 | PUT  |
+*** Credit
+    - 2.30 Cr. <2017-05-10 Wed>
+** OIH JUN Ratio Put Spread
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | OIH    | 16 JUN |     27 | PUT  |
+| LONG  |   1 | OIH    | 16 JUN |     28 | PUT  |
+*** Credit
+    - 0.19 Cr.
+** QCOM
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | QCOM   | 16 JUN |     50 | PUT  |
+| SHORT |  -1 | QCOM   | 16 JUN |   52.5 | CALL |
+| LONG  |   1 | QCOM   | 16 JUN |     55 | CALL |
+*** Credit
+    - 1.75 Cr. <2017-04-28 Fri>
+** QQQ JUN Call
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | QQQ    | 16 JUN |    134 | CALL |
+*** Credit
+    - 1.23 Cr. <2017-04-20 Thu>
+    - 0.79 Cr. <2017-05-03 Wed> (Roll MAY->JUN)
+** QQQ JUN Call
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | QQQ    | 16 JUN |    135 | CALL |
+*** Credit
+    - 1.50 Cr. <2017-04-20 Thu>
+** QQQ JUN Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | QQQ    | 16 JUN |    136 | PUT  |
+*** Credit
+    - 1.23 Cr. <2017-05-10 Wed>
+** SLB
+*** Cost Basis
+    - 76.5
+** SLB Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | SLB    | 16 JUN |     70 | PUT  |
+*** Credit
+    - 0.89 Cr. <2017-04-24 Mon>
+** SLB JUN Covered Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | SLB    | 16 JUN |   72.5 | PUT  |
+| SHORT |  -1 | SLB    | 16 JUN |   77.5 | CALL |
+*** Credit
+    - 2.53 Cr. <2017-04-24 Mon>
+** SLW Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | SLW    | JUN 16 |     18 | PUT  |
+*** Credit
+    - 0.39 Cr. <2017-05-10 Wed>
+** SPY JUN Ratio Call Spread
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | SPY    | 16 JUN |    237 | CALL |
+| SHORT |  -2 | SPY    | 16 JUN |    239 | CALL |
+*** Credit
+    - 1.33 Cr. <2017-04-20 Thu>
+** STO
+*** Cost Basis
+    - 21.8943
+** TEVA Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | TEVA   | 16 JUN |     30 | PUT  |
+*** Credit
+    - 0.90 Cr. <2017-05-10 Wed>
+** TLT JUN Jade Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | TLT    | 16 JUN |    118 | PUT  |
+| SHORT |  -1 | TLT    | 16 JUN |    124 | CALL |
+| LONG  |   1 | TLT    | 16 JUN |    125 | CALL |
+*** Credit
+    - 1.03 Cr. <2017-04-25 Tue>
+** V
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | V      | 16 JUN |     90 | PUT  |
+*** Credit
+    - 0.81 Cr. <2017-05-10 Wed>
+** WFM JUN Strangle
+| Side | Qty | Symbol | Exp    | Strike | Type |
+|------+-----+--------+--------+--------+------|
+| SHORT |  -1 | WFM    | 16 JUN |     37 | PUT  |
+| SHORT |  -1 | WFM    | 16 JUN |     31 | CALL |
+*** Credit
+    - 1.52 Cr. <2017-04-04 Tue>
+    - 0.30 Cr. <2017-04-06 Thu> (Roll up put from 29 -> 30)
+    - 1.33 Cr. <2017-04-21 Fri> (Roll up put from 30 -> 36)
+    - 0.92 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 36 -> 37)
+    - Looking for a scratch, close at 4.07 Db.
+** WFM Call Ratio
+| Side | Qty | Symbol | Exp    | Strike | Type |
+|------+-----+--------+--------+--------+------|
+| LONG |   1 | WFM    | 16 JUN |     34 | CALL |
+| LONG |  -2 | WFM    | 16 JUN |     35 | CALL |
+*** Credit
+    - 0.49 Cr. <2017-04-12 Wed>
+    - 0.42 Cr. <2017-05-08 Mon> (Roll MAY->JUN)
+** WMT Calls
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | WMT    | 15 SEP |   72.5 | CALL |
+*** Credit
+    - 0.04 Cr. <2017-03-27 Mon>
+    - 0.80 Cr. <2017-04-12 Wed> (Roll APR->MAY)
+    - 0.59 Cr. <2017-04-24 Mon> (Roll MAY->JUN)
+    - 1.58 Cr. <2017-05-10 Wed> (Roll JUN->SEP)
+** WMT Big Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | WMT    | 15 SEP |   77.5 | PUT  |
+| SHORT |  -1 | WMT    | 15 SEP |   77.5 | CALL |
+| LONG  |   1 | WMT    | 15 SEP |     80 | CALL |
+*** Credit
+    - 4.24 Cr. <2017-05-10 Wed>
+** WYNN earnings setup calendar
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | WYNN   | 19 MAY |    100 | PUT  |
+| LONG  |   1 | WYNN   | 16 JUN |   97.5 | PUT  |
+*** Debit
+    - 2.15 Db. <2017-03-13 Mon>
+    - 1.34 Cr. <2017-03-31 Fri> (Roll short strike from APR -> MAY)
+*** Manage at 25% Profit
+** X JUNE Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | X      | 16 JUN |     21 | PUT  |
+*** Credit
+    - 0.89 Cr.
+** X JUNE Jade Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | X      | 16 JUN |     20 | PUT  |
+| SHORT |  -1 | X      | 16 JUN |     23 | CALL |
+| LONG  |   1 | X      | 16 JUN |     24 | CALL |
+*** Credit
+    - 1.05 Cr. <2017-04-27 Thu>
+** XLE Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | XLE    | 16 JUN |     63 | PUT  |
+| SHORT |  -1 | XLE    | 16 JUN |     71 | CALL |
+*** Credit
+    - 0.67 Cr. <2017-05-10 Wed>
+** XLK Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | XLK    | 16 JUN |     54 | PUT  |
+*** Credit
+    - 0.39 Cr. <2017-05-10 Wed>
+** XLV MAY Ratio Put Spread
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | XLV    | 19 MAY |     73 | PUT  |
+| LONG  |   1 | XLV    | 19 MAY |     74 | PUT  |
+*** Credit
+    - 0.31 Cr. <2017-04-10 Mon>
+** XOP MAY Ratio Put Spread
+| Side | Qty | Symbol | Exp    | Strike | Type |
+|------+-----+--------+--------+--------+------|
+| SHORT |  -2 | XOP    | 19 MAY |     35 | PUT  |
+| LONG  |   1 | XOP    | 19 MAY |     36 | CALL |
+*** Credit
+    - 0.32 Cr. <2017-04-04 Tue>
+* TW Roth
+** AAPL
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | AAPL   | 16 JUN |    140 | PUT  |
+| SHORT |  -1 | AAPL   | 16 JUN |    145 | PUT  |
+| SHORT |  -1 | AAPL   | 16 JUN |    165 | CALL |
+| LONG  |   1 | AAPL   | 16 JUN |    170 | CALL |
+*** Credit
+    - 0.70 Cr. <2017-05-10 Wed>
+** AXP MAY Jade Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | AXP    | 16 JUN |     80 | PUT  |
+| SHORT |  -1 | AXP    | 19 MAY |     80 | CALL |
+| LONG  |   1 | AXP    | 19 MAY |   82.5 | CALL |
+*** Credit
+    - 1.05 Cr. <2017-04-25 Tue>
+    - 0.84 Cr. <2017-05-01 Mon> (Roll put 79.5->80 MAY->JUN)
+    - 0.62 Cr. <2017-05-10 Wed> (Roll call spread down 81.5/82.5->80/82.5 MAY->JUN)
+** EFA MAY Iron Fly
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | EFA    | 19 MAY |     60 | PUT  |
+| SHORT |  -1 | EFA    | 19 MAY |     62 | PUT  |
+| SHORT |  -1 | EFA    | 19 MAY |     62 | CALL |
+| LONG  |   1 | EFA    | 19 MAY |     64 | CALL |
+*** Credit
+    - 1.44 Cr. <2017-04-20 Thu>
+** FB JUN Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | FB     | 16 JUN |    135 | PUT  |
+| SHORT |  -1 | FB     | 16 JUN |    140 | PUT  |
+| SHORT |  -1 | FB     | 16 JUN |    160 | CALL |
+| LONG  |   1 | FB     | 16 JUN |    165 | CALL |
+*** Credit
+    - 0.70 Cr. <2017-05-10 Wed>
+** GDXJ JUN Puts
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -3 | GDXJ   | 16 JUN |     31 | PUT  |
+*** Credit
+    - 0.49 Cr. <2017-04-20 Thu>
+    - 2.03 Cr. <2017-05-04 Thu>
+** KMX MAY Synthetic Straddle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | KMX    | 19 MAY |     50 | PUT  |
+| SHORT |  -1 | KMX    | 19 MAY |   57.5 | PUT  |
+| SHORT |  -1 | KMX    | 19 MAY |     60 | CALL |
+| LONG  |   1 | KMX    | 19 MAY |   67.5 | CALL |
+*** Credit
+    - 2.57 Cr. <2017-04-24 Mon>
+** NFLX JUN Iron Fly
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | NFLX   | 16 JUN |    135 | PUT  |
+| SHORT |  -1 | NFLX   | 16 JUN |    150 | PUT  |
+| SHORT |  -1 | NFLX   | 16 JUN |    150 | CALL |
+| LONG  |   1 | NFLX   | 16 JUN |    165 | CALL |
+*** Credit
+    - 1.70 Cr. <2017-04-19 Wed>
+    - 0.87 Cr. <2017-04-26 Wed> (Roll up put 130->142)
+    - 1.24 Cr. <2017-05-01 Mon> (Roll up put 142->150)
+    - 2.45 Cr. <2017-05-08 Mon> (Roll MAY->JUN)
+    - 0.26 Db. <2017-05-09 Tue> (Risk reduction, roll up long put 115->135)
+    - 4.25 Cr. <2017-05-10 Wed> (Roll up put 150->160)
+** SLB JUN Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | SLB    | 16 JUN |     70 | PUT  |
+| SHORT |  -1 | SLB    | 16 JUN |   77.5 | CALL |
+*** Credit
+    - 0.92 Cr. <2017-04-24 Mon>
+    - 1.04 Cr. <2017-04-24 Mon>
+** SPY JUN BWB
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | SPY    | 16 JUN |    237 | CALL |
+| SHORT |  -2 | SPY    | 16 JUN |    239 | CALL |
+| LONG  |   1 | SPY    | 16 JUN |    245 | CALL |
+*** Credit
+    - 0.74 Cr. <2017-04-20 Thu>
+** X MAY Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | X      | 19 MAY |     23 | PUT  |
+*** Credit
+    - 0.91 Cr. <2017-04-27 Thu>
+** XOP MAY Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | XOP    | 19 MAY |     30 | PUT  |
+| SHORT |  -1 | XOP    | 19 MAY |     33 | PUT  |
+| SHORT |  -1 | XOP    | 19 MAY |     37 | CALL |
+| LONG  |   1 | XOP    | 19 MAY |     40 | CALL |
+*** Credit
+    - 0.68 Cr. <2017-04-19 Wed>
+* TDA
+** ED Calls
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | ED     | 18 AUG |   77.5 | CALL |
+*** Credit
+    - 1.88 Cr. <2016-12-08 Thu>
+    - 1.94 Cr. <2017-04-19 Wed> (Roll MAY -> AUG)
+** HD
+*** Cost Basis
+    - 21.81
+** HD Calls
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | HD     | 16 JUN |  145.0 | CALL |
+*** Credit
+    - 0.64 Cr. <2017-01-13 Fri>
+    - 1.19 Cr. <2017-03-03 Fri> (Roll MAR -> APR)
+    - 1.60 Cr. <2017-04-03 Mon> (Roll APR -> MAY)
+    - 0.50 Cr. <2017-04-19 Wed> (Roll MAY -> JUN)
+** ON
+*** Cost Basis
+    - 13.03
+** ON JUL Covered Call
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | ON     | 21 JUL |   13.0 | CALL |
+*** Credit
+    - 3.06 Cr. <2016-12-29 Thu>
+** QQQ MAY Calls
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -3 | QQQ    | 18 AUG |    134 | CALL |
+*** Credit
+    - 2.88 Cr. <2017-01-23 Mon>
+    - 0.28 Cr. <2017-03-06 Mon> (Roll 124 -> 128, 127 -> 134, FEB -> MAR)
+    - 0.16 Db. <2017-03-16 Thu> (Roll APR -> MAY)
+    - 0.49 Cr. <2017-05-11 Thu> (Roll MAY->AUG Adjust call 128->134)
+** QQQ Big Lizards
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -3 | QQQ    | 18 AUG |    138 | PUT  |
+| SHORT |  -3 | QQQ    | 18 AUG |    138 | CALL |
+| LONG  |   3 | QQQ    | 18 AUG |    144 | CALL |
+*** Credit
+    - 18.88 Cr. <2017-05-11 Thu>
+* Strategies
+** Missed money is better than lost money
+** Binary non-earnings events
+   - FOMC Minutes - 1PM CST (almost monthly)
+     - SPY,TLT
+   - Weekly Petroleum Supply - WED 9:30AM CST
+     - XOP, USO, XLE
+** Broken Wing Butterfly
+   - Manage at P50
+** Covered Calls
+   - Sell at 30 delta
+** Calendar Spreads
+   - Use a Put Calendar Spread (using puts is better)
+   - 30-35delta strike - 20-40 DTE for short, 50-70 DTE for long
+   - Since a calendar spread can be hurt by too much stock movement,
+     we tend to manage our winners at around 25% of the debit we paid
+     to enter the trade. Waiting too long for additional profits could
+     mean stock price movement, which is bad for the position. We
+     never route calendar spreads in volatility instruments. Each
+     expiration acts as its own underlying, so our max loss is not
+     defined.
+   - Turn it into a diagonal by choosing different strikes
+   - [[https://www.tastytrade.com/tt/shows/options-jive/episodes/trading-calendars-and-diagonals-02-13-2017][Options Jive Mon Feb 13, 3017]]
+*** Diagonal Spread
+    - Put diagonals for bearish assumption
+    - Call diagonals for bullish assumption
+    - Find Low IV
+    - Expansion in volatility is usually to the downside of the
+      market, so you end up with a little bit of a kicker
+      directionally when you use puts
+    - Choose long option in the back-month that is ITM - choose stronger delta to reduce amount of extrinsic paid for
+    - Choose short option in the front-month that is OTM
+    - Ensure front-month short option extrinsic is equal to or greater than back-month long option
+    - Ensure total debit paid is not more than 75% of the width of the strikes
+    - Profit occurs when the long option moves further ITM and gains value, and/or if IV increases
+** Strangle Swap
+   - Short strangle in front month
+   - Long strangle in back month - paid for by short strangle in front month
+   - Use in low IV environment to capture IV expansion
+** Going Inverted
+   - We never open a position inverted, it is *only* a defensive strategy
+   - Potential Profit = Total credit - Width between strikes
+   - We look to manage inverted spread around 50% to 75% of potential profit
+** Earnings setup calendar
+   - Purchase long call in backmonth just after earnings
+   - Sell short call in frontmonth weeklies at half the number of days to expiration of backmonth
+** Expected move
+   - Expected move = Underlying Price * IV * sqrt(DTE/365)
+   - Crude Oil Expected ove = Price * OVX/100 * sqrt(DTE/365)
+** Expected move for earnings
+   - Expected move is 85% of At The Money straddle
+   - Only works for earnings
+** Iron Fly ($5 Wide Variant)
+*** Sell in lower priced products
+*** Risk 1 to make 1
+*** $5 Wide Variant
+   - Really only applicable in low IV
+   - Sell 2 ATM and buy call and put $5 away from short strikes
+   - Manage at 10%
+** Lizards
+*** Spiked Lizard
+    - Peak is ATM
+    - Breakeven on downside is at 1SD
+    - No upside risk
+    - Good for earnings plays
+    - Good for regular products in high IV
+    - Better for earnings than big lizard because the earnings moves
+      are usually understated and this gets us out of the way of the
+      move
+    - Collect at least $3.00
+    - Setup (Synthetic using all puts to get it all in with one trade)
+      Sell 2 ATM Puts
+      Buy 1 ITM Put at just under the cost of the 2 ATM Puts (paid for by selling the 2 ATM puts)
+      Buy 1 OTM Put at the downside breakeven (completing a symmetric butterfly)
+      Sell 2 OTM Puts below the breakeven to pay for the OTM breakeven put
+*** Big Lizard
+    - Sell ATM straddle
+    - Buy a call as that is as close as possible to equal to or less
+      than the ATM straddle where the total credit collected is
+      greater than the width of the call spread
+    - If short stock, add the big lizard on top
+    - If long stock, add the reverse big lizard on top
+*** Jade Lizard
+    - Look for a put with about 70 cents in extrinsic value
+    - Look for a $1 wide call spread with about 30 cents
+    - Never roll a big lizard or a jade lizard out in time - only roll the tested portion
+    - First profit target is 50% of max profit, or half of the credit
+      that was initially received at order entry.
+    - Downside breakeven: Strike Price of short put - credit received
+    - Upside breakeven: none
+    - A Jade Lizard is a slightly bullish strategy that combines a
+      short put and a short call spread. The strategy is created to
+      have no upside risk, which is done by collecting a total credit
+      greater than the width of the short call spread.
+    - A Jade Lizard is traded when a trader has a neutral to bullish
+      assumption on a stock, but not extremely bullish since the
+      position incorporates a short call spread. The trade is suitable
+      for stocks that have sold off and have high implied volatility
+      rank (IVR). This allows for more premium to be collected, while
+      having no upside risk if the underlying trades through the short
+      call spread. For traders who are very bullish on a stock that
+      has sold off and has a high IVR, strategies such as short puts
+      or covered calls may be more suitable.
+    - Mechanical Defense: If the stock trades through the short call
+      spread, the short put can be rolled up to collect more
+      credit. However, since there is no upside risk when trading Jade
+      Lizards, this adjustment isn’t entirely necessary. If the stock
+      sells off and tests the short put, the short call spread can be
+      rolled down to collect more credit without increasing the upside
+      risk
+
+** Rolling into strength
+   | Position       | Moneyness? | Strength           |
+   |----------------+------------+--------------------|
+   | CC/CP          | ~          | UL Moves - Favor   |
+   | Naked Single   | ITM        | UL Moves - Favor   |
+   | Naked Single   | OTM        | UL Moves - Against |
+   | Short Straddle | Call ITM   | UL Moves - Lower   |
+   | Short Straddle | Put ITM    | UL Moves - Higher  |
+** Straddle
+*** Break Even
+    - Downside: Subtract initial credit from Put strike price -
+    - Upside: Add initial credit to the Call strike price -
+*** Management
+    - The first profit target is generally 25% of the maximum profit. This
+      is done by buying the straddle back for 75% of the credit received
+      at order entry.
+*** Defense
+    - With premium selling strategies, defensive tactics revolve around
+      collecting more premium to improve our break-even price, and further
+      reduce our cost basis. With short straddles, we don’t have much
+      wiggle room because the short options are already on the same
+      strikes. One option is to roll the whole straddle out in time, using
+      the same strikes. This can be done for a credit, and we will hope
+      for the stock price to return to our short strike by the new
+      expiration.
+** Strangle
+*** Starting points are at 16Δ
+*** Defense
+    - Roll untested side
+    - Go inverted if necessary
+** Vertical spreads
+*** Credit Spreads
+    - High IV
+    - Long use put spread, Short use call spread
+    - Setup with short strike at 30/35 delta
+    - Collect 1/3rd the width of the spread
+    - You can estimate your initial POP for a credit spread by taking
+      the inverse of the credit received divided by the width of the
+      spread. For example if you collect $0.75 on a $1 wide spread,
+      your initial POP will be 1-(.75/1) = 25%. This is because in
+      order to collect such a large amount of credit, you have to be
+      very close to ATM (at the money) or even ITM (in the money).
+*** Debit Spreads
+    - Low IV
+    - Long buy the call spread, short buy the put spread
+    - Long strike 1 strike ITM
+    - Short strike 1 strike OTM
+    - Pay about 1/2 the width of the spread
+    - Pay just slightly under the amount of intrinsic that the underlying is trading for
+    - Setup to have a positive theta value
+*** Manage winner at 50% max profit
+** When to add wings
+   We found that it did not pay to add wings in low IVR environments;
+   however, it actually decreased the win rate and average P/L of the
+   short premium trade by much more than just having the naked
+   position on in low IVR. In high IVR, adding wings caused a dramatic
+   increase in win rate and average P/L to the extent that the
+   increase was greater than that of the naked position.
+** IVR
+*** High: Above 35%
+*** Low: Below 35%
+** Iron Condors
+*** Sell in higher priced products
+*** Managing at 50% in all environments always outperforms
+*** Use Fixed Iron Condor in IVR under 35%
+*** Use Dynamic Iron Condor in IVR over 35%
+** Poor Man's Covered Call
+*** 80Δ-100Δ Long Call at further expiration
+*** 30Δ Short Call at front-month expiration
+** Ratio Put Spread
+*** Setup: Long 1 50-delta put, short 2 33-delta puts
+*** Manage at 25-50% max profit
+*** Strategy
+    - We route front-ratio spreads as a means to get into a long or
+      short stock positon with a very beneficial breakeven point. We
+      tend to use these strategies if we have a price target in mind
+      for the underlying. We will usually place our short strike at
+      that target, as that would yield max profit at expiration if the
+      stock ends up there.
+*** When do we manage Ratio Spreads?
+     - When the debit spread portion of the trade can be closed for near
+       max profit, the debit spread portion can be sold while holding the
+       additional short option. If the trader wants to extend duration on
+       the position, the short option can be rolled to the next month.
+*** Max Profit
+    - Distance between long strike and short strike + credit received
+*** Breakeven
+    - Short put strike - max profit potential
+** Volatilty Strategies
+   - Strangle: Short Vega, Profits when IV Falls
+   - Straddle: Short Vega, Profits when IV Falls
+   - Credit Spread: Short Vega, Profits when IV Falls
+   - Debit Spread: Long Vega, Profits when IV Rises
+   - Ratio Spread: Short Vega, Profits when IV Falls
+   - Calendar: Long Vega, Profits when IV Rises
+   - Diagonal: Long Vega, Profits when IV Rises
+*** Setup
+    - Long 50 delta put + Short two 33 delta puts
+    - 29% Prob of Larger Profit and 50% Prob of Net Credit = 79% POP
+    - Target high IV + advantage from put skew
+    - for 45 DTE, expect to hold for about half of 45 days, so roughly 22 days.
+    - If the underlying stays around the short strike, we usually like
+      to wait for 25-50% max profit
+    - If the underlying goes to the net credit profit zone (through the long put) we try to manage for 100%
+** IRA Strategies
+   - 10/30/10 Iron Condor managed at 50% max profit
+   - Jade Lizard
+   - Big Lizard
+   - Spiked Lizard
+* Creed
+   - Missed money is better than lost money
+   - We always prefer to collect premium and put ourselves in high
+     probability situations
+   - Perpetual/Terminal Juniorism
+   - Halo Effect
+   - "Elegance is not a dispensable luxury but a quality that decides between success and failure. -Edsger W. Dijkstra"
+   - "The key to performance is elegance, not battalions of special cases. - Doug McIlroy"
+   - You get what you expect out of people
+* TODO
+   - Search for "Optimal Management" on tastytrade
+   - https://www.tastytrade.com/tt/shows/everyday-trader/episodes/delta-management-large-vs-small-accounts-03-28-2017
+   - https://www.tastytrade.com/tt/shows/everyday-trader/episodes/most-efficient-long-vega-strategies-03-29-2017
+   - https://www.tastytrade.com/tt/shows/everyday-trader/episodes/most-efficient-long-theta-strategies-03-30-2017
+   - https://www.tastytrade.com/tt/shows/calling-all-millionaires/episodes/reverse-jade-lizard-setup-03-22-2017
+   - https://www.tastytrade.com/tt/shows/ira-options/episodes/ira-options-03-30-2017
+   - https://www.tastytrade.com/tt/shows/trade-small-trade-often/episodes/trade-small-trade-often-03-30-2017
+   - https://www.tastytrade.com/tt/shows/everyday-trader/episodes/should-my-pl-open-be-negative-02-06-2017
+   - EFA - International Developed (Diversified)
+   - EEM - Emerging Markets (Diversified)
+   - FXI - China Large Cap (binary risk)
+   - EWZ - Brazil (binary risk)
+   - XLK - Technology
+   - EWW - Mexico
+   - FEZ (Dow Jones of Europe)
+   - DIA
+   - SPY
+   - IWM
+   - QQQ
