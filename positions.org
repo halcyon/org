@@ -180,6 +180,12 @@
 | LONG  |   1 | OIH    | 16 JUN |     28 | PUT  |
 *** Credit
     - 0.19 Cr.
+*** P JUN Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | P      | 16 JUN |      9 | PUT  |
+*** Credit
+    - 0.48 Cr.
 ** QCOM
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
