@@ -88,7 +88,7 @@
 | SHORT |  -1 | EWZ    | 16 JUN |     37 | PUT  |
 *** Credit
     - 0.84 Cr. <2017-05-10 Wed>
-** FXE Srangle
+** FXE Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | FXE    | 16 JUN |    103 | PUT  |
@@ -369,13 +369,6 @@
 | LONG  |   1 | FB     | 16 JUN |    165 | CALL |
 *** Credit
     - 0.70 Cr. <2017-05-10 Wed>
-** GDXJ JUN Puts
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -3 | GDXJ   | 16 JUN |     31 | PUT  |
-*** Credit
-    - 0.49 Cr. <2017-04-20 Thu>
-    - 2.03 Cr. <2017-05-04 Thu>
 ** KMX MAY Synthetic Straddle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
