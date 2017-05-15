@@ -256,12 +256,6 @@
 ** STO
 *** Cost Basis
     - 21.8943
-** TEVA Put
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | TEVA   | 16 JUN |     30 | PUT  |
-*** Credit
-    - 0.90 Cr. <2017-05-10 Wed>
 ** TLT JUN Jade Lizard
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
