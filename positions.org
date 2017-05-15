@@ -384,7 +384,6 @@
 | LONG  |   1 | CSX    | 16 JUN |   57.5 | CALL |
 *** Credit
     - 0.30 Cr.
-
 ** EFA MAY Iron Fly
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -412,7 +411,16 @@
 | LONG  |   1 | KMX    | 19 MAY |   67.5 | CALL |
 *** Credit
     - 2.57 Cr. <2017-04-24 Mon>
-** NFLX JUN Iron Fly
+** NVDA Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | NVDA   | 16 JUN |    115 | PUT  |
+| SHORT |  -1 | NVDA   | 16 JUN |    120 | PUT  |
+| SHORT |  -1 | NVDA   | 16 JUN |    150 | CALL |
+| LONG  |   1 | NVDA   | 16 JUN |    155 | CALL |
+*** Credit
+    - 1.00 Cr. <2017-05-15 Mon>
+** NFLX JUN Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | LONG  |   1 | NFLX   | 16 JUN |    135 | PUT  |
