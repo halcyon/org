@@ -234,12 +234,6 @@
 | SHORT |  -1 | SLB    | 16 JUN |   77.5 | CALL |
 *** Credit
     - 2.53 Cr. <2017-04-24 Mon>
-** SLW Put
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | SLW    | JUN 16 |     18 | PUT  |
-*** Credit
-    - 0.39 Cr. <2017-05-10 Wed>
 ** SPY JUN Ratio Call Spread
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
