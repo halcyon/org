@@ -142,14 +142,6 @@
 | SHORT |  -1 | IWM    | 19 MAY |    137 | PUT  |
 *** Credit
     - 0.66 Cr. <2017-05-10 Wed>
-** LULU MAY Strangle
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | LULU   | 19 MAY |     50 | PUT  |
-| SHORT |  -1 | LULU   | 19 MAY |     53 | CALL |
-*** Credit
-    - 0.90 Cr. <2017-04-27 Thu>
-    - 0.29 Cr. <2017-05-05 Fri> (Roll down call 55->53)
 ** MCD JUN Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|

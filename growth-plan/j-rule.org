@@ -34,3 +34,48 @@ Put .3 of 443 = 133
 |-----+------+----------+--------+-------+------|
 |     |      |          |        |   183 |  188 |
 #+TBLFM: @5$5=vsum(@2..@4)::@5$6=vsum(@2..@4)
+
+Call .3 of 250 = 75
+Put .3 of 195 = 58
+
+ICE Mar 17
+@The Money Call Premium 250
+@The Money Put Premium 195
+
+| Op  | Type | Quantity | Strike | Worst | Best |
+|-----+------+----------+--------+-------+------|
+| STO | Call |        3 |     62 |    40 |   50 |
+| BTO | Put  |        1 |     48 |   -40 |  -30 |
+|-----+------+----------+--------+-------+------|
+|     |      |          |        |    80 |  120 |
+
+
+STO Jul 17
+| Op  | Type | Quantity | Strike | Worst | Best |
+|-----+------+----------+--------+-------+------|
+| STO | Call |        1 |     20 |    75 |   85 |
+| STO | Put  |        2 |   17.5 |   200 |  270 |
+|     |      |          |        |   275 |  355 |
+|     |      |          |        |       |      |
+
+
+NAT Jul 17
+| Op  | Type | Quantity | Strike | Worst | Best |
+|-----+------+----------+--------+-------+------|
+| STO | Call |        2 |     10 |    60 |  100 |
+| STO | Put  |        3 |      7 |   120 |  180 |
+|     |      |          |        |   180 |  280 |
+
+SELL -1 2/3 CUSTOM NAT 100 21 JUL 17/21 JUL 17 10/7 CALL/PUT @2.30 LMT [TO OPEN/TO OPEN]
+
+| Side + Pos | Exp    | Type | Qty | Strike | Bid | Ask | Worst | Best |
+|------------+--------+-------+-----+--------+-----+-----+-------+------|
+| STO        | Jul 17 | Call  |  -2 |        |     |     |       |      |
+
+
+SELL BP
+| Side + Pos | Exp    | Type | Qty | Strike | Bid | Ask | Worst | Best |
+|------------+--------+------+-----+--------+-----+-----+-------+------|
+| STO        | Mar 17 | Put  |  10 |     33 |  23 |  24 |   230 |  240 |
+| BTO        | Mar 17 | Put  | -10 |     28 |   3 |   4 |   -40 |  -30 |
+|            |        |      |     |        |     |     |   190 |  210 |
