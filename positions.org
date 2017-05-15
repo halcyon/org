@@ -178,12 +178,6 @@
 *** Credit
     - 1.03 Cr. <2017-04-28 Fri>
     - 2.08 Cr. <2017-05-10 Wed> (Roll MAY->JUN)
-** NUGT Put
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | NUGT   | 16 JUN |     28 | PUT  |
-*** Credit
-    - 2.30 Cr. <2017-05-10 Wed>
 ** OIH JUN Ratio Put Spread
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
