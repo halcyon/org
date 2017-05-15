@@ -339,9 +339,18 @@
 | LONG  |   1 | XLV    | 19 MAY |     74 | PUT  |
 *** Credit
     - 0.31 Cr. <2017-04-10 Mon>
+** XOM Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | XOM    | 16 JUN |        | PUT  |
+| SHORT |  -1 | XOM    | 16 JUN |        | PUT  |
+| SHORT |  -1 | XOM    | 16 JUN |        | CALL |
+| LONG  |   1 | XOM    | 16 JUN |        | CALL |
+*** Credit
+    - 0.46 Cr.
 ** XOP MAY Ratio Put Spread
-| Side | Qty | Symbol | Exp    | Strike | Type |
-|------+-----+--------+--------+--------+------|
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
 | SHORT |  -2 | XOP    | 19 MAY |     35 | PUT  |
 | LONG  |   1 | XOP    | 19 MAY |     36 | CALL |
 *** Credit
@@ -366,6 +375,16 @@
     - 1.05 Cr. <2017-04-25 Tue>
     - 0.84 Cr. <2017-05-01 Mon> (Roll put 79.5->80 MAY->JUN)
     - 0.62 Cr. <2017-05-10 Wed> (Roll call spread down 81.5/82.5->80/82.5 MAY->JUN)
+** CSX Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | CSX    | 16 JUN |     46 | PUT  |
+| SHORT |  -1 | CSX    | 16 JUN |     47 | PUT  |
+| SHORT |  -1 | CSX    | 16 JUN |     55 | CALL |
+| LONG  |   1 | CSX    | 16 JUN |   57.5 | CALL |
+*** Credit
+    - 0.30 Cr.
+
 ** EFA MAY Iron Fly
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -429,6 +448,15 @@
 | SHORT |  -1 | X      | 19 MAY |     23 | PUT  |
 *** Credit
     - 0.91 Cr. <2017-04-27 Thu>
+** XOM Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | XOM    | 16 JUN |        | PUT  |
+| SHORT |  -1 | XOM    | 16 JUN |        | PUT  |
+| SHORT |  -1 | XOM    | 16 JUN |        | CALL |
+| LONG  |   1 | XOM    | 16 JUN |        | CALL |
+*** Credit
+    - 0.46 Cr.
 ** XOP MAY Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
