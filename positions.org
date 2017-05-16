@@ -379,15 +379,6 @@
 | LONG  |   1 | CSX    | 16 JUN |   57.5 | CALL |
 *** Credit
     - 0.30 Cr.
-** EFA MAY Iron Fly
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| LONG  |   1 | EFA    | 19 MAY |     60 | PUT  |
-| SHORT |  -1 | EFA    | 19 MAY |     62 | PUT  |
-| SHORT |  -1 | EFA    | 19 MAY |     62 | CALL |
-| LONG  |   1 | EFA    | 19 MAY |     64 | CALL |
-*** Credit
-    - 1.44 Cr. <2017-04-20 Thu>
 ** EWZ Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
