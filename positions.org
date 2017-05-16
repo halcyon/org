@@ -234,14 +234,6 @@
 ** STO
 *** Cost Basis
     - 21.8943
-** TLT JUN Jade Lizard
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | TLT    | 16 JUN |    118 | PUT  |
-| SHORT |  -1 | TLT    | 16 JUN |    124 | CALL |
-| LONG  |   1 | TLT    | 16 JUN |    125 | CALL |
-*** Credit
-    - 1.03 Cr. <2017-04-25 Tue>
 ** V
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -343,13 +335,6 @@
 | LONG  |   1 | XOM    | 16 JUN |        | CALL |
 *** Credit
     - 0.46 Cr.
-** XOP MAY Ratio Put Spread
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -2 | XOP    | 19 MAY |     35 | PUT  |
-| LONG  |   1 | XOP    | 19 MAY |     36 | CALL |
-*** Credit
-    - 0.32 Cr. <2017-04-04 Tue>
 * TW Roth
 ** AAPL
 | Side  | Qty | Symbol | Exp    | Strike | Type |
