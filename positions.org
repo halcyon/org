@@ -397,6 +397,15 @@
 | LONG  |   1 | FB     | 16 JUN |    165 | CALL |
 *** Credit
     - 0.70 Cr. <2017-05-10 Wed>
+** IWM Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | IWM    | 16 JUN |    130 | PUT  |
+| SHORT |  -1 | IWM    | 16 JUN |    132 | PUT  |
+| SHORT |  -1 | IWM    | 16 JUN |    144 | CALL |
+| LONG  |   1 | IWM    | 16 JUN |    146 | CALL |
+*** Credit
+    - 0.39 Cr. <2017-05-16 Tue>
 ** KMX MAY Synthetic Straddle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
