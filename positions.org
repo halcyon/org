@@ -123,6 +123,13 @@
     - 0.51 Cr. <2017-03-13 Mon>
     - 0.16 Cr. <2017-04-10 Mon> (Roll APR->MAY)
     - 0.45 Cr. <2017-04-24 Mon> (Roll MAY->JUL)
+** ICE Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | ICE    | 16 JUN |     56 | PUT  |
+| SHORT |  -1 | ICE    | 16 JUN |     62 | CALL |
+*** Credit
+    - 0.45 Cr. <2017-05-16 Tue>
 ** MCD JUN Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
