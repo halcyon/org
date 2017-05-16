@@ -388,6 +388,15 @@
 | LONG  |   1 | EFA    | 19 MAY |     64 | CALL |
 *** Credit
     - 1.44 Cr. <2017-04-20 Thu>
+** EWZ Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | EWZ    | 21 JUL |     33 | PUT  |
+| SHORT |  -1 | EWZ    | 21 JUL |     35 | PUT  |
+| SHORT |  -1 | EWZ    | 21 JUL |     45 | CALL |
+| LONG  |   1 | EWZ    | 21 JUL |     47 | CALL |
+*** Credit
+    - 0.45 Cr. <2017-05-16 Tue>
 ** FB JUN Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
