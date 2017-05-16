@@ -28,6 +28,19 @@
     - 2.63 Cr. <2017-04-28 Fri>
     - 1.25 Cr. <2017-05-05 Fri> (Roll down call 195->185)
     - 1.00 Cr. <2017-05-10 Wed> (Roll up put 170->175)
+** BP Puts
+*** Cost Basis
+    - 41.5
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | BP     | 16 JUN |     35 | PUT  |
+*** Credit
+    - 0.22 Cr. <2017-05-16 Tue>
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | BP     | 21 JUL |     34 | PUT  |
+*** Credit
+    - 0.28 Cr. <2017-05-16 Tue>
 ** CAT Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
