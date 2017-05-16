@@ -463,6 +463,15 @@
 | LONG  |   1 | SPY    | 16 JUN |    245 | CALL |
 *** Credit
     - 0.74 Cr. <2017-04-20 Thu>
+** V Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | V      | 21 JUL |   82.5 | PUT  |
+| SHORT |  -1 | V      | 21 JUL |     85 | PUT  |
+| SHORT |  -1 | V      | 21 JUL |   97.5 | CALL |
+| LONG  |   1 | V      | 21 JUL |    100 | CALL |
+*** Credit
+    - 0.77 Cr. <2017-05-16 Tue>
 ** X MAY Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
