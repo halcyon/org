@@ -150,6 +150,18 @@
 ** NAT
 *** Cost Basis
     - 10.5677
+*** JUN Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | NAT    | 16 JUN |      7 | PUT  |
+*** Credit
+    - 0.30 Cr. <2017-05-16 Tue>
+*** JUL Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | NAT    | 21 JUL |      7 | PUT  |
+*** Credit
+    - 0.50 Cr. <2017-05-16 Tue>
 ** NUE JUN Straddle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
