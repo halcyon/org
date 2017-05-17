@@ -314,13 +314,6 @@
 | LONG  |   1 | X      | 16 JUN |     24 | CALL |
 *** Credit
     - 1.05 Cr. <2017-04-27 Thu>
-** XLE Call
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | XLE    | 16 JUN |     68 | CALL |
-*** Credit
-    - 0.48 Cr. <2017-05-05 Fri>
-    - 0.83 Cr. <2017-05-15 Mon> (Roll MAY->JUN)
 ** XLE Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
