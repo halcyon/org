@@ -412,15 +412,6 @@
 | LONG  |   1 | IWM    | 16 JUN |    146 | CALL |
 *** Credit
     - 0.39 Cr. <2017-05-16 Tue>
-** KMX MAY Synthetic Straddle
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| LONG  |   1 | KMX    | 19 MAY |     50 | PUT  |
-| SHORT |  -1 | KMX    | 19 MAY |   57.5 | PUT  |
-| SHORT |  -1 | KMX    | 19 MAY |     60 | CALL |
-| LONG  |   1 | KMX    | 19 MAY |   67.5 | CALL |
-*** Credit
-    - 2.57 Cr. <2017-04-24 Mon>
 ** OIH Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -453,7 +444,7 @@
     - 2.45 Cr. <2017-05-08 Mon> (Roll MAY->JUN)
     - 0.26 Db. <2017-05-09 Tue> (Risk reduction, roll up long put 115->135)
     - 4.25 Cr. <2017-05-10 Wed> (Roll up put 150->160)
-** SLB JUN Strangle
+** SLB Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | SLB    | 16 JUN |     70 | PUT  |
