@@ -208,24 +208,27 @@
 | LONG  |   1 | QCOM   | 16 JUN |     55 | CALL |
 *** Credit
     - 1.75 Cr. <2017-04-28 Fri>
-** QQQ JUN Call
+** QQQ
+*** Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | QQQ    | 16 JUN |    134 | CALL |
-*** Credit
-    - 1.23 Cr. <2017-04-20 Thu>
-    - 0.79 Cr. <2017-05-03 Wed> (Roll MAY->JUN)
-** QQQ JUN Call
+| SHORT |  -1 | QQQ    | 18 AUG |    136 | CALL |
+**** Credit
+     - 1.23 Cr. <2017-04-20 Thu>
+     - 0.79 Cr. <2017-05-03 Wed> (Roll MAY->JUN)
+     - 0.16 Cr. <2017-05-17 Wed> (Diagonal JUN->AUG 134->136)
+*** Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | QQQ    | 16 JUN |    135 | CALL |
-*** Credit
-    - 1.50 Cr. <2017-04-20 Thu>
-** QQQ JUN Put
+| SHORT |  -1 | QQQ    | 18 AUG |    137 | CALL |
+**** Credit
+     - 1.50 Cr. <2017-04-20 Thu>
+     - 0.35 Cr. <2017-05-17 Wed> (Diagonal JUN->AUG 135->137)
+** Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | QQQ    | 16 JUN |    136 | PUT  |
-*** Credit
+**** Credit
     - 1.23 Cr. <2017-05-10 Wed>
 ** SLB
 *** Cost Basis
