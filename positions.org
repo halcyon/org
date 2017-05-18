@@ -230,19 +230,18 @@
 ** SLB
 *** Cost Basis
     - 76.5
-** SLB Put
+*** Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | SLB    | 16 JUN |     70 | PUT  |
-*** Credit
+**** Credit
     - 0.89 Cr. <2017-04-24 Mon>
-** SLB JUN Covered Strangle
+*** Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | SLB    | 16 JUN |   72.5 | PUT  |
-| SHORT |  -1 | SLB    | 16 JUN |   77.5 | CALL |
-*** Credit
-    - 2.53 Cr. <2017-04-24 Mon>
+**** Credit
+    - 1.51 Cr. <2017-04-24 Mon>
 ** SPY JUN Ratio Call Spread
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
