@@ -448,10 +448,8 @@
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | SLB    | 16 JUN |     70 | PUT  |
-| SHORT |  -1 | SLB    | 16 JUN |   77.5 | CALL |
 *** Credit
     - 0.92 Cr. <2017-04-24 Mon>
-    - 1.04 Cr. <2017-04-24 Mon>
 ** SPY JUN BWB
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
