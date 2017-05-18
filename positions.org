@@ -99,11 +99,12 @@
 *** GDXJ JUN Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | GDXJ   | 16 JUN |     27 | PUT  |
+| SHORT |  -1 | GDXJ   | 16 JUN |     31 | PUT  |
 | SHORT |  -1 | GDXJ   | 16 JUN |     32 | CALL |
 *** Credit
     - 0.80 Cr. <2017-05-02 Tue>
     - 0.69 Cr. <2017-05-04 Thu> (Roll down call 37->32)
+    - 0.67 Cr. <2017-05-15 Mon> (Roll up put 27->31)
 ** GDXJ JUN Strangle
 | Side | Qty | Symbol | Exp    | Strike | Type |
 |------+-----+--------+--------+--------+------|
