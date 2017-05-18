@@ -55,6 +55,13 @@
 *** Credit
     - 2.28 Cr. <2017-04-24 Mon>
     - 1.02 Cr. <2017-04-26 Wed> (Roll 28 APR 98.5 -> JUL 100)
+** DIS Strangle
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | DIS    | 16 JUN |    100 | PUT  |
+| SHORT |  -1 | DIS    | 16 JUN |    110 | CALL |
+*** Credit
+    - 0.84 Cr. <2017-05-17 Wed>
 ** ED Covered Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
