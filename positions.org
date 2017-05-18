@@ -114,13 +114,6 @@
     - 0.80 Cr. <2017-05-02 Tue>
     - 0.69 Cr. <2017-05-04 Thu> (Roll down call 37->32)
     - 0.67 Cr. <2017-05-15 Mon> (Roll up put 27->31)
-** GLD JUN PUT
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | GLD    | 16 JUN |    119 | CALL |
-*** Credit
-    - 0.72 Cr. <2017-04-25 Tue>
-    - 0.97 Cr. <2017-05-04 Thu> (Roll MAY->JUN)
 ** HD JUL Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
