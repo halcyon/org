@@ -421,6 +421,15 @@
 | LONG  |   1 | KMX    | 19 MAY |   67.5 | CALL |
 *** Credit
     - 2.57 Cr. <2017-04-24 Mon>
+** OIH Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | OIH    | 16 JUN |     24 | PUT  |
+| SHORT |  -1 | OIH    | 16 JUN |     25 | PUT  |
+| SHORT |  -1 | OIH    | 16 JUN |     29 | CALL |
+| LONG  |   1 | OIH    | 16 JUN |     30 | CALL |
+*** Credit
+    - 0.23 Cr. <2017-05-17 Wed>
 ** NVDA Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
