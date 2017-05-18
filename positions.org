@@ -83,10 +83,11 @@
 ** FXE Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | FXE    | 16 JUN |    103 | PUT  |
+| SHORT |  -1 | FXE    | 16 JUN |    106 | PUT  |
 | SHORT |  -1 | FXE    | 16 JUN |    108 | CALL |
 *** Credit
     0.47 Cr. <2017-05-10 Wed>
+    0.27 Cr. <2017-05-17 Wed> (Roll up put 103->106)
 ** GDXJ MAY Jade Lizard
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
