@@ -154,6 +154,14 @@
     - 1.55 Cr. <2017-04-06 Thu>
     - 1.88 Cr. <2017-04-28 Fri> (Roll up put 125->141)
     - 3.16 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 141->145)
+** MCD JUL Big Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | MCD    | 21 JUL |    145 | PUT  |
+| SHORT |  -1 | MCD    | 21 JUL |    145 | CALL |
+| LONG  |   1 | MCD    | 21 JUL |    150 | CALL |
+*** Credit
+    - 5.02 Cr. <2017-05-17 Wed>
 ** MSFT JUN Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
