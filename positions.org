@@ -95,12 +95,10 @@
 *** Credit
     0.47 Cr. <2017-05-10 Wed>
     0.27 Cr. <2017-05-17 Wed> (Roll up put 103->106)
-** GDXJ MAY Jade Lizard
+** GDXJ Jade Lizard
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | GDXJ   | 16 JUN |     33 | PUT  |
-| SHORT |  -1 | GDXJ   | 19 MAY |     40 | CALL |
-| SHORT |   1 | GDXJ   | 19 MAY |     41 | CALL |
 *** Credit
     - 1.07 Cr. <2017-04-06 Thu>
     - 0.61 Cr. <2017-05-01 Mon> (Roll put MAY->JUN)
@@ -307,7 +305,6 @@
 ** WYNN earnings setup calendar
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | WYNN   | 19 MAY |    100 | PUT  |
 | LONG  |   1 | WYNN   | 16 JUN |   97.5 | PUT  |
 *** Debit
     - 2.15 Db. <2017-03-13 Mon>
@@ -340,13 +337,6 @@
 | SHORT |  -1 | XLK    | 16 JUN |     54 | PUT  |
 *** Credit
     - 0.39 Cr. <2017-05-10 Wed>
-** XLV MAY Ratio Put Spread
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -2 | XLV    | 19 MAY |     73 | PUT  |
-| LONG  |   1 | XLV    | 19 MAY |     74 | PUT  |
-*** Credit
-    - 0.31 Cr. <2017-04-10 Mon>
 ** XOM Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -366,12 +356,12 @@
 | LONG  |   1 | AAPL   | 16 JUN |    170 | CALL |
 *** Credit
     - 0.70 Cr. <2017-05-10 Wed>
-** AXP MAY Jade Lizard
+** AXP Jade Lizard
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | AXP    | 16 JUN |     80 | PUT  |
-| SHORT |  -1 | AXP    | 19 MAY |     80 | CALL |
-| LONG  |   1 | AXP    | 19 MAY |   82.5 | CALL |
+| SHORT |  -1 | AXP    | 16 JUN |     80 | CALL |
+| LONG  |   1 | AXP    | 16 JUN |   82.5 | CALL |
 *** Credit
     - 1.05 Cr. <2017-04-25 Tue>
     - 0.84 Cr. <2017-05-01 Mon> (Roll put 79.5->80 MAY->JUN)
@@ -467,12 +457,13 @@
 | LONG  |   1 | V      | 21 JUL |    100 | CALL |
 *** Credit
     - 0.77 Cr. <2017-05-16 Tue>
-** X MAY Put
+** X Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | X      | 19 MAY |     23 | PUT  |
+| SHORT |  -1 | X      | 16 JUN |     23 | PUT  |
 *** Credit
     - 0.91 Cr. <2017-04-27 Thu>
+    - 0.54 Cr. <2017-05-02 Tue> (Roll MAY->JUN)
 ** XOM Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
