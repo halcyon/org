@@ -234,12 +234,6 @@
 ** STO
 *** Cost Basis
     - 21.8943
-** V
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | V      | 16 JUN |     90 | PUT  |
-*** Credit
-    - 0.81 Cr. <2017-05-10 Wed>
 ** WFM JUN Strangle
 | Side | Qty | Symbol | Exp    | Strike | Type |
 |------+-----+--------+--------+--------+------|
