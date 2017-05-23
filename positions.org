@@ -269,14 +269,6 @@
     - 1.33 Cr. <2017-04-21 Fri> (Roll up put from 30 -> 36)
     - 0.92 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 36 -> 37)
     - Looking for a scratch, close at 4.07 Db.
-** WFM Call Ratio
-| Side | Qty | Symbol | Exp    | Strike | Type |
-|------+-----+--------+--------+--------+------|
-| LONG |   1 | WFM    | 16 JUN |     34 | CALL |
-| LONG |  -2 | WFM    | 16 JUN |     35 | CALL |
-*** Credit
-    - 0.49 Cr. <2017-04-12 Wed>
-    - 0.42 Cr. <2017-05-08 Mon> (Roll MAY->JUN)
 ** WMT Calls
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
