@@ -120,6 +120,13 @@
     - 0.88 Cr. <2017-04-03 Mon>
     - 1.45 Cr. <2017-04-11 Tue> (Roll 148->150 APR->MAY)
     - 1.30 Cr. <2017-05-01 Mon> (Roll MAY->JUL)
+** HES Strangle
+ | Side  | Qty | Symbol | Exp    | Strike | Type |
+ |-------+-----+--------+--------+--------+------|
+ | SHORT |  -1 | HES    | 16 JUN |     45 | PUT  |
+ | SHORT |  -1 | HES    | 16 JUN |     54 | CALL |
+*** Credit
+    - 0.68 Cr. <2017-05-23 Tue>
 ** HTZ Puts
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
