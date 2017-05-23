@@ -184,14 +184,6 @@
 | SHORT |  -1 | NAT    | 21 JUL |      7 | PUT  |
 **** Credit
     - 0.50 Cr. <2017-05-16 Tue>
-** NUE JUN Straddle
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | NUE    | 16 JUN |     60 | PUT  |
-| SHORT |  -1 | NUE    | 16 JUN |     60 | CALL |
-*** Credit
-    - 1.03 Cr. <2017-04-28 Fri>
-    - 2.08 Cr. <2017-05-10 Wed> (Roll MAY->JUN)
 ** OIH JUN Ratio Put Spread
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
