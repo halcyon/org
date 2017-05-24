@@ -377,6 +377,15 @@
 | LONG  |   1 | IWM    | 16 JUN |    146 | CALL |
 *** Credit
     - 0.39 Cr. <2017-05-16 Tue>
+** MSFT Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | MSFT   | 16 JUN |     65 | PUT  |
+| SHORT |  -1 | MSFT   | 16 JUN |     67 | PUT  |
+| SHORT |  -1 | MSFT   | 16 JUN |     70 | CALL |
+| LONG  |   1 | MSFT   | 16 JUN |     72 | CALL |
+*** Credit
+    - 0.57 Cr. <2017-05-24 Wed>
 ** OIH Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
