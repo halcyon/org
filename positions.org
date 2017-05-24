@@ -259,8 +259,8 @@
 *** Credit
     - 1.75 Cr. <2017-05-23 Tue>
 ** WFM JUN Strangle
-| Side | Qty | Symbol | Exp    | Strike | Type |
-|------+-----+--------+--------+--------+------|
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | WFM    | 16 JUN |     37 | PUT  |
 | SHORT |  -1 | WFM    | 16 JUN |     31 | CALL |
 *** Credit
