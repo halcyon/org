@@ -471,12 +471,13 @@
 ** HD Calls
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | HD     | 16 JUN |  145.0 | CALL |
+| SHORT |  -1 | HD     | 18 AUG |  145.0 | CALL |
 *** Credit
     - 0.64 Cr. <2017-01-13 Fri>
     - 1.19 Cr. <2017-03-03 Fri> (Roll MAR -> APR)
     - 1.60 Cr. <2017-04-03 Mon> (Roll APR -> MAY)
     - 0.50 Cr. <2017-04-19 Wed> (Roll MAY -> JUN)
+    - 1.41 Cr. <2017-05-24 Wed> (Roll JUN -> AUG)
 ** ON
 *** Cost Basis
     - 13.03
