@@ -368,6 +368,15 @@
 | LONG  |   1 | EWZ    | 21 JUL |     47 | CALL |
 *** Credit
     - 0.45 Cr. <2017-05-16 Tue>
+** FB Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | FB     | 21 JUL |    135 | PUT  |
+| SHORT |  -1 | FB     | 21 JUL |    140 | PUT  |
+| SHORT |  -1 | FB     | 21 JUL |    160 | CALL |
+| LONG  |   1 | FB     | 21 JUL |    165 | CALL |
+*** Credit
+    - 1.18 Cr. <2017-05-24 Wed>
 ** IWM Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
