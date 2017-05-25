@@ -300,13 +300,6 @@
 | LONG  |   1 | X      | 16 JUN |     24 | CALL |
 *** Credit
     - 1.05 Cr. <2017-04-27 Thu>
-** XLE Strangle
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | XLE    | 16 JUN |     63 | PUT  |
-| SHORT |  -1 | XLE    | 16 JUN |     71 | CALL |
-*** Credit
-    - 0.67 Cr. <2017-05-10 Wed>
 ** XLK Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
