@@ -196,14 +196,6 @@
 | SHORT |  -1 | P      | 16 JUN |      9 | PUT  |
 *** Credit
     - 0.48 Cr.
-** QCOM
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | QCOM   | 16 JUN |     50 | PUT  |
-| SHORT |  -1 | QCOM   | 16 JUN |   52.5 | CALL |
-| LONG  |   1 | QCOM   | 16 JUN |     55 | CALL |
-*** Credit
-    - 1.75 Cr. <2017-04-28 Fri>
 ** QQQ
 *** Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
