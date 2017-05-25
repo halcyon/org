@@ -316,15 +316,6 @@
 *** Credit
     - 0.46 Cr.
 * TW Roth
-** AAPL
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| LONG  |   1 | AAPL   | 16 JUN |    140 | PUT  |
-| SHORT |  -1 | AAPL   | 16 JUN |    145 | PUT  |
-| SHORT |  -1 | AAPL   | 16 JUN |    165 | CALL |
-| LONG  |   1 | AAPL   | 16 JUN |    170 | CALL |
-*** Credit
-    - 0.70 Cr. <2017-05-10 Wed>
 ** AXP Jade Lizard
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
