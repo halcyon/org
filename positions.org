@@ -65,6 +65,13 @@
 *** Credit
     - 2.28 Cr. <2017-04-24 Mon>
     - 1.02 Cr. <2017-04-26 Wed> (Roll 28 APR 98.5 -> JUL 100)
+** COST
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | COST   | 16 JUN |    178 | PUT  |
+*** Credit
+    - 1.52 Cr. <2017-05-25 Thu>
+    - 1.77 Cr. <2017-05-26 Fri> (Roll 170->178)
 ** DIS Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
