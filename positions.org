@@ -122,11 +122,12 @@
 ** HD JUL Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | HD     | 21 JUL |    150 | CALL |
+| SHORT |  -1 | HD     | 18 AUG |    150 | CALL |
 *** Credit
     - 0.88 Cr. <2017-04-03 Mon>
     - 1.45 Cr. <2017-04-11 Tue> (Roll 148->150 APR->MAY)
     - 1.30 Cr. <2017-05-01 Mon> (Roll MAY->JUL)
+    - 1.28 Cr. <2017-05-26 Fri> (Roll JUL->AUG)
 ** HES Strangle
  | Side  | Qty | Symbol | Exp    | Strike | Type |
  |-------+-----+--------+--------+--------+------|
