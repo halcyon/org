@@ -19,16 +19,6 @@
 *** Credit
     - 5.55 Cr. <2017-04-28 Fri>
     - 1.77 Cr. <2017-05-12 Fri> (Roll up put 870/890->900/920)
-** BIDU JUN Straddle
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | BIDU   | 16 JUN |    185 | PUT  |
-| SHORT |  -1 | BIDU   | 16 JUN |    185 | CALL |
-*** Credit
-    - 2.63 Cr. <2017-04-28 Fri>
-    - 1.25 Cr. <2017-05-05 Fri> (Roll down call 195->185)
-    - 1.00 Cr. <2017-05-10 Wed> (Roll up put 170->175)
-    - 2.98 Cr. <2017-05-17 Wed> (Roll up put 175->185)
 ** BP
 *** Cost Basis
     - 41.5
