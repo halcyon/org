@@ -346,13 +346,11 @@
 | LONG  |   1 | NVDA   | 16 JUN |    155 | CALL |
 *** Credit
     - 1.00 Cr. <2017-05-15 Mon>
-** NFLX JUN Iron Condor
+** NFLX Put Spread
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | LONG  |   1 | NFLX   | 16 JUN |    135 | PUT  |
-| SHORT |  -1 | NFLX   | 16 JUN |    150 | PUT  |
-| SHORT |  -1 | NFLX   | 16 JUN |    150 | CALL |
-| LONG  |   1 | NFLX   | 16 JUN |    165 | CALL |
+| SHORT |  -1 | NFLX   | 16 JUN |    160 | PUT  |
 *** Credit
     - 1.70 Cr. <2017-04-19 Wed>
     - 0.87 Cr. <2017-04-26 Wed> (Roll up put 130->142)
@@ -360,6 +358,7 @@
     - 2.45 Cr. <2017-05-08 Mon> (Roll MAY->JUN)
     - 0.26 Db. <2017-05-09 Tue> (Risk reduction, roll up long put 115->135)
     - 4.25 Cr. <2017-05-10 Wed> (Roll up put 150->160)
+    - 10.50 Db. <2017-06-01 Thu> (Bought back call spread)
 ** SLB Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
