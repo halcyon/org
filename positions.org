@@ -270,14 +270,6 @@
 | SHORT |  -1 | X      | 16 JUN |     21 | PUT  |
 *** Credit
     - 0.89 Cr.
-** X JUNE Jade Lizard
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | X      | 16 JUN |     20 | PUT  |
-| SHORT |  -1 | X      | 16 JUN |     23 | CALL |
-| LONG  |   1 | X      | 16 JUN |     24 | CALL |
-*** Credit
-    - 1.05 Cr. <2017-04-27 Thu>
 ** XLK Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
