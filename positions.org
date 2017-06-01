@@ -96,14 +96,6 @@
 *** Credit
     - 0.51 Cr. <2017-04-25 Tue>
     - 0.35 Cr. <2017-05-05 Fri> (Roll up put 61->64)
-** EWW JUN Jade Lizard
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | EWW    | 16 JUN |     49 | PUT  |
-| SHORT |  -1 | EWW    | 16 JUN |     53 | PUT  |
-| LONG  |   1 | EWW    | 16 JUN |     54 | CALL |
-*** Credit
-    - 1.04 Cr. <2017-04-25 Tue>
 ** FXE Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
