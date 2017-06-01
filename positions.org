@@ -273,16 +273,6 @@
 *** Credit
     - 0.46 Cr.
 * TW Roth
-** AXP Jade Lizard
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | AXP    | 16 JUN |     80 | PUT  |
-| SHORT |  -1 | AXP    | 16 JUN |     80 | CALL |
-| LONG  |   1 | AXP    | 16 JUN |   82.5 | CALL |
-*** Credit
-    - 1.05 Cr. <2017-04-25 Tue>
-    - 0.84 Cr. <2017-05-01 Mon> (Roll put 79.5->80 MAY->JUN)
-    - 0.62 Cr. <2017-05-10 Wed> (Roll call spread down 81.5/82.5->80/82.5 MAY->JUN)
 ** CSX Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
