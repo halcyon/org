@@ -264,12 +264,6 @@
     - 2.15 Db. <2017-03-13 Mon>
     - 1.34 Cr. <2017-03-31 Fri> (Roll short strike from APR -> MAY)
 *** Manage at 25% Profit
-** X JUNE Put
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | X      | 16 JUN |     21 | PUT  |
-*** Credit
-    - 0.89 Cr.
 ** XLK Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
