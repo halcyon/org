@@ -432,13 +432,13 @@
 ** ON
 *** Cost Basis
     - 13.03
-** ON JUL Covered Call
+** ON Calls
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -2 | ON     | 21 JUL |   13.0 | CALL |
 *** Credit
     - 3.06 Cr. <2016-12-29 Thu>
-** QQQ MAY Calls
+** QQQ Calls
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -3 | QQQ    | 18 AUG |    134 | CALL |
