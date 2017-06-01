@@ -32,26 +32,12 @@
 ** BP
 *** Cost Basis
     - 41.5
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | BP     | 16 JUN |     35 | PUT  |
 *** Puts
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | BP     | 16 JUN |     35 | PUT  |
-**** Credit
-    - 0.22 Cr. <2017-05-16 Tue>
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | BP     | 21 JUL |     34 | PUT  |
 **** Credit
     - 0.28 Cr. <2017-05-16 Tue>
-*** Calls
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | BP     | 21 JUL |     39 | CALL |
-**** Credit
-     - 0.23 Cr. <2017-05-23 Tue>
 ** CAT Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
