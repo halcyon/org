@@ -57,7 +57,7 @@
     0.92 Cr. <2017-05-10 Wed>
 *** Cost Basis
     - 56.0382
-** EFA JUN Strangle
+** EFA Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | EFA    | 16 JUN |     64 | PUT  |
@@ -65,6 +65,15 @@
 *** Credit
     - 0.51 Cr. <2017-04-25 Tue>
     - 0.35 Cr. <2017-05-05 Fri> (Roll up put 61->64)
+** EWZ Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | EWZ    | 21 JUL |     26 | PUT  |
+| SHORT |  -1 | EWZ    | 21 JUL |     31 | PUT  |
+| SHORT |  -1 | EWZ    | 21 JUL |     36 | CALL |
+| LONG  |   1 | EWZ    | 21 JUL |     41 | CALL |
+*** Credit
+    1.37 Cr. <2017-06-02 Fri>
 ** FXE Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
