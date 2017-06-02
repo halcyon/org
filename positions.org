@@ -100,11 +100,16 @@
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | HTZ    | 21 JUL |     20 | PUT  |
-|       |     |        |        |        |      |
 *** Credit
     - 0.51 Cr. <2017-03-13 Mon>
     - 0.16 Cr. <2017-04-10 Mon> (Roll APR->MAY)
     - 0.45 Cr. <2017-04-24 Mon> (Roll MAY->JUL)
+** LULU Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | LULU   | 21 JUL |     50 | PUT  |
+*** Credit
+    0.57 Cr. <2017-06-02 Fri>
 ** MCD JUN Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
