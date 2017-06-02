@@ -379,6 +379,15 @@
 | LONG  |   1 | SPY    | 16 JUN |    245 | CALL |
 *** Credit
     - 0.74 Cr. <2017-04-20 Thu>
+** TLT Iron Condor
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| LONG  |   1 | TLT    | 21 JUL |    119 | PUT  |
+| SHORT |  -1 | TLT    | 21 JUL |    122 | PUT  |
+| SHORT |  -1 | TLT    | 21 JUL |    129 | CALL |
+| LONG  |   1 | TLT    | 21 JUL |    132 | CALL |
+*** Credit
+    0.79 Cr. <2017-06-02 Fri>
 ** V Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
