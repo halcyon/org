@@ -333,8 +333,6 @@
 ** OIH Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| LONG  |   1 | OIH    | 16 JUN |     24 | PUT  |
-| SHORT |  -1 | OIH    | 16 JUN |     25 | PUT  |
 | SHORT |  -1 | OIH    | 16 JUN |     29 | CALL |
 | LONG  |   1 | OIH    | 16 JUN |     30 | CALL |
 *** Credit
