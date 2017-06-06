@@ -52,9 +52,10 @@
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | ED     | 16 JUN |     75 | PUT  |
-| SHORT |  -1 | ED     | 16 JUN |     80 | CALL |
+| SHORT |  -1 | ED     | 21 JUL |     80 | CALL |
 *** Credit
     0.92 Cr. <2017-05-10 Wed>
+    0.50 Cr. <2017-06-06 Tue> (Roll call JUN->JUL)
 *** Cost Basis
     - 56.0382
 ** EFA Strangle
