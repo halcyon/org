@@ -32,8 +32,10 @@
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | CAT    | 16 JUN |   92.5 | PUT  |
+| SHORT |  -1 | CAT    | 21 JUL |     95 | PUT  |
 *** Credit
     - 0.68 Cr. <2017-05-05 Fri>
+    - 0.49 Cr. <2017-06-06 Tue>
 ** CAT Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
