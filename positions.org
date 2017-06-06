@@ -83,13 +83,6 @@
 *** Credit
     0.47 Cr. <2017-05-10 Wed>
     0.27 Cr. <2017-05-17 Wed> (Roll up put 103->106)
-** GDXJ Jade Lizard
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | GDXJ   | 16 JUN |     33 | PUT  |
-*** Credit
-    - 1.07 Cr. <2017-04-06 Thu>
-    - 0.61 Cr. <2017-05-01 Mon> (Roll put MAY->JUN)
 ** HD JUL Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
