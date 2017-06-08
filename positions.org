@@ -142,6 +142,7 @@
 *** Credit
     - 0.92 Cr. <2017-04-28 Fri>
     - 0.49 Cr. <2017-05-03 Wed> (Roll up put 65->67.5)
+    - 0.99 Cr. <2017-06-07 Wed> (Roll out call JUN->JUL)
 ** NAT
 *** Cost Basis
     - 10.5677
@@ -234,7 +235,8 @@
     - 0.30 Cr. <2017-04-06 Thu> (Roll up put from 29 -> 30)
     - 1.33 Cr. <2017-04-21 Fri> (Roll up put from 30 -> 36)
     - 0.92 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 36 -> 37)
-    - Looking for a scratch, close at 4.07 Db.
+    - 0.85 Cr. <2017-06-07 Wed> (Roll out put JUN->AUG)
+    - Looking for a scratch, close at 4.92 Db.
 ** WMT Calls
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
