@@ -394,10 +394,11 @@
 ** X Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | X      | 16 JUN |     23 | PUT  |
+| SHORT |  -1 | X      | 21 JUL |     23 | PUT  |
 *** Credit
     - 0.91 Cr. <2017-04-27 Thu>
     - 0.54 Cr. <2017-05-02 Tue> (Roll MAY->JUN)
+    - 0.72 Cr. <2017-06-08 Thu> (Roll JUN->JUL)
 ** XOM Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
