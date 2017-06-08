@@ -326,10 +326,11 @@
 |-------+-----+--------+--------+--------+------|
 | LONG  |   1 | MSFT   | 16 JUN |     65 | PUT  |
 | SHORT |  -1 | MSFT   | 16 JUN |     67 | PUT  |
-| SHORT |  -1 | MSFT   | 16 JUN |     70 | CALL |
-| LONG  |   1 | MSFT   | 16 JUN |     72 | CALL |
+| SHORT |  -1 | MSFT   | 21 JUL |     70 | CALL |
+| LONG  |   1 | MSFT   | 21 JUL |   72.5 | CALL |
 *** Credit
     - 0.57 Cr. <2017-05-24 Wed>
+    - 0.03 Cr. <2017-06-07 Wed> (Roll out call side JUN->JUL)
 ** OIH Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
