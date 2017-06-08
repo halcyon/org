@@ -109,6 +109,17 @@
     - 0.51 Cr. <2017-03-13 Mon>
     - 0.16 Cr. <2017-04-10 Mon> (Roll APR->MAY)
     - 0.45 Cr. <2017-04-24 Mon> (Roll MAY->JUL)
+** ICE Call
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | ICE    | 21 JUL |     65 | CALL |
+*** Credit
+    - 0.45 Cr. <2017-06-07 Wed>
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | ICE    | 15 DEC |     70 | CALL |
+*** Credit
+    - 0.85 Cr. <2017-06-07 Wed>
 ** LULU Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
