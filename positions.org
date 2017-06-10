@@ -28,6 +28,13 @@
 | SHORT |  -1 | BP     | 21 JUL |     34 | PUT  |
 **** Credit
     - 0.28 Cr. <2017-05-16 Tue>
+** CAT Call
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -2 | CAT    | 21 JUL |    100 | CALL |
+*** Credit
+    - 2.28 Cr. <2017-04-24 Mon>
+    - 1.02 Cr. <2017-04-26 Wed> (Roll 28 APR 98.5 -> JUL 100)
 ** CAT Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -36,13 +43,6 @@
 *** Credit
     - 0.68 Cr. <2017-05-05 Fri>
     - 0.49 Cr. <2017-06-06 Tue>
-** CAT Call
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -2 | CAT    | 21 JUL |    100 | CALL |
-*** Credit
-    - 2.28 Cr. <2017-04-24 Mon>
-    - 1.02 Cr. <2017-04-26 Wed> (Roll 28 APR 98.5 -> JUL 100)
 ** COST
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -126,6 +126,15 @@
 | SHORT |  -1 | LULU   | 21 JUL |     50 | PUT  |
 *** Credit
     0.57 Cr. <2017-06-02 Fri>
+** MCD JUL Big Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | MCD    | 21 JUL |    145 | PUT  |
+| SHORT |  -1 | MCD    | 15 SEP |    145 | CALL |
+| LONG  |   1 | MCD    | 21 JUL |    150 | CALL |
+*** Credit
+    - 5.02 Cr. <2017-05-17 Wed>
+    - 1.28 Cr. <2017-05-31 Wed> (Roll short 145 call JUL->SEP)
 ** MCD JUN Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -136,15 +145,6 @@
     - 1.88 Cr. <2017-04-28 Fri> (Roll up put 125->141)
     - 3.16 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 141->145)
     - 1.12 Cr. <2017-05-31 Wed> (Roll call JUN->DEC)
-** MCD JUL Big Lizard
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | MCD    | 21 JUL |    145 | PUT  |
-| SHORT |  -1 | MCD    | 15 SEP |    145 | CALL |
-| LONG  |   1 | MCD    | 21 JUL |    150 | CALL |
-*** Credit
-    - 5.02 Cr. <2017-05-17 Wed>
-    - 1.28 Cr. <2017-05-31 Wed> (Roll short 145 call JUL->SEP)
 ** MSFT JUN Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -182,6 +182,12 @@
 | SHORT |  -1 | P      | 16 JUN |      9 | PUT  |
 *** Credit
     - 0.48 Cr.
+** Put
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | QQQ    | 16 JUN |    136 | PUT  |
+**** Credit
+    - 1.23 Cr. <2017-05-10 Wed>
 ** QQQ
 *** Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
@@ -198,12 +204,6 @@
 **** Credit
      - 1.50 Cr. <2017-04-20 Thu>
      - 0.35 Cr. <2017-05-17 Wed> (Diagonal JUN->AUG 135->137)
-** Put
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | QQQ    | 16 JUN |    136 | PUT  |
-**** Credit
-    - 1.23 Cr. <2017-05-10 Wed>
 ** SLB
 *** Cost Basis
     - 76.5
@@ -248,6 +248,14 @@
     - 0.92 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 36 -> 37)
     - 0.85 Cr. <2017-06-07 Wed> (Roll out put JUN->AUG)
     - Looking for a scratch, close at 4.92 Db.
+** WMT Big Lizard
+| Side  | Qty | Symbol | Exp    | Strike | Type |
+|-------+-----+--------+--------+--------+------|
+| SHORT |  -1 | WMT    | 15 SEP |   77.5 | PUT  |
+| SHORT |  -1 | WMT    | 15 SEP |   77.5 | CALL |
+| LONG  |   1 | WMT    | 15 SEP |     80 | CALL |
+*** Credit
+    - 4.24 Cr. <2017-05-10 Wed>
 ** WMT Calls
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -257,14 +265,6 @@
     - 0.80 Cr. <2017-04-12 Wed> (Roll APR->MAY)
     - 0.59 Cr. <2017-04-24 Mon> (Roll MAY->JUN)
     - 1.58 Cr. <2017-05-10 Wed> (Roll JUN->SEP)
-** WMT Big Lizard
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | WMT    | 15 SEP |   77.5 | PUT  |
-| SHORT |  -1 | WMT    | 15 SEP |   77.5 | CALL |
-| LONG  |   1 | WMT    | 15 SEP |     80 | CALL |
-*** Credit
-    - 4.24 Cr. <2017-05-10 Wed>
 ** WYNN earnings setup calendar
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
