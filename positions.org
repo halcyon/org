@@ -64,10 +64,11 @@
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | EFA    | 16 JUN |     64 | PUT  |
-| SHORT |  -1 | EFA    | 16 JUN |     66 | CALL |
+| SHORT |  -1 | EFA    | 21 JUL |     66 | CALL |
 *** Credit
     - 0.51 Cr. <2017-04-25 Tue>
     - 0.35 Cr. <2017-05-05 Fri> (Roll up put 61->64)
+    - 0.17 Cr. <2017-06-12 Mon> (Roll call JUN->JUL)
 ** EWZ Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -81,10 +82,11 @@
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
 | SHORT |  -1 | FXE    | 16 JUN |    106 | PUT  |
-| SHORT |  -1 | FXE    | 16 JUN |    108 | CALL |
+| SHORT |  -1 | FXE    | 21 JUL |    108 | CALL |
 *** Credit
     0.47 Cr. <2017-05-10 Wed>
     0.27 Cr. <2017-05-17 Wed> (Roll up put 103->106)
+    0.48 Cr. <2018-06-08 Fri> (Roll call JUN->JUL)
 ** HD JUL Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -157,18 +159,14 @@
 ** NAT
 *** Cost Basis
     - 10.5677
-*** JUN Put
+*** Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | NAT    | 16 JUN |      7 | PUT  |
-**** Credit
-    - 0.30 Cr. <2017-05-16 Tue>
-*** JUL Put
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | NAT    | 21 JUL |      7 | PUT  |
+| SHORT |  -2 | NAT    | 21 JUL |      7 | PUT  |
 **** Credit
     - 0.50 Cr. <2017-05-16 Tue>
+    - 0.30 Cr. <2017-05-16 Tue>
+    - 0.20 Cr. <2017-06-12 Mon> (Roll JUN->JUL)
 ** OIH JUN Ratio Put Spread
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -210,15 +208,17 @@
 *** Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | SLB    | 16 JUN |     70 | PUT  |
+| SHORT |  -1 | SLB    | 21 JUL |     70 | PUT  |
 **** Credit
     - 0.89 Cr. <2017-04-24 Mon>
+    - 1.11 Cr. <2017-06-09 Fri>
 *** Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | SLB    | 16 JUN |   72.5 | PUT  |
+| SHORT |  -1 | SLB    | 21 JUL |   72.5 | PUT  |
 **** Credit
     - 1.51 Cr. <2017-04-24 Mon>
+    - 0.66 Cr. <2017-06-09 Fri>
 ** SPY JUN Ratio Call Spread
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -236,18 +236,19 @@
 | SHORT |  -1 | V      | 21 JUL |    100 | CALL |
 *** Credit
     - 1.75 Cr. <2017-05-23 Tue>
-** WFM JUN Strangle
+** WFM Strangle
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | WFM    | 16 JUN |     37 | PUT  |
-| SHORT |  -1 | WFM    | 16 JUN |     31 | CALL |
+| SHORT |  -1 | WFM    | 18 AUG |     37 | PUT  |
+| SHORT |  -1 | WFM    | 18 AUG |     31 | CALL |
 *** Credit
     - 1.52 Cr. <2017-04-04 Tue>
     - 0.30 Cr. <2017-04-06 Thu> (Roll up put from 29 -> 30)
     - 1.33 Cr. <2017-04-21 Fri> (Roll up put from 30 -> 36)
     - 0.92 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 36 -> 37)
     - 0.85 Cr. <2017-06-07 Wed> (Roll out put JUN->AUG)
-    - Looking for a scratch, close at 4.92 Db.
+    - 0.28 Cr. <2017-06-12 Mon> (Roll out call JUN->AUG)
+    - Looking for a scratch, close at 5.20 Db.
 ** WMT Big Lizard
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
@@ -334,16 +335,6 @@
 | LONG  |   1 | KRE    | 21 JUL |     57 | CALL |
 *** Credit
     0.68 Cr. <2017-06-02 Fri>
-** MSFT Iron Condor
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| LONG  |   1 | MSFT   | 16 JUN |     65 | PUT  |
-| SHORT |  -1 | MSFT   | 16 JUN |     67 | PUT  |
-| SHORT |  -1 | MSFT   | 21 JUL |     70 | CALL |
-| LONG  |   1 | MSFT   | 21 JUL |   72.5 | CALL |
-*** Credit
-    - 0.57 Cr. <2017-05-24 Wed>
-    - 0.03 Cr. <2017-06-07 Wed> (Roll out call side JUN->JUL)
 ** OIH Iron Condor
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
