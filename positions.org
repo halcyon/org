@@ -38,10 +38,8 @@
 ** CAT Put
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | CAT    | 16 JUN |   92.5 | PUT  |
 | SHORT |  -1 | CAT    | 21 JUL |     95 | PUT  |
 *** Credit
-    - 0.68 Cr. <2017-05-05 Fri>
     - 0.49 Cr. <2017-06-06 Tue>
 ** COST
 | Side  | Qty | Symbol | Exp    | Strike | Type |
@@ -78,15 +76,6 @@
 | LONG  |   1 | EWZ    | 21 JUL |     41 | CALL |
 *** Credit
     1.37 Cr. <2017-06-02 Fri>
-** FXE Strangle
-| Side  | Qty | Symbol | Exp    | Strike | Type |
-|-------+-----+--------+--------+--------+------|
-| SHORT |  -1 | FXE    | 16 JUN |    106 | PUT  |
-| SHORT |  -1 | FXE    | 21 JUL |    108 | CALL |
-*** Credit
-    0.47 Cr. <2017-05-10 Wed>
-    0.27 Cr. <2017-05-17 Wed> (Roll up put 103->106)
-    0.48 Cr. <2018-06-08 Fri> (Roll call JUN->JUL)
 ** HD JUL Call
 | Side  | Qty | Symbol | Exp    | Strike | Type |
 |-------+-----+--------+--------+--------+------|

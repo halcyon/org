@@ -1,0 +1,134 @@
+
+* 2017
+** 2017-07 July
+*** 2017-07-21 Friday
+**** BP Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | BP     | <2017-07-21 Fri> |     34 | PUT  |
+***** Credit
+      - 0.28 Cr. <2017-05-16 Tue>
+**** CAT Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -2 | CAT    | <2017-07-21 Fri> |    100 | CALL |
+***** Credit
+      - 2.28 Cr. <2017-04-24 Mon>
+      - 1.02 Cr. <2017-04-26 Wed> (Roll 28 APR 98.5 -> JUL 100)
+**** CAT Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | CAT    | <2017-07-21 Fri> |     95 | PUT  |
+***** Credit
+      - 0.49 Cr. <2017-06-06 Tue>
+**** COST Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | COST   | <2017-07-21 Fri> |    178 | PUT  |
+***** Credit
+      - 1.52 Cr. <2017-05-25 Thu>
+      - 1.77 Cr. <2017-05-26 Fri> (Roll 170->178)
+**** ED Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | ED     | <2017-07-21 Fri> |     80 | CALL |
+***** Credit
+      - 0.92 Cr. <2017-05-10 Wed>
+      - 0.50 Cr. <2017-06-06 Tue> (Roll call JUN->JUL)
+**** EWZ Iron Condor
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | LONG  |   1 | EWZ    | <2017-07-21 Fri> |     26 | PUT  |
+     | SHORT |  -1 | EWZ    | <2017-07-21 Fri> |     31 | PUT  |
+     | SHORT |  -1 | EWZ    | <2017-07-21 Fri> |     36 | CALL |
+     | LONG  |   1 | EWZ    | <2017-07-21 Fri> |     41 | CALL |
+***** Credit
+      - 1.37 Cr. <2017-06-02 Fri>
+**** HES Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | HES    | <2017-07-21 Fri> |     45 | PUT  |
+***** Credit
+      - 0.68 Cr. <2017-05-23 Tue>
+      - 0.99 Cr. <2017-06-16 Fri> (Roll JUN->JUL)
+
+**** HTZ Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | HTZ    | <2017-07-21 Fri> |     45 | PUT  |
+***** Credit
+      - 0.51 Cr. <2017-03-13 Mon>
+      - 0.16 Cr. <2017-04-10 Mon> (Roll APR->MAY)
+      - 0.45 Cr. <2017-04-24 Mon> (Roll MAY->JUL)
+**** ICE Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | ICE    | <2017-07-21 Fri> |     65 | CALL |
+***** Credit
+      - 0.45 Cr. <2017-06-07 Wed>
+**** LULU Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | LULU   | <2017-07-21 Fri> |     50 | PUT  |
+***** Credit
+      - 0.57 Cr. <2017-06-02 Fri>
+**** MCD Jade Lizard
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | MCD    | <2017-07-21 Fri> |    145 | PUT  |
+     | SHORT |  -1 | MCD    | <2017-09-15 Fri> |    145 | CALL |
+     | LONG  |   1 | MCD    | <2017-09-15 Fri> |    150 | CALL |
+***** Credit
+      - 5.02 Cr. <2017-05-17 Wed>
+      - 0.24 Db. <2017-05-31 Wed> (Roll call spread JUL->SEP)
+**** NAT Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -2 | NAT    | <2017-07-21 Fri> |      7 | PUT  |
+***** Credit
+      - 1.00 Cr. <2017-05-16 Tue>
+**** NVDA Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | NVDA   | <2017-07-21 Fri> |    150 | PUT  |
+***** Credit
+      - 2.23 Cr. <2017-06-09 Fri>
+      - 1.80 Cr. <2017-06-16 Fri> (Roll JUN->JUL)
+** 2017-08 August
+*** 2017-08-18 Friday
+**** HD Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | HD     | <2017-08-18 Fri> |    150 | CALL |
+***** Credit
+      - 0.88 Cr. <2017-04-03 Mon>
+      - 1.45 Cr. <2017-04-11 Tue> (Roll 148->150 APR->MAY)
+      - 1.30 Cr. <2017-05-01 Mon> (Roll MAY->JUL)
+      - 1.28 Cr. <2017-05-26 Fri> (Roll JUL->AUG)
+** 2017-09 September
+*** 2017-09-15 Friday
+**** AMRN Reverse Big Lizard
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | LONG  |   1 | AMRN   | <2017-09-15 Fri> |    2.5 | PUT  |
+     | SHORT |  -1 | AMRN   | <2017-09-15 Fri> |      3 | PUT  |
+     | SHORT |  -1 | AMRN   | <2017-09-15 Fri> |      3 | CALL |
+***** Credit
+      - 0.82 Cr. <2017-05-10 Wed>
+** 2017-12 December
+*** 2017-12-15 Friday
+**** ICE Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | ICE    | <2017-12-15 Fri> |     70 | CALL |
+***** Credit
+      - 0.85 Cr. <2017-06-07 Wed>
+**** MCD Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | MCD    | <2017-12-15 Fri> |    135 | CALL |
+***** Credit
+      - 1.55 Cr. <2017-04-06 Thu>
+      - 1.88 Cr. <2017-04-28 Fri> (Roll up put 125->141)
+      - 3.16 Cr. <2017-05-04 Thu> (Roll MAY->JUN and put 141->145)
+      - 1.12 Cr. <2017-05-31 Wed> (Roll call JUN->DEC)
