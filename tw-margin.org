@@ -130,6 +130,13 @@
 ***** Credit
       - 1.33 Cr. <2017-04-20 Thu>
       - 1.38 Cr. <2017-06-16 Fri> (Roll JUN->JUL)
+**** V Strangle
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | V      | <2017-07-21 Fri> |     90 | PUT  |
+     | SHORT |  -1 | V      | <2017-07-21 Fri> |    100 | CALL |
+***** Credit
+      - 1.75 Cr. <2017-05-23 Tue>
 ** 2017-08 August
 *** 2017-08-18 Friday
 **** HD Call
