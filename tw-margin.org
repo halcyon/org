@@ -129,7 +129,7 @@
      | SHORT |  -2 | SPY    | <2017-07-21 Fri> |    239 | CALL |
 ***** Credit
       - 1.33 Cr. <2017-04-20 Thu>
-      - 1.38 Cr. <2017-06-16 Fri>
+      - 1.38 Cr. <2017-06-16 Fri> (Roll JUN->JUL)
 ** 2017-08 August
 *** 2017-08-18 Friday
 **** HD Call
