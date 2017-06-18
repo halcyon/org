@@ -123,6 +123,13 @@
      | SHORT |  -1 | AMRN   | <2017-09-15 Fri> |      3 | CALL |
 ***** Credit
       - 0.82 Cr. <2017-05-10 Wed>
+**** P Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | P      | <2017-09-15 Fri> |      9 | PUT  |
+***** Credit
+      - 0.48 Cr. <2017-05-15 Mon>
+      - 0.14 Cr. <2017-06-16 Fri> (Roll JUN->SEP)
 ** 2017-12 December
 *** 2017-12-15 Friday
 **** ICE Call
