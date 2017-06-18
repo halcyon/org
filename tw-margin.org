@@ -108,6 +108,20 @@
      | SHORT |  -1 | QQQ    | <2017-07-21 Fri> |    139 | PUT  |
 ***** Credit
       - 1.19 Cr. <2017-06-08 Thu>
+**** SLB Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | SLB    | <2017-07-21 Fri> |     70 | PUT  |
+***** Credit
+      - 0.89 Cr. <2017-04-24 Mon>
+      - 1.11 Cr. <2017-06-09 Fri> (Roll JUN->JUL)
+**** SLB Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | SLB    | <2017-07-21 Fri> |   72.5 | PUT  |
+***** Credit
+      - 1.51 Cr. <2017-04-24 Mon>
+      - 0.66 Cr. <2017-06-09 Fri> (Roll JUN->JUL)
 ** 2017-08 August
 *** 2017-08-18 Friday
 **** HD Call
