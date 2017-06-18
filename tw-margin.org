@@ -127,6 +127,13 @@
       - 1.23 Cr. <2017-04-20 Thu>
       - 0.79 Cr. <2017-05-03 Wed> (Roll MAY->JUN)
       - 0.16 Cr. <2017-05-17 Wed> (Diagonal JUN->AUG 134->136)
+**** QQQ Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | QQQ    | <2017-08-18 Fri> |    137 | CALL |
+***** Credit
+      - 1.50 Cr. <2017-04-20 Thu>
+      - 0.35 Cr. <2017-05-17 Wed> (Diagonal JUN->AUG 135->137)
 ** 2017-09 September
 *** 2017-09-15 Friday
 **** AMRN Reverse Big Lizard
