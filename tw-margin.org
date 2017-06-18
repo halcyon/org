@@ -122,6 +122,14 @@
 ***** Credit
       - 1.51 Cr. <2017-04-24 Mon>
       - 0.66 Cr. <2017-06-09 Fri> (Roll JUN->JUL)
+**** SPY Ratio Call Spread
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | LONG  |  -1 | SPY    | <2017-07-21 Fri> |    237 | CALL |
+     | SHORT |  -2 | SPY    | <2017-07-21 Fri> |    239 | CALL |
+***** Credit
+      - 1.33 Cr. <2017-04-20 Thu>
+      - 1.38 Cr. <2017-06-16 Fri>
 ** 2017-08 August
 *** 2017-08-18 Friday
 **** HD Call
