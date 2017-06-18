@@ -102,6 +102,12 @@
 ***** Credit
       - 0.19 Cr. <2017-04-28 Fri>
       - 0.35 Cr. <2017-06-17 Sat> (Roll JUN->JUL)
+**** QQQ Put
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | QQQ    | <2017-07-21 Fri> |    139 | PUT  |
+***** Credit
+      - 1.19 Cr. <2017-06-08 Thu>
 ** 2017-08 August
 *** 2017-08-18 Friday
 **** HD Call
