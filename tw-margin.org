@@ -94,6 +94,14 @@
 ***** Credit
       - 2.23 Cr. <2017-06-09 Fri>
       - 1.80 Cr. <2017-06-16 Fri> (Roll JUN->JUL)
+**** OIH Ratio Put Spread
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -2 | OIH    | <2017-07-21 Fri> |     27 | PUT  |
+     | LONG  |  -1 | OIH    | <2017-07-21 Fri> |     28 | PUT  |
+***** Credit
+      - 0.19 Cr. <2017-04-28 Fri>
+      - 0.35 Cr. <2017-06-17 Sat> (Roll JUN->JUL)
 ** 2017-08 August
 *** 2017-08-18 Friday
 **** HD Call
