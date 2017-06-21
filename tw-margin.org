@@ -215,6 +215,14 @@
     | # | Total            |   3.01 |               |
     |---+------------------+--------+---------------|
     #+TBLFM: @>$3=vsum(@II..@III)
+**** WMT Big Lizard
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | WMT    | <2017-09-15 Fri> |   77.5 | PUT  |
+     | SHORT |  -1 | WMT    | <2017-09-15 Fri> |   77.5 | CALL |
+     | LONG  |   1 | WMT    | <2017-09-15 Fri> |     80 | CALL |
+***** Credit
+      - 4.24 Cr. <2017-05-10 Wed>
 ** 2017-12 December
 *** 2017-12-15 Friday
 **** ICE Call
