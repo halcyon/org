@@ -163,6 +163,24 @@
 ***** Credit
       - 1.50 Cr. <2017-04-20 Thu>
       - 0.35 Cr. <2017-05-17 Wed> (Diagonal JUN->AUG 135->137)
+**** WFM Call
+     | Side  | Qty | Symbol | Exp              | Strike | Type |
+     |-------+-----+--------+------------------+--------+------|
+     | SHORT |  -1 | WFM    | <2017-08-18 Fri> |     31 | CALL |
+***** Credit/Debit
+    |   | Date             | Amount | Reason                         |
+    |---+------------------+--------+--------------------------------|
+    |   | <2017-04-04 Tue> |   1.52 | Initial                        |
+    |   | <2017-04-06 Thu> |   0.30 | Roll up put from 29 -> 30      |
+    |   | <2017-04-21 Fri> |   1.33 | Roll up put from 30 -> 36      |
+    |   | <2017-05-04 Thu> |   0.92 | Roll MAY->JUN and put 36 -> 37 |
+    |   | <2017-06-07 Wed> |   0.85 | Roll out put JUN->AUG          |
+    |   | <2017-06-12 Mon> |   0.28 | Roll out call JUN->AUG         |
+    |   | <2017-06-16 Fri> |  -0.07 | Close put side                 |
+    |---+------------------+--------+--------------------------------|
+    | # | Total            |   5.13 |                                |
+    |---+------------------+--------+--------------------------------|
+    #+TBLFM: @>$3=vsum(@I..@II)
 ** 2017-09 September
 *** 2017-09-15 Friday
 **** AMRN Reverse Big Lizard
