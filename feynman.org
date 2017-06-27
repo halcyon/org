@@ -10,17 +10,23 @@ https://www.supermicro.com/products/chassis/4U/745/SC745TQ-R920B
 
 * Build
 https://delightlylinux.wordpress.com/2017/01/11/adding-usb-3-1-to-linux/
-[[https://www.amazon.com/gp/product/B018YSB2I8][Qicent PCI-E to USB 3.1 and Type-C 2 Port PCI Express Card With 15-Pin Power Connector Superspeed 10 Gbps for Windows 7/8/8.1/10 above & Linux Kernel]]
-https://www.amazon.com/Kinesis-Advantage2-Keyboard-Typists-KB600QD/dp/B01KBKFT7C
-[[https://www.amazon.com/Phanteks-Enthoo-Chassis-without-PH-ES614PC_BK/dp/B00KFAG6DA/][Phanteks Enthoo Pro Black Without Window]] $104
-[[https://www.amazon.com/Corsair-RM1000x-Modular-Supply-Certified/dp/B015YEI7LK/][Corsair RM1000x]] - $160
-[[http://natex.us/samsung-16gb-2rx4-pc3-12800r-m393b2g70bh0-ck0-256gb-kit/][Samsung M393B2G70BH0-CK0 16GB DDR3 2Rx4 PC3-12800R (16x16GB) 256GB Kit ECC Registered Server Memory Refurbished and Warrantied]] $800
-[[http://www.ebay.com/itm/Matched-Pair-Intel-Xeon-E5-2670-Processor-2-60GHz-20M-8-Core-SR0KX-CPU-LGA2011/182637033364][Matched Pair Intel Xeon E5-2670 Processor 2.60GHz 20M 8 Core SR0KX CPU LGA2011]] $200
-[[https://www.amazon.com/Noctua-Single-Tower-Cooler-NH-U14S/dp/B00C9FLSLY/][Noctua 14cm U-series Single Tower CPU Cooler, Brown (NH-U14S)]] $65 * 2
-[[http://natex.us/intel-s2600cp2j-i-o-shield/][S2600CP2J IO Shield]] - $12
-[[http://www.ebay.com/itm/352098385811][S2600CP2J INTEL SYSTEMBOARD FOR CHENBRO RM13704]] - $99
-[[https://www.amazon.com/Lycom-DT-120-PCIe-Adapter-Support/dp/B00MYCQP38][Lycom DT-120 M.2 PCIe to PCIe 3.0 x4 Adapter (Support M.2 PCIe 2280, 2260, 2242)]] - $18
-[[https://www.amazon.com/Samsung-960-PRO-Internal-MZ-V6P512BW/dp/B01LXS4TYB][Samsung 960 PRO Series - 512GB PCIe NVMe - M.2 Internal SSD (MZ-V6P512BW)]] - $300
+
+|-------------------------------------------------------------------------------------------------------------------------------------------------------+---------|
+| [[https://www.amazon.com/gp/product/B018YSB2I8][Qicent PCI-E to USB 3.1 and Type-C 2 Port PCI Express Card With 15-Pin Power Connector Superspeed 10 Gbps for Windows 7/8/8.1/10 above & Linux Kernel]] |   17.00 |
+| https://www.amazon.com/Kinesis-Advantage2-Keyboard-Typists-KB600QD/dp/B01KBKFT7C                                                                      |  340.00 |
+| [[https://www.amazon.com/Phanteks-Enthoo-Chassis-without-PH-ES614PC_BK/dp/B00KFAG6DA/][Phanteks Enthoo Pro Black Without Window]]                                                                                                              |  104.00 |
+| [[https://www.amazon.com/Corsair-RM1000x-Modular-Supply-Certified/dp/B015YEI7LK/][Corsair RM1000x]]                                                                                                                                       |  160.00 |
+| [[http://natex.us/samsung-16gb-2rx4-pc3-12800r-m393b2g70bh0-ck0-256gb-kit/][Samsung M393B2G70BH0-CK0 16GB DDR3 2Rx4 PC3-12800R (16x16GB) 256GB Kit ECC Registered Server Memory Refurbished and Warrantied]]                        |  800.00 |
+| [[http://www.ebay.com/itm/Matched-Pair-Intel-Xeon-E5-2670-Processor-2-60GHz-20M-8-Core-SR0KX-CPU-LGA2011/182637033364][Matched Pair Intel Xeon E5-2670 Processor 2.60GHz 20M 8 Core SR0KX CPU LGA2011]]                                                                        |  200.00 |
+| [[https://www.amazon.com/Noctua-Single-Tower-Cooler-NH-U14S/dp/B00C9FLSLY/][Noctua 14cm U-series Single Tower CPU Cooler, Brown (NH-U14S)]]                                                                                         |  130.00 |
+| [[http://natex.us/intel-s2600cp2j-i-o-shield/][S2600CP2J IO Shield]]                                                                                                                                   |   12.00 |
+| [[http://www.ebay.com/itm/352098385811][S2600CP2J INTEL SYSTEMBOARD FOR CHENBRO RM13704]]                                                                                                       |   99.00 |
+| [[https://www.amazon.com/Lycom-DT-120-PCIe-Adapter-Support/dp/B00MYCQP38][Lycom DT-120 M.2 PCIe to PCIe 3.0 x4 Adapter (Support M.2 PCIe 2280, 2260, 2242)]]                                                                      |   18.00 |
+| [[https://www.amazon.com/Samsung-960-PRO-Internal-MZ-V6P512BW/dp/B01LXS4TYB][Samsung 960 PRO Series - 512GB PCIe NVMe - M.2 Internal SSD (MZ-V6P512BW)]]                                                                             |  300.00 |
+| GTX-1050                                                                                                                                              |  100.00 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------+---------|
+|                                                                                                                                                       | 2280.00 |
+#+TBLFM: @>$2=vsum(@I..II);%.2f
 
 * Bios Update
 
