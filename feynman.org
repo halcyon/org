@@ -1,7 +1,20 @@
 https://delightlylinux.wordpress.com/2017/01/11/adding-usb-3-1-to-linux/
-https://www.amazon.com/Kinesis-Advantage2-Keyboard-Typists-KB600QD/dp/B01KBKFT7C
-http://www.ebay.com/itm/Supermicro-X9DR3-LN4F-Motherboard-EATX-Dual-E5-2670-2-6Ghz-LGA2011-REV-1-20A/132235022393
+http://www.ebay.com/itm/Supermicro-X9DR3-LN4Fon-Motherboard-EATX-Dual-E5-2670-2-6Ghz-LGA2011-REV-1-20A/132235022393
 https://www.amazon.com/Noctua-Cooler-LGA2011-Platforms-NH-U12DXi4/dp/B00DWFQ42I
 https://www.amazon.com/dp/B007HZGX9I
 https://www.amazon.com/Corsair-RM1000x-Modular-Supply-Certified/dp/B015YEI7LK?th=1
 https://www.amazon.com/Intel-P4308XXMFGN-Server-Chassis-750W/dp/B007HZGX9I
+https://www.supermicro.com/products/chassis/4U/745/SC745TQ-R920B
+
+
+
+* Build
+https://delightlylinux.wordpress.com/2017/01/11/adding-usb-3-1-to-linux/
+https://www.amazon.com/Kinesis-Advantage2-Keyboard-Typists-KB600QD/dp/B01KBKFT7C
+[[https://www.amazon.com/Phanteks-Enthoo-Chassis-without-PH-ES614PC_BK/dp/B00KFAG6DA/][Phanteks Enthoo Pro Black Without Window]] $104
+[[https://www.amazon.com/Corsair-RM1000x-Modular-Supply-Certified/dp/B015YEI7LK/][Corsair RM1000x]] - $160
+[[http://natex.us/samsung-16gb-2rx4-pc3-12800r-m393b2g70bh0-ck0-256gb-kit/][Samsung M393B2G70BH0-CK0 16GB DDR3 2Rx4 PC3-12800R (16x16GB) 256GB Kit ECC Registered Server Memory Refurbished and Warrantied]] $800
+[[http://www.ebay.com/itm/Matched-Pair-Intel-Xeon-E5-2670-Processor-2-60GHz-20M-8-Core-SR0KX-CPU-LGA2011/182637033364][Matched Pair Intel Xeon E5-2670 Processor 2.60GHz 20M 8 Core SR0KX CPU LGA2011]] $200
+[[https://www.amazon.com/Noctua-Single-Tower-Cooler-NH-U14S/dp/B00C9FLSLY/][Noctua 14cm U-series Single Tower CPU Cooler, Brown (NH-U14S)]] $65 * 2
+[[http://natex.us/intel-s2600cp2j-i-o-shield/][S2600CP2J IO Shield]] - $12
+[[http://www.ebay.com/itm/352098385811][S2600CP2J INTEL SYSTEMBOARD FOR CHENBRO RM13704]] - $99
