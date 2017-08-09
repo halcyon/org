@@ -1,0 +1,67 @@
+* The Programmable Editor
+
+** Vim strengths
+   - A composable command language
+   - Speed
+   - posix standard (vi)
+   - The tireless Tim Pope and community
+   - modal editing (combined with a leader key, it's very nice to not have keybindings conflict with other apps or the OS)
+   - ability to navigate with only one hand
+   - stabilnnity
+
+** Vim weaknesses
+   - Very little convention for keybindings between plugins
+   - No async operations (Probably resolved with neovim)
+   - vimscript
+
+** Emacs strengths
+   - A Lisp environment. The Lisp runtime, low level libs, and tools
+     are written in C. Much of the editor functionality itself is
+     written in Emacs Lisp.
+     - Every keybinding is mapped to a lisp function
+     - Emacs is the composition of lisp functions
+     - The documentation for these functions can be easily inspected with "C-h f"
+       - All mapped keybindings
+       - Access to source
+     - Functions can be defined/redefined/undefined at runtime
+     - Introspection: Variable (setting) documentation and value(s) can be inspected at runtime "C-h v"
+   - Huge community with very high quality packages
+   - Conventions around keymappings
+     - From package to package
+       - SLIME, Cider, Geiser, Lisp
+     - Reserved keybindings for major modes, prevent conflicts
+       with minor modes.
+     - Reserved keybindings for users
+   - Emacs LISP
+   - Killer Apps
+     - Magit (modal)
+       - Most git interfaces trade power for convenience. Magit is amazing becomes it adds convenience without compromising power.
+     - Org mode (Markdown's big brother)
+       - Spreadsheets, folding, and more!
+         |------+-------+----+------|
+         | This | Thing | is | Cool |
+         |------+-------+----+------|
+         | a    |     2 |    |      |
+         | f    |  1.01 |    |      |
+         | q    |  2.15 |    |      |
+         | z    |  3.00 |    |      |
+         |------+-------+----+------|
+         |      |       |    |      |
+         |------+-------+----+------|
+         #+TBLFM: @>$2=vsum(@II..III);%.2f
+     - SLIME
+     - Projectile
+       - Open projects and switch between them at the speed of thought
+       - Open and find files within a project at the speed of thought
+     - Company
+       - Uses pluggable back-ends and front-ends to retrieve and display completion candidates
+     - SmartParens
+       - Structural editing of anything dealing with pairs
+         - Wrap, unwrap, and rewrap
+         - Expand and contract
+         - Navigate
+
+** Emacs Weaknesses
+   - Stability
+   - Speed & resource consumption
+   - Requires two hands (and maybe a foot if you invest in a foot-pedal)
