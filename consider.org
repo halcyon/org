@@ -33,7 +33,7 @@
 
 ** Emacs strengths
    - A Lisp environment. The Lisp runtime, low level libs, and tools
-     are written in C. Much of the editor functionality itself is
+n     are written in C. Much of the editor functionality itself is
      written in Emacs Lisp.
      - "Semi-phenomenal, nearly cosmic powers. Itty bitty living space."
      - Every keybinding is mapped to a lisp function
@@ -43,47 +43,48 @@
        - Access to source
      - Functions can be defined/redefined/undefined at runtime
      - Introspection: Variable (setting) documentation and value(s) can be inspected at runtime "C-h v"
-   - Huge community with many high quality packages
-     - Ert-runner (A tool for running headless unit tests against emacs packages)
-   - Conventions around keymappings
-     - From package to package - lots of shared metaphors for basic interaction
-       - SLIME, Cider, Geiser, Lisp
-     - Reserved keybindings for major modes, prevent conflicts
-       with minor modes.
-     - Reserved keybindings for users
-   - Emacs LISP
-   - Killer Apps
-     - Magit (modal)
-       - Most git interfaces trade power for convenience. Magit is amazing becomes it adds convenience without compromising power.
-     - Org mode (Markdown's big brother)
-       - Spreadsheets, folding, and more!
+     - Huge community with many high quality packages
+       - Ert-runner (A tool for running headless unit tests against emacs packages)
+     - Conventions around keymappings
+       - From package to package - lots of shared metaphors for basic interaction
+         - SLIME, Cider, Geiser, Lisp
+         - Debugging!
+       - Reserved keybindings for major modes, prevent conflicts
+         with minor modes.
+       - Reserved keybindings for users
+     - Emacs LISP
+       - Killer Apps
+       - Magit (modal)
+         - Most git interfaces trade power for convenience. Magit is amazing becomes it adds convenience without compromising power.
+       - Org mode (Markdown's big brother)
+         - Spreadsheets, folding, and more!
 
-         indent-rigidly
+           indent-rigidly
 
-         |------+-------+----+------|
-         | This | Thing | is | Cool |
-         |------+-------+----+------|
-         | q    |  2.15 |    |      |
-         | a    |     2 |    |      |
-         | r    |     3 |    |      |
-         | f    |   2.0 |    |      |
-         | f    |  1.01 |    |      |
-         | z    |  3.00 |    |      |
-         |------+-------+----+------|
-         |      |       |    |      |
-         |------+-------+----+------|
-         #+TBLFM: @>$2=vsum(@II..III);%.2f
-     - Projectile
-       - Open projects and switch between them at the speed of thought
-       - Open and find files within a project at the speed of thought
-     - SLIME
-     - Company
-       - Uses pluggable back-ends and front-ends to retrieve and display completion candidates
-     - SmartParens
-       - Structural editing of anything dealing with pairs
-         - Wrap, unwrap, and rewrap
-         - Expand and contract
-         - Navigate
+           |------+-------+----+------|
+           | This | Thing | is | Cool |
+           |------+-------+----+------|
+           | q    |  2.15 |    |      |
+           | a    |     2 |    |      |
+           | r    |     3 |    |      |
+           | f    |   2.0 |    |      |
+           | f    |  1.01 |    |      |
+           | z    |  3.00 |    |      |
+           |------+-------+----+------|
+           |      |       |    |      |
+           |------+-------+----+------|
+           #+TBLFM: @>$2=vsum(@II..III);%.2f
+       - Projectile
+         - Open projects and switch between them at the speed of thought
+         - Open and find files within a project at the speed of thought
+       - SLIME
+       - Company
+         - Uses pluggable back-ends and front-ends to retrieve and display completion candidates
+       - SmartParens
+         - Structural editing of anything dealing with pairs
+           - Wrap, unwrap, and rewrap
+           - Expand and contract
+           - Navigate
 
 ** Emacs weaknesses
    - Stability
@@ -92,5 +93,7 @@
 
 ** From time to time reevaluate
    - Requirements and capabilities change
+   - http://melpa.org/
+   - https://stable.melpa.org/
    - https://github.com/jwiegley/use-package
    - https://www.gnu.org/software/emacs/emacs-paper.html
