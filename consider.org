@@ -1,5 +1,4 @@
-* The Programmable Editor
-
+* The Programmable Editor - or Why should I invest any time in Emacs?
 ** Why not use an IDE?
    - Proficiency
      - Serious time investment
@@ -79,3 +78,6 @@
    - Stability
    - Speed & resource consumption
    - Requires two hands (and maybe a foot if you invest in a foot-pedal)
+
+** From time to time reevaluate
+   - Requirements and capabilities change
