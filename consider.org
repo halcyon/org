@@ -1,18 +1,26 @@
 * The Programmable Editor
 
+** Why not use an IDE?
+   - Proficiency
+     - Serious time investment
+   - Key bindings
+     - Cross platform
+       - Key bindings
+   - Programmable
+
 ** Vim strengths
-   - A composable command language
+   - Composable command language
    - Speed
    - posix standard (vi)
    - The tireless Tim Pope and community
    - modal editing (combined with a leader key, it's very nice to not have keybindings conflict with other apps or the OS)
    - ability to navigate with only one hand
-   - stabilnnity
+   - stability
 
 ** Vim weaknesses
-   - Very little convention for keybindings between plugins
-   - No async operations (Probably resolved with neovim)
+   - No async operations (Possibly resolved with neovim)
    - vimscript
+   - weak conventions around keybindings between plugins
 
 ** Emacs strengths
    - A Lisp environment. The Lisp runtime, low level libs, and tools
