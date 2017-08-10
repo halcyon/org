@@ -1,10 +1,16 @@
 * The Programmable Editor - or should I invest time in Emacs?
+
+** Why bother?
+   - "speed dating is useless
+      3 minutes isn’t enough to properly explain the benefits of the unix philosophy" --I Am Devloper
+
+   - "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." --Abraham Lincoln
+
 ** Why not use an IDE?
    - Proficiency
      - Serious time investment
-   - Key bindings
-     - Cross platform
-       - Key bindings
+   - Cross Platform
+     - Key bindings
    - Programmable
 
 ** Vim strengths
@@ -18,13 +24,14 @@
 
 ** Vim weaknesses
    - No async operations (Possibly resolved with neovim)
-   - vimscript
+   - VimL
    - weak conventions around keybindings between plugins
 
 ** Emacs strengths
    - A Lisp environment. The Lisp runtime, low level libs, and tools
      are written in C. Much of the editor functionality itself is
      written in Emacs Lisp.
+     - "Semi-phenomenal, nearly cosmic powers. Itty bitty living space."
      - Every keybinding is mapped to a lisp function
      - Emacs is the composition of lisp functions
      - The documentation for these functions can be easily inspected with "C-h f"
@@ -35,7 +42,7 @@
    - Huge community with many high quality packages
      - Ert-runner (A tool for running headless unit tests against emacs packages)
    - Conventions around keymappings
-     - From package to package
+     - From package to package - lots of shared metaphors for basic interaction
        - SLIME, Cider, Geiser, Lisp
      - Reserved keybindings for major modes, prevent conflicts
        with minor modes.
