@@ -1,4 +1,4 @@
-* The Programmable Editor - or should I invest time in Emacs?
+* The Extensible, Customizable Display Editor - or should I invest time in Emacs?
 
 ** Why bother?
    - "speed dating is useless
@@ -88,3 +88,4 @@
 
 ** From time to time reevaluate
    - Requirements and capabilities change
+   - https://www.gnu.org/software/emacs/emacs-paper.html
