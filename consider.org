@@ -3,8 +3,12 @@
 ** Why bother?
    - "speed dating is useless
       3 minutes isn’t enough to properly explain the benefits of the unix philosophy" --I Am Devloper
-
    - "Give me six hours to chop down a tree and I will spend the first four sharpening the axe." --Abraham Lincoln
+   - Sharp tools combined with skill and expertise -> Great Results
+     - Can you imagine if your surgeon decided to use a low quality
+       tool because they didn't want to invest their time in
+       developing their skills? I don't want that person cutting on
+       me!
 
 ** Why not use an IDE?
    - Proficiency
@@ -81,7 +85,7 @@
          - Expand and contract
          - Navigate
 
-** Emacs Weaknesses
+** Emacs weaknesses
    - Stability
    - Speed & resource consumption
    - Requires two hands (and maybe a foot if you invest in a foot-pedal)
