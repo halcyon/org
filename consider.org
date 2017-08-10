@@ -1,4 +1,4 @@
-* The Programmable Editor - or Why should I invest any time in Emacs?
+* The Programmable Editor - or should I invest time in Emacs?
 ** Why not use an IDE?
    - Proficiency
      - Serious time investment
