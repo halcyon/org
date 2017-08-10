@@ -88,4 +88,5 @@
 
 ** From time to time reevaluate
    - Requirements and capabilities change
+   - https://github.com/jwiegley/use-package
    - https://www.gnu.org/software/emacs/emacs-paper.html
