@@ -25,7 +25,8 @@
        - Access to source
      - Functions can be defined/redefined/undefined at runtime
      - Introspection: Variable (setting) documentation and value(s) can be inspected at runtime "C-h v"
-   - Huge community with very high quality packages
+   - Huge community with many high quality packages
+     - Ert-runner (A tool for running headless unit tests against emacs packages)
    - Conventions around keymappings
      - From package to package
        - SLIME, Cider, Geiser, Lisp
@@ -38,21 +39,26 @@
        - Most git interfaces trade power for convenience. Magit is amazing becomes it adds convenience without compromising power.
      - Org mode (Markdown's big brother)
        - Spreadsheets, folding, and more!
+
+         indent-rigidly
+
          |------+-------+----+------|
          | This | Thing | is | Cool |
          |------+-------+----+------|
-         | a    |     2 |    |      |
-         | f    |  1.01 |    |      |
          | q    |  2.15 |    |      |
+         | a    |     2 |    |      |
+         | r    |     3 |    |      |
+         | f    |   2.0 |    |      |
+         | f    |  1.01 |    |      |
          | z    |  3.00 |    |      |
          |------+-------+----+------|
-         |      |       |    |      |
+         |      | 13.16 |    |      |
          |------+-------+----+------|
          #+TBLFM: @>$2=vsum(@II..III);%.2f
-     - SLIME
      - Projectile
        - Open projects and switch between them at the speed of thought
        - Open and find files within a project at the speed of thought
+     - SLIME
      - Company
        - Uses pluggable back-ends and front-ends to retrieve and display completion candidates
      - SmartParens
