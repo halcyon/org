@@ -243,6 +243,13 @@ user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publ
 ** [[http://gen.lib.rus.ec/][Library Genesis]]
 ** Quotes
 *** Give me six hours to chop down a tree and I will spend the first four sharpening the axe.  --Abraham Lincoln
+**** Hal Runkel quotes
+- Your job is to help raise an adult.
+- Adults are actively working on disciplining themselves in order to get what they want most.
+- Failure is whenever we neglect what we want most for whatever we want right now.
+- Parenting is teaching your kids to manage their own behavior.
+- Look - discipline is inevitable, you can discipline yourself -- or you can have life discipline you. But it will happen.
+- It always goes better if you discipline yourself.
 ** Git
 *** unstage = reset HEAD
 *** uncommit = reset --soft HEAD^
