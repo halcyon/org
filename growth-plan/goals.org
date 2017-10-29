@@ -250,6 +250,7 @@ user> (clojure.pprint/pprint (filter #(= "1.9" (:added (meta %))) (vals (ns-publ
 - Parenting is teaching your kids to manage their own behavior.
 - Look - discipline is inevitable, you can discipline yourself -- or you can have life discipline you. But it will happen.
 - It always goes better if you discipline yourself.
+- Interviewee question, "What are the biggest challenges you expect to face over the next 3-5 years"
 ** Git
 *** unstage = reset HEAD
 *** uncommit = reset --soft HEAD^
