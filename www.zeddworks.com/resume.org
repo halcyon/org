@@ -61,8 +61,10 @@ Pentaho Kettle, Informatica
 * Employment History
 ** October 2015 - Present RentPath, LLC Atlanta, GA
 *** *Senior Clojure Developer*
-- Daily contributor
-- Opensource contributor
+- Wrote regression suite which fully models backend API using a specification
+- Built ETL jobs in Onyx, a massively concurrent streaming data transformation platform
+- Daily contributor to backend services
+- Opensource contributions
 - Generative testing (unit & regression tests)
 - Refactoring
 - Code Reviews
