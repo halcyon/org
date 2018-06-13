@@ -30,7 +30,7 @@ Org Mode, Markdown, AsciiDoc
 *** *Testing Frameworks and Tools*
 Mockito, TestNG, JUnit, Jasmine, Karma, Mocha, RSpec, Selenium, Watir
 *** *Web Technologies*
-HTML5, CSS, JavaScript, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup (Clojure HTML templating library)
+HTML5, CSS, JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup (Clojure HTML templating library)
 *** *Frameworks*
 Om, Reagent, re-frame, Ruby on Rails, Compojure (Clojure web service routing library), Grails, Spring, Stripes, Hibernate, Ibatis
 *** *Message Queues*
@@ -38,7 +38,7 @@ RabbitMQ, ActiveMQ, JMS
 *** *System Administration*
 Linux, Mac OS X, Solaris, FreeBSD, OpenBSD, NetBSD, Windows
 *** *Build Tools*
-Leiningen, Boot-clj, Maven, Gradle, Buildr, GNU Make, Boost Build, Ant, Nmake, Autoconf
+Leiningen, Boot-clj, Maven, Gradle, Buildr, GNU Make, Boost Build, Ant, MSBuild, Nmake, Autoconf
 *** *SCM Tools*
 Git, Mercurial, Subversion, Perforce, Bitkeeper, CVS
 *** *Network Administration*
@@ -46,7 +46,7 @@ IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB, Apache, Nginx
 *** *Application Servers*
 Jetty, Tomcat, GlassFish, WAS, JES, JBoss
 *** *Databases*
-PostgreSQL, MySQL, Oracle, MongoDB, DB2, CouchDB
+PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, DB2, Elasticsearch, CouchDB
 *** *LDAP*
 Sun Enterprise Directory Server, Open LDAP, OpenDS
 *** *Solaris Technologies*
@@ -78,12 +78,13 @@ Pentaho Kettle, Informatica
 
 ** July 2013 - August 2014 Izenda, LLC Atlanta, GA
 *** *VP Engineering*
-- Managed Engineering business unit consisting of Development, QA, and Support departments
+- Managed .NET Engineering business unit consisting of Development, QA, and Support departments
+- Designed and implemented an SDLC with a full release process
+- Launched wiki to serve as a knowledge archive
+- Automated build and deployment process
+- Migrated development from Subversion to Git
 - Mentored and built team of Clojurists
 - Built Clojure RESTful service on Heroku to provide license management and integrated it with website and SalesForce
-- Designed and implemented an SDLC with a full release process
-- Migrated development from Subversion to Git
-- Automated build and deployment process
 
 ** December 2007 - July 2013 InterContinentalExchange, Inc. Sandy Springs, GA
 *** *Senior Developer*
