@@ -11,7 +11,7 @@
 #+PERMALINK: /resume
 
 * Scott McLeod
-** *Senior Clojure Developer*
+** *Software Architect*
 - tel: 404-697-0103
 - email: scott.mcleod@zeddworks.com
 - website: http://www.zeddworks.com/resume
