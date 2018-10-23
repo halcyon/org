@@ -18,7 +18,7 @@
 
 * Professional Summary
 *** *Programming Languages*
-Clojure, ClojureScript, Shell (Bash & Zsh), JavaScript, Java, Ruby, Groovy, CoffeeScript, Python, C, C++, C#, Scala, Rust
+Clojure, ClojureScript, Shell (Bash & Zsh), JavaScript, Java, Ruby, Common Lisp, Groovy, CoffeeScript, Python, C, C++, C#, Scala, Rust
 *** *Cloud Deployment*
 Kubernetes, Amazon Lambda, Heroku
 *** *Continuous Integration*
@@ -42,7 +42,7 @@ Leiningen, Boot-clj, Maven, Gradle, Buildr, GNU Make, Boost Build, Ant, MSBuild,
 *** *SCM Tools*
 Git, Mercurial, Subversion, Perforce, Bitkeeper, CVS
 *** *Network Administration*
-IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB, Apache, Nginx
+Apache, Nginx, IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB
 *** *Application Servers*
 Jetty, Tomcat, GlassFish, WAS, JES, JBoss
 *** *Databases*
