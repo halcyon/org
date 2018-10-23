@@ -18,11 +18,11 @@
 
 * Professional Summary
 *** *Programming Languages*
-Clojure, ClojureScript, JavaScript, Java, Ruby, Groovy, CoffeeScript, Python, Rust, C, C++, C#, Bash, Scala
+Clojure, ClojureScript, Shell (Bash & Zsh), JavaScript, Java, Ruby, Groovy, CoffeeScript, Python, C, C++, C#, Scala, Rust
 *** *Cloud Deployment*
-Amazon Lambda, Heroku
+Kubernetes, Amazon Lambda, Heroku
 *** *Continuous Integration*
-Jenkins, Travis
+Drone, Jenkins, Travis
 *** *Project Management and Agile Methodologies*
 Trello, Jira/GreenHopper, Kanban
 *** *Documentation*
@@ -30,10 +30,10 @@ Org Mode, Markdown, AsciiDoc
 *** *Testing Frameworks and Tools*
 Mockito, TestNG, JUnit, Jasmine, Karma, Mocha, RSpec, Selenium, Watir
 *** *Web Technologies*
-HTML5, CSS, JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup (Clojure HTML templating library)
+Reagent, ReactJS, HTML5, CSS, Functional CSS, JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup
 *** *Frameworks*
-Om, Reagent, re-frame, Ruby on Rails, Compojure (Clojure web service routing library), Grails, Spring, Stripes, Hibernate, Ibatis
-*** *Message Queues*
+re-frame, Ruby on Rails, Compojure, Integrant, Grails, Spring, Stripes, Hibernate, Ibatis
+*** *Messaging*
 RabbitMQ, ActiveMQ, JMS
 *** *System Administration*
 Linux, Mac OS X, Solaris, FreeBSD, OpenBSD, NetBSD, Windows
@@ -46,7 +46,7 @@ IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB, Apache, Nginx
 *** *Application Servers*
 Jetty, Tomcat, GlassFish, WAS, JES, JBoss
 *** *Databases*
-PostgreSQL, MySQL, SQL Server, Oracle, MongoDB, DB2, Elasticsearch, CouchDB
+PostgreSQL, MySQL, Datomic, Elasticsearch, Redis, SQL Server, Oracle, MongoDB, DB2, CouchDB
 *** *LDAP*
 Sun Enterprise Directory Server, Open LDAP, OpenDS
 *** *Solaris Technologies*
@@ -54,13 +54,14 @@ Zones, ZFS, DTrace, SMF, Jumpstart, Grid Engine
 *** *Virtualization*
 Docker, VirtualBox/Vagrant/Veewee, Octohost, SmartOS(KVM/Zones), VMware(ESX), LXC
 *** *Enterprise Deployment Tools*
-Ansible, Chef, Puppet
-*** *Data Integration and ETL*
-Pentaho Kettle, Informatica
+Kubernetes, Ansible, Chef, Puppet
+*** *Distributed Streaming Platforms/Data Integration/ETL*
+Onyx, Kafka, Pentaho Kettle, Informatica
 
 * Employment History
 ** October 2015 - Present RentPath, LLC Atlanta, GA
 *** *Senior Clojure Developer*
+- Ported Endeca backend to Elasticsearch
 - Wrote regression suite which fully models backend API using a specification
 - Built ETL jobs in Onyx, a massively concurrent streaming data transformation platform
 - Daily contributor to backend services
