@@ -32,11 +32,11 @@ Mockito, TestNG, JUnit, Jasmine, Karma, Mocha, RSpec, Selenium, Watir
 *** *Web Technologies*
 Reagent, ReactJS, HTML5, CSS, Functional CSS, JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup
 *** *Frameworks*
-re-frame, Ruby on Rails, Compojure, Integrant, Grails, Spring, Stripes, Hibernate, Ibatis
+re-frame, Ruby on Rails, Compojure, Integrant, Spring & Spring Boot, Grails, Hibernate, Ibatis
 *** *Messaging*
 RabbitMQ, ActiveMQ, JMS
 *** *System Administration*
-Linux, Mac OS X, Solaris, FreeBSD, OpenBSD, NetBSD, Windows
+Linux, FreeBSD, Solaris, Mac OS X, OpenBSD, NetBSD, Windows
 *** *Build Tools*
 Leiningen, Boot-clj, Maven, Gradle, Buildr, GNU Make, Boost Build, Ant, MSBuild, Nmake, Autoconf
 *** *SCM Tools*
@@ -44,7 +44,7 @@ Git, Mercurial, Subversion, Perforce, Bitkeeper, CVS
 *** *Network Administration*
 Apache, Nginx, IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB
 *** *Application Servers*
-Jetty, Tomcat, GlassFish, WAS, JES, JBoss
+Jetty, Tomcat, http-kit, WAS, JES, JBoss
 *** *Databases*
 PostgreSQL, MySQL, Datomic, Elasticsearch, Redis, SQL Server, Oracle, MongoDB, DB2, CouchDB
 *** *LDAP*
@@ -57,6 +57,16 @@ Docker, VirtualBox/Vagrant/Veewee, Octohost, SmartOS(KVM/Zones), VMware(ESX), LX
 Kubernetes, Ansible, Chef, Puppet
 *** *Distributed Streaming Platforms/Data Integration/ETL*
 Onyx, Kafka, Pentaho Kettle, Informatica
+
+* Open Source
+** Maintainer
+- [[https://github.com/halcyon/asdf-clojure][ASDF Clojure plugin]]
+** Contributor
+- [[https://github.com/ardumont/org2jekyll][Org2Jekyll]]
+- [[https://github.com/rentpath/rp-util-clj][RentPath Clojure Utility Library]]
+- [[https://github.com/mhjort/clj-lambda-utils][Clojure utilities for AWS Lambda (JVM based) deployment]]
+- [[https://github.com/yuya373/emacs-slack][Emacs Slack]]
+- [[https://github.com/onyx-platform/onyx][Onyx Platform]]
 
 * Employment History
 ** October 2015 - Present RentPath, LLC Atlanta, GA
@@ -90,13 +100,15 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 - Built Clojure RESTful service on Heroku to provide license management and integrated it with website and SalesForce
 
 ** December 2007 - July 2013 InterContinentalExchange, Inc. Sandy Springs, GA
-*** *Senior Developer*
+*** *Senior Web Developer*
+**** 2011 - 2013
 - Responsible for developing new features for the website, in-house content management system, reporting systems, and associated customer-facing web products
 - Ported web application for maintaining products on the website from Grails to a BackboneJS & Grails architecture to provide for better "separation of concerns"
 - Wrote NodeJS program for providing ad hoc querying and data transformations for product managers
 - Wrote recursive non-blocking spidering/scraping utility to aggregate university data for a social media initiative utilizing NodeJS
 
-*** *Manager SDLC Team*
+*** *SDLC Team Lead*
+**** 2009 - 2011
 - Championed and implemented Chef deployment strategies to automate provisioning of SDLC stack (Gitorious, Jenkins, Nexus, Jira) and wrote a Chef provider to automate signing of SSL certificates by ICE's Certificate Authority
 - Lead development of Nexus Artifact Cleaner to expunge old artifacts
 - Environment Dashboard project architect - System which provides real-time monitoring of ICE systems
@@ -108,6 +120,7 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 - Implemented SDLC Release Process
 
 *** *R&D Systems Engineer*
+**** 2007 - 2009
 - Developed and formalized SDLC release process
 - Architect of SDLC (Continuous Integration, Distributed Source Control, Shared Build Artifacts Repository, Build Process, and Defect Tracking)
 - Migrated IBM Directory Server schema to Sun Enterprise Directory Server schema for NYBOT eCOPS (Electronic Commodity Operations Processing System)
@@ -117,10 +130,12 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 
 ** June 2004 - December 2007 Equifax, Inc. Alpharetta, GA
 *** *Application Developer IV*
+**** Mar 2007 - Dec 2007
 - Wrote C++ bindings for parsing configuration files with libyaml
 - Developed server-side invocation and monitoring agent for grid job control system
 
 *** *Development Infrastructure Architect*
+**** Feb 2006 - Mar 2007
 - Architect of automated system to generate continuous integration environments on demand
 - Deployed enterprise Subversion SCM with LDAP backend
 - Perforce and Subversion SCM administrator
@@ -131,6 +146,7 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 - Project manager for migration of production databases
 
 *** *CM Team Lead*
+**** Oct 2005 - Feb 2006
 - Supported J2EE eCommerce system
 - Liaison to IBM Global Architecture
 - Developed SDLC best practices
@@ -138,6 +154,7 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 - Migrated source control management system from CVS to Subversion
 
 *** *Release Engineer*
+**** June 2004 - Oct 2005
 - Supported 20 SDLC environments
 - Responsible for building continuous integration environments
 - Second tier support for batch/offline production environments
