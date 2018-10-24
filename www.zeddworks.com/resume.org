@@ -21,8 +21,8 @@
 Clojure, ClojureScript, Shell (Bash & Zsh), JavaScript, Java, Ruby, Common Lisp, Groovy, CoffeeScript, Python, C, C++, C#, Scala, Rust
 *** *Cloud Deployment*
 Kubernetes, Amazon Lambda, Heroku
-*** *Continuous Integration*
-Drone, Jenkins, Travis
+*** *Continuous Integration/Continuous Delivery*
+Drone + Kubernetes, Jenkins, Travis
 *** *Project Management and Agile Methodologies*
 Trello, Jira/GreenHopper, Kanban
 *** *Documentation*
