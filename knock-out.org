@@ -1,0 +1,32 @@
+* https://teamspace.cisco.com
+* Pay credit card bills
+* Deposit checks (2)
+* TODO pickleball meetup Saturday morning / Tuesday evening
+* TODO Kira architecture
+* TODO fax Equifax
+* STARTED Bio
+- [x] Bio for Robert
+- [] Bio for wiki
+* TODO Check wholefoods receipt for return
+* TODO Clear Desk
+* TODO CVO
+* TODO Lunch & Learn - FP Testing / Integration Mocking
+* STARTED Ninja Training
+* TODO Get version of qterminal on old lenovo for C-h problem
+* TODO equities
+- [x] LVS
+- [] INTC
+- [] CSCO
+- [] LPSN
+- [] DOCU
+* TODO Schedule Dentist Appointment
+* TODO Leadership
+- Leadership: Who is a leader you admire (could be public figure or someone you know personally)?
+  - Kevin Boudreaux
+  - Marcus Lemonis
+- Why do you admire her leadership?
+- How would you describe her style?
+- What are her values?
+- How does she demonstrate those values through her leadership?
+- What are your values?
+- How specifically do you or could you demonstrate your values?
