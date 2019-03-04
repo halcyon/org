@@ -2,14 +2,11 @@
 * Pay credit card bills
 * Deposit checks (2)
 * TODO pickleball meetup Saturday morning / Tuesday evening
-* TODO Kira architecture
-* TODO fax Equifax
 * STARTED Bio
 - [x] Bio for Robert
 - [] Bio for wiki
 * TODO Check wholefoods receipt for return
 * TODO Clear Desk
-* TODO CVO
 * TODO Lunch & Learn - FP Testing / Integration Mocking
 * STARTED Ninja Training
 * TODO Get version of qterminal on old lenovo for C-h problem
@@ -31,3 +28,4 @@
 - How does she demonstrate those values through her leadership?
 - What are your values?
 - How specifically do you or could you demonstrate your values?
+* TODO ipv6-prefix - 2001:420:3044:2010
