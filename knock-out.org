@@ -1,6 +1,8 @@
-* https://teamspace.cisco.com
+* STARTED Ninja Training
+* TODO Teamspace
+  - asessment
+  - weekly
 * Pay credit card bills
-* Deposit checks (2)
 * TODO pickleball meetup Saturday morning / Tuesday evening
 * STARTED Bio
 - [x] Bio for Robert
@@ -8,7 +10,6 @@
 * TODO Check wholefoods receipt for return
 * TODO Clear Desk
 * TODO Lunch & Learn - FP Testing / Integration Mocking
-* STARTED Ninja Training
 * TODO Get version of qterminal on old lenovo for C-h problem
 * TODO equities
 - [x] LVS
