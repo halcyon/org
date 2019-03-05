@@ -8,6 +8,7 @@
     reminders for weekly check-ins.  You’re welcome to add as much
     information as you like for the check-in, but I don’t expect you
     to spend more than a couple of minutes.
+* TODO vertica
 * Pay credit card bills
 * TODO pickleball meetup Saturday morning / Tuesday evening
 * STARTED Bio
