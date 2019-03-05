@@ -2,6 +2,12 @@
 * TODO Teamspace
   - asessment
   - weekly
+  - I forgot to mention Team Space in our 1-1.  Cisco upper management
+    has asked all of us to use this tool: https://teamspace.cisco.com/
+    You’ll to do a one-time assessment first and then you’ll get email
+    reminders for weekly check-ins.  You’re welcome to add as much
+    information as you like for the check-in, but I don’t expect you
+    to spend more than a couple of minutes.
 * Pay credit card bills
 * TODO pickleball meetup Saturday morning / Tuesday evening
 * STARTED Bio
