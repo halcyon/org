@@ -37,3 +37,13 @@
 - What are your values?
 - How specifically do you or could you demonstrate your values?
 * TODO ipv6-prefix - 2001:420:3044:2010
+* Ethics
+- Is it legal?
+- Does this comply with Cisco Policy?
+- Does this reflect Cisco values and cultures?
+- Could this adversely affect company stakeholders?
+- Would you be concerned if this appeared in the news?
+- Would this be a problem if every Cisco employee did this?
+- "This reference is being made by me in a personal capacity. It is
+  not intended and should not be construed as a reference from Cisco
+  Systems, Inc. or any of its affiliated entities."
