@@ -69,7 +69,14 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 - [[https://github.com/onyx-platform/onyx][Onyx Platform]]
 
 * Employment History
-** October 2015 - Present RentPath, LLC Atlanta, GA
+** January 2019 - Present Cisco Systems, Inc. Alpharetta, GA
+*** *Senior Software Engineer*
+**** Security Business Group (Stealthwatch)
+- Daily contributor to backend services
+- Refactoring
+- Code Reviews
+
+** October 2015 - November 2018 RentPath, LLC Atlanta, GA
 *** *Senior Clojure Developer*
 - Ported Endeca backend to Elasticsearch
 - Wrote regression suite which fully models backend API using a specification
