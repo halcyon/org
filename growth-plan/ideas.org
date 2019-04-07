@@ -1,8 +1,3 @@
-Jeff Dudacek
-jeff@magnoliatennis.com
-Director at Hamilton Mill Tennis
-A1 Player
-Join the team
 * Write google voice for emacs in elisp
 * Write hourly weather report for emacs in elisp
 
