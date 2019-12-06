@@ -18,7 +18,7 @@
 
 * Professional Summary
 *** *Programming Languages*
-Clojure, ClojureScript, Shell (Bash & Zsh), JavaScript, Java, Ruby, Common Lisp, Groovy, CoffeeScript, Python, C, C++, C#, Scala, Rust
+Clojure, ClojureScript, Shell (Bash & Zsh), Java, JavaScript, Ruby, Common Lisp, Groovy, CoffeeScript, Python, C, C++, C#, Scala, Rust
 *** *Cloud Deployment*
 Kubernetes, Amazon Lambda, Heroku
 *** *Continuous Integration/Continuous Delivery*
@@ -86,7 +86,7 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 - Built ETL jobs in Onyx, a massively concurrent streaming data transformation platform
 - Daily contributor to backend services
 - Opensource contributions
-- Generative testing (unit & regression tests)
+- Generative testing
 - Refactoring
 - Code Reviews
 
