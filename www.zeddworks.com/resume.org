@@ -14,7 +14,7 @@
 ** *Software Architect*
 - tel: 404-697-0103
 - email: scott.mcleod@zeddworks.com
-- website: http://www.zeddworks.com/resume
+- website: https://www.zeddworks.com/resume
 
 * Professional Summary
 *** *Programming Languages*
@@ -60,8 +60,11 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 
 * Open Source
 ** Maintainer
+- [[https://github.com/halcyon/asdf-java][ASDF Java plugin]]
+- [[https://github.com/halcyon/asdf-maven][ASDF Maven plugin]]
 - [[https://github.com/halcyon/asdf-clojure][ASDF Clojure plugin]]
 ** Contributor
+- [[https://github.com/smashedtoatoms/asdf-sbcl][ASDF SBCL plugin]]
 - [[https://github.com/ardumont/org2jekyll][Org2Jekyll]]
 - [[https://github.com/rentpath/rp-util-clj][RentPath Clojure Utility Library]]
 - [[https://github.com/mhjort/clj-lambda-utils][Clojure utilities for AWS Lambda (JVM based) deployment]]
