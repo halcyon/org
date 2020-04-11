@@ -3,7 +3,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
 #+LAYOUT: default
 #+AUTHOR: Scott McLeod
-#+DATE: 2016-02-18 Thu 10:44
+#+DATE: 2020-04-11 Sat 14:20
 #+TITLE: Resume
 #+DESCRIPTION: Resume
 #+TAGS: resume
@@ -22,7 +22,7 @@ Clojure, ClojureScript, Java, Shell, Common Lisp, Rust, CoffeeScript, C, JavaScr
 *** *Cloud Deployment*
 Kubernetes, Amazon Lambda, Heroku
 *** *Continuous Integration/Continuous Delivery*
-Drone + Kubernetes, Jenkins, Travis, Github Actions
+Drone, Jenkins, Travis, Github Actions
 *** *Documentation*
 Org Mode, Markdown, AsciiDoc
 *** *Testing Frameworks and Tools*
@@ -35,22 +35,18 @@ re-frame, Integrant, Spring, Rails
 RabbitMQ
 *** *System Administration*
 Linux, Solaris, OpenBSD, FreeBSD
-*** *Build Tools*
-Maven, Gradle, Make
+*** *Build/Automation Tools*
+Maven, Gradle, Make, Ansible
 *** *SCM Tools*
 Git, Mercurial, Subversion, Perforce, Bitkeeper, CVS
 *** *Network Administration*
 Apache, Nginx, IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB
 *** *Databases*
-PostgreSQL, Datomic, MySQL, Oracle, Elasticsearch, Vertica, Redis, SQL Server, MongoDB, DB2, CouchDB
-*** *LDAP*
-Sun Enterprise Directory Server, Open LDAP, OpenDS
+Postgres, Datomic, MySQL, Oracle, Elasticsearch, Vertica, Redis, OpenLDAP
 *** *Solaris*
-Zones, ZFS, DTrace, SMF, Jumpstart, Grid Engine
+ZFS, DTrace, Zones
 *** *Virtualization*
-Kubernetes, Docker, VirtualBox/Vagrant/Veewee, Octohost, SmartOS(KVM/Zones), VMware(ESX), LXC
-*** *Enterprise Deployment Tools*
-Ansible, Chef, Puppet
+Docker, KVM/QEMU, VMware ESX
 *** *Distributed Streaming Platforms/Data Integration/ETL*
 Onyx, Kafka
 
@@ -70,7 +66,7 @@ Onyx, Kafka
 * Employment History
 ** January 2019 - Present Cisco Systems, Inc. - San Francisco, CA
 *** *Software Engineer*
-**** Security Business Group (Stealthwatch)
+**** Security Business Group - Stealthwatch
 - Added TACACS authorization
 - Performance engineering for backing up product's live database clusters
 - Resolved problems product was having sending syslog to server over TLS
