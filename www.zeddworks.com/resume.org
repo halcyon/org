@@ -30,7 +30,7 @@ Mockito, TestNG, JUnit, Bats, Jasmine, Karma, Mocha, RSpec, Selenium
 *** *Web Technologies*
 Reagent, ReactJS, HTML5, Functional CSS (Tailwind), JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup
 *** *Frameworks*
-re-frame, Integrant, Spring & Spring Boot, Rails
+re-frame, Integrant, Spring, Rails
 *** *Messaging*
 RabbitMQ
 *** *System Administration*
