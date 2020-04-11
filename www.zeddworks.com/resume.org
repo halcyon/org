@@ -18,45 +18,41 @@
 
 * Professional Summary
 *** *Programming Languages*
-Clojure, ClojureScript, Shell (Bash & Zsh), Java, JavaScript, Ruby, Common Lisp, Groovy, CoffeeScript, Python, C, C++, C#, Scala, Rust
+Clojure, ClojureScript, Java, Shell, Common Lisp, Rust, CoffeeScript, C, JavaScript, Ruby
 *** *Cloud Deployment*
 Kubernetes, Amazon Lambda, Heroku
 *** *Continuous Integration/Continuous Delivery*
-Drone + Kubernetes, Jenkins, Travis
-*** *Project Management and Agile Methodologies*
-Trello, Jira/GreenHopper, Kanban
+Drone + Kubernetes, Jenkins, Travis, Github Actions
 *** *Documentation*
 Org Mode, Markdown, AsciiDoc
 *** *Testing Frameworks and Tools*
-Mockito, TestNG, JUnit, Jasmine, Karma, Mocha, RSpec, Selenium, Watir
+Mockito, TestNG, JUnit, Bats, Jasmine, Karma, Mocha, RSpec, Selenium
 *** *Web Technologies*
-Reagent, ReactJS, HTML5, CSS, Functional CSS, JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup
+Reagent, ReactJS, HTML5, Functional CSS (Tailwind), JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup
 *** *Frameworks*
-re-frame, Ruby on Rails, Compojure, Integrant, Spring & Spring Boot, Grails, Hibernate, Ibatis
+re-frame, Integrant, Spring & Spring Boot, Rails
 *** *Messaging*
-RabbitMQ, ActiveMQ, JMS
+RabbitMQ
 *** *System Administration*
-Linux, FreeBSD, Solaris, Mac OS X, OpenBSD, NetBSD, Windows
+Linux, Solaris, OpenBSD, FreeBSD
 *** *Build Tools*
-Leiningen, Boot-clj, Maven, Gradle, Buildr, GNU Make, Boost Build, Ant, MSBuild, Nmake, Autoconf
+Maven, Gradle, Make
 *** *SCM Tools*
 Git, Mercurial, Subversion, Perforce, Bitkeeper, CVS
 *** *Network Administration*
 Apache, Nginx, IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB
-*** *Application Servers*
-Jetty, Tomcat, http-kit, WAS, JES, JBoss
 *** *Databases*
-PostgreSQL, MySQL, Datomic, Elasticsearch, Redis, SQL Server, Oracle, MongoDB, DB2, CouchDB
+PostgreSQL, Datomic, MySQL, Oracle, Elasticsearch, Vertica, Redis, SQL Server, MongoDB, DB2, CouchDB
 *** *LDAP*
 Sun Enterprise Directory Server, Open LDAP, OpenDS
-*** *Solaris Technologies*
+*** *Solaris*
 Zones, ZFS, DTrace, SMF, Jumpstart, Grid Engine
 *** *Virtualization*
-Docker, VirtualBox/Vagrant/Veewee, Octohost, SmartOS(KVM/Zones), VMware(ESX), LXC
+Kubernetes, Docker, VirtualBox/Vagrant/Veewee, Octohost, SmartOS(KVM/Zones), VMware(ESX), LXC
 *** *Enterprise Deployment Tools*
-Kubernetes, Ansible, Chef, Puppet
+Ansible, Chef, Puppet
 *** *Distributed Streaming Platforms/Data Integration/ETL*
-Onyx, Kafka, Pentaho Kettle, Informatica
+Onyx, Kafka
 
 * Open Source
 ** Maintainer
@@ -75,9 +71,16 @@ Onyx, Kafka, Pentaho Kettle, Informatica
 ** January 2019 - Present Cisco Systems, Inc. Alpharetta, GA
 *** *Senior Software Engineer*
 **** Security Business Group (Stealthwatch)
+- Added TACACS authorization
 - Daily contributor to backend services
-- Refactoring
-- Code Reviews
+- Tech debt elimination
+
+** November 2018 - January 2019 CoinRegTech, Atlanta GA
+*** *VP Engineering*
+- Responsible for design and implementation of clojure backend &
+  clojure frontend of crypto currency regulation system
+- Built continuous delivery system complete with continuous
+  integration, staging, and production in a private Kubernetes cluster
 
 ** October 2015 - November 2018 RentPath, LLC Atlanta, GA
 *** *Senior Clojure Developer*
