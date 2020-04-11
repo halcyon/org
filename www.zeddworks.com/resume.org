@@ -68,24 +68,25 @@ Onyx, Kafka
 - [[https://github.com/onyx-platform/onyx][Onyx Platform]]
 
 * Employment History
-** January 2019 - Present Cisco Systems, Inc. Alpharetta, GA
-*** *Senior Software Engineer*
+** January 2019 - Present Cisco Systems, Inc. - San Francisco, CA
+*** *Software Engineer*
 **** Security Business Group (Stealthwatch)
 - Added TACACS authorization
-- Daily contributor to backend services
-- Tech debt elimination
+- Performance engineering for backing up product's live database clusters
+- Resolved problems product was having sending syslog to server over TLS
+- Design debt and tech debt elimination through simplification
 
-** November 2018 - January 2019 CoinRegTech, Atlanta GA
+** November 2018 - January 2019 CoinRegTech - Atlanta, GA
 *** *VP Engineering*
-- Responsible for design and implementation of clojure backend &
-  clojure frontend of crypto currency regulation system
-- Built continuous delivery system complete with continuous
-  integration, staging, and production in a private Kubernetes cluster
+- Built a crypto currency regulation system. Front end and back end
+  were written in Clojure and leveraged Datomic.
+- Responsible for continuous delivery. This included fully automated
+  testing, staging, and deployment to production in Kubernetes
 
-** October 2015 - November 2018 RentPath, LLC Atlanta, GA
+** October 2015 - November 2018 RentPath - LLC Atlanta, GA
 *** *Senior Clojure Developer*
 - Ported Endeca backend to Elasticsearch
-- Wrote regression suite which fully models backend API using a specification
+- Wrote regression suite which fully modeled and tested the backend API using Clojure Spec
 - Built ETL jobs in Onyx, a massively concurrent streaming data transformation platform
 - Daily contributor to backend services
 - Opensource contributions
@@ -93,7 +94,7 @@ Onyx, Kafka
 - Refactoring
 - Code Reviews
 
-** August 2014 - October 2015 Connolly iHealth Technologies, Sandy Springs, GA
+** August 2014 - October 2015 Connolly iHealth Technologies - Sandy Springs, GA
 *** *Senior Technical Architect*
 - Secured REST endpoints of microservice with openid-connect
 - Built unit tests for microservice endpoints with MockMvc
@@ -102,17 +103,17 @@ Onyx, Kafka
 - Automated build and deployment with Ansible
 - Developed front-end written in AngularJS
 
-** July 2013 - August 2014 Izenda, LLC Atlanta, GA
+** July 2013 - August 2014 Izenda, LLC - Atlanta, GA
 *** *VP Engineering*
 - Managed .NET Engineering business unit consisting of Development, QA, and Support departments
 - Designed and implemented an SDLC with a full release process
 - Launched wiki to serve as a knowledge archive
-- Automated build and deployment process
 - Migrated development from Subversion to Git
+- Automated build and deployment process
 - Mentored and built team of Clojurists
 - Built Clojure RESTful service on Heroku to provide license management and integrated it with website and SalesForce
 
-** December 2007 - July 2013 InterContinentalExchange, Inc. Sandy Springs, GA
+** December 2007 - July 2013 InterContinentalExchange, Inc. - Sandy Springs, GA
 *** *Senior Web Developer*
 **** 2011 - 2013
 - Responsible for developing new features for the website, in-house content management system, reporting systems, and associated customer-facing web products
@@ -141,7 +142,7 @@ Onyx, Kafka
 - Architect of production deployment system used to deploy to hundreds of systems within a one-hour maintenance window - included jruby test suite and deployment verification
 - System administrator of production Solaris, AIX, and Linux systems
 
-** June 2004 - December 2007 Equifax, Inc. Alpharetta, GA
+** June 2004 - December 2007 Equifax, Inc. - Alpharetta, GA
 *** *Application Developer IV*
 **** Mar 2007 - Dec 2007
 - Wrote C++ bindings for parsing configuration files with libyaml
@@ -172,7 +173,7 @@ Onyx, Kafka
 - Responsible for building continuous integration environments
 - Second tier support for batch/offline production environments
 
-** April 1999 - November 2001 Exchange-America Alpharetta, GA
+** April 1999 - November 2001 Exchange-America - Alpharetta, GA
 *** *Software Developer*
 - Developed a regular expression library for Java
 - Developed CORBA clients and servers in Java and C++
@@ -181,14 +182,14 @@ Onyx, Kafka
 - Built plugin architecture for querying version metadata of in-house C++ libraries
 - Administered open source development tools
 
-** October 1997 - May 1999 GA State Board of Pardons and Paroles Atlanta, GA
+** October 1997 - May 1999 GA State Board of Pardons and Paroles - Atlanta, GA
 *** *Network Engineer*
 - Developed Lotus Notes database applications
 - Administered Central Office Network serving 300 internal nodes and 57 Parole offices
 - Built network imaging system for deployment of Windows 95
 
 * Education
-** Georgia Institute of Technology Atlanta, GA
+** Georgia Institute of Technology - Atlanta, GA
 - Bachelor of Computer Science (2007)
 - Certificate in Industrial Organizational Psychology (2007)
 
