@@ -59,8 +59,8 @@
     - Managed Development, QA, and Customer Support
     - SDLC
     - Wiki to archive engineering knowledge
-    - Lead team of clojurists to successful launch of license
-      management service
+    - Lead Clojure team to successful launch of license management
+      service
 
 ** December 2007 - July 2013 InterContinentalExchange, Inc. - Sandy Springs, GA
 *** *Senior Web Developer*
