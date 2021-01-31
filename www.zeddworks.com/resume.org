@@ -16,7 +16,7 @@
   - https://www.zeddworks.com/resume
 
 * Employment History
-** January 2019 - Present Cisco Systems, Inc. - San Francisco, CA
+** Cisco Systems, Inc. - San Francisco, CA
 *** *Data Engineer*
 **** June 2020 - Present
      - Clojure mentorship
@@ -34,35 +34,39 @@
      - Automated TLS certificate generation
      - Design and technical debt reduction
 
-** November 2018 - January 2019 CoinRegTech - Atlanta, GA
+** CoinRegTech - Atlanta, GA
 *** *VP Engineering*
-    - Crypto currency regulation system in full stack Clojure with Datomic
-    - Continuous delivery utilizing a private Kubernetes cluster with
-      fully automated testing, staging, and deployment to production
+**** November 2018 - January 2019
+     - Crypto currency regulation system in full stack Clojure with Datomic
+     - Continuous delivery utilizing a private Kubernetes cluster with
+       fully automated testing, staging, and deployment to production
 
-** October 2015 - November 2018 RentPath - LLC Atlanta, GA
+** RentPath - LLC Atlanta, GA
 *** *Senior Clojure Developer*
-    - Ported data backend from Endeca to Elasticsearch
-    - Regression test suite utilizing clojure spec and generative
-      testing to perform specification based testing
-    - ETL jobs using Onyx, a massively concurrent streaming data
-      transformation platform
+**** October 2015 - November 2018
+     - Ported data backend from Endeca to Elasticsearch
+     - Regression test suite utilizing clojure spec and generative
+       testing to perform specification based testing
+     - ETL jobs using Onyx, a massively concurrent streaming data
+       transformation platform
 
-** August 2014 - October 2015 Connolly iHealth Technologies - Sandy Springs, GA
+** Connolly iHealth Technologies - Sandy Springs, GA
 *** *Senior Technical Architect*
-    - Code quality mentorship of offshore teams
-    - Spring Boot microservice reference implementation
-    - Secured microservice rest endpoints
+**** August 2014 - October 2015
+     - Code quality mentorship of offshore teams
+     - Spring Boot microservice reference implementation
+     - Secured microservice rest endpoints
 
-** July 2013 - August 2014 Izenda, LLC - Atlanta, GA
+** Izenda, LLC - Atlanta, GA
 *** *VP Engineering*
-    - Managed Development, QA, and Customer Support
-    - SDLC
-    - Wiki to archive engineering knowledge
-    - Lead Clojure team to successful launch of license management
-      service
+**** July 2013 - August 2014
+     - Managed Development, QA, and Customer Support
+     - SDLC
+     - Wiki to archive engineering knowledge
+     - Lead Clojure team to successful launch of license management
+       service
 
-** December 2007 - July 2013 InterContinentalExchange, Inc. - Sandy Springs, GA
+** InterContinentalExchange, Inc. - Sandy Springs, GA
 *** *Senior Web Developer*
 **** 2011 - 2013
      - Devloped new features for website
@@ -84,7 +88,7 @@
        in paralell within a one-hour maintenance window
      - System administration for production Solaris, AIX, and Linux
 
-** June 2004 - December 2007 Equifax, Inc. - Alpharetta, GA
+** Equifax, Inc. - Alpharetta, GA
 *** *Application Developer IV*
 **** Mar 2007 - Dec 2007
      - Wrote server-side invocation and monitoring agent for job
@@ -115,17 +119,14 @@
     - [[https://github.com/onyx-platform/onyx][Onyx Platform]]
 
 * Education
-** Georgia Institute of Technology - Atlanta, GA
-   - Bachelor of Computer Science (2007)
-   - Certificate in Industrial Organizational Psychology (2007)
+*** *Georgia Institute of Technology - Atlanta, GA*
+    - Bachelor of Computer Science (2007)
+    - Certificate in Industrial Organizational Psychology (2007)
 
-** Continuing Education
-   - Computational Investing, Part I - Georgia Institute of Technology
-     (2012)
-   - Developing Innovative Ideas for New Companies - University of
-     Maryland, College Park (2013)
-   - Functional Programming Principles in Scala - École Polytechnique
-     Fédérale de Lausanne (2013)
-
-* Professional References
-  - Available upon request
+*** *Continuing Education*
+    - Computational Investing, Part I - Georgia Institute of
+      Technology (2012)
+    - Developing Innovative Ideas for New Companies - University of
+      Maryland, College Park (2013)
+    - Functional Programming Principles in Scala - École Polytechnique
+      Fédérale de Lausanne (2013)
