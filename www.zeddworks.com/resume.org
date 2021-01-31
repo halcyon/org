@@ -97,7 +97,7 @@ Onyx, Kafka
 
 ** August 2014 - October 2015 Connolly iHealth Technologies - Sandy Springs, GA
 *** *Senior Technical Architect*
-    - Mentored offshore teams on code quality
+    - Code quality mentorship of offshore teams
     - Spring Boot microservice reference implementation
     - Secured microservice rest endpoints
 
@@ -106,8 +106,8 @@ Onyx, Kafka
     - Managed Development, QA, and Customer Support
     - SDLC
     - Wiki to archive engineering knowledge
-    - Mentored and lead team of clojurists to a successful launch of
-      license management service
+    - Lead team of clojurists to successful launch of license
+      management service
 
 ** December 2007 - July 2013 InterContinentalExchange, Inc. - Sandy Springs, GA
 *** *Senior Web Developer*
