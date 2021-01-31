@@ -101,17 +101,18 @@
      - Developed SDLC best practices
 
 * Open Source
-** Maintainer
-   - [[https://github.com/halcyon/asdf-java][ASDF Java plugin]]
-   - [[https://github.com/halcyon/asdf-maven][ASDF Maven plugin]]
-   - [[https://github.com/halcyon/asdf-clojure][ASDF Clojure plugin]]
-** Contributor
-   - [[https://github.com/smashedtoatoms/asdf-sbcl][ASDF SBCL plugin]]
-   - [[https://github.com/ardumont/org2jekyll][Org2Jekyll]]
-   - [[https://github.com/rentpath/rp-util-clj][RentPath Clojure Utility Library]]
-   - [[https://github.com/mhjort/clj-lambda-utils][Clojure utilities for AWS Lambda (JVM based) deployment]]
-   - [[https://github.com/yuya373/emacs-slack][Emacs Slack]]
-   - [[https://github.com/onyx-platform/onyx][Onyx Platform]]
+*** *Maintainer*
+    - [[https://github.com/halcyon/asdf-java][ASDF Java plugin]]
+    - [[https://github.com/halcyon/asdf-maven][ASDF Maven plugin]]
+    - [[https://github.com/halcyon/asdf-clojure][ASDF Clojure plugin]]
+
+*** *Contributor*
+    - [[https://github.com/smashedtoatoms/asdf-sbcl][ASDF SBCL plugin]]
+    - [[https://github.com/ardumont/org2jekyll][Org2Jekyll]]
+    - [[https://github.com/rentpath/rp-util-clj][RentPath Clojure Utility Library]]
+    - [[https://github.com/mhjort/clj-lambda-utils][Clojure utilities for AWS Lambda (JVM based) deployment]]
+    - [[https://github.com/yuya373/emacs-slack][Emacs Slack]]
+    - [[https://github.com/onyx-platform/onyx][Onyx Platform]]
 
 * Education
 ** Georgia Institute of Technology - Atlanta, GA
