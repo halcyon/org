@@ -1,0 +1,22 @@
+* securex-cli
+  - Incremental improvements
+  - Side project
+  - Tools
+  - Scratching an itch
+  - Exposure
+* Support for different environments
+  - pass cisco/ctr/test/api/scotmcle+qa_sdc_iroh@cisco.com | securex-cli auth login --ctia-url https://intel.test.iroh.site --iroh-url https://visibility.test.iroh.site
+  - securex-cli client list
+  - securex-cli client list --all
+* CTIA <GET>/sighting/search
+  - securex-cli ctia sighting search --type ipv6 | less
+  - securex-cli ctia sighting search --source "CINS Army List" | less
+  - securex-cli ctia sighting search --type ms_machine_id
+* CTIA <POST>/sighting
+  - securex-cli ctia sighting new --type ms_machine_id --value 19de2b42b3ab0df8c15d117b7760ffa40da59d31
+* ENRICH <POST>/iroh/iroh-enrich/observe/observables
+  - securex-cli enrich observe observables --type ms_machine_id --value 19de2b42b3ab0df8c15d117b7760ffa40da59d31
+* CTIA <DELETE>/sighting
+  - securex-cli ctia sighting delete <sighting-id>
+* CTIA <GET>/sighting/search
+  - securex-cli ctia sighting search --type ms_machine_id

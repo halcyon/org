@@ -67,7 +67,8 @@ Onyx, Kafka
 *** *Data Engineer*
 **** June 2020 - Present
      - Clojure mentorship
-     - High speed validation of threat context data
+     - High speed threat context data validation
+     - CLI utility for interacting with product APIs
      - Lookup service for identifying addresses within malicious IPv4
        and IPv6 CIDR blocks
      - Lookup service for identifying vulnerabilities by affected
@@ -77,7 +78,7 @@ Onyx, Kafka
 **** January 2019 - June 2020
      - TACACS authorization
      - Database cluster performance engineering
-     - Automate TLS certificate generation
+     - Automated TLS certificate generation
      - Design and technical debt reduction through simplification
 
 ** November 2018 - January 2019 CoinRegTech - Atlanta, GA

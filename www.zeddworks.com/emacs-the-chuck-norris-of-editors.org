@@ -9,9 +9,11 @@
 #+DESCRIPTION: The Chuck Norris of Editors
 #+TAGS: emacs
 #+CATEGORIES: emacs
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
 #+REVEAL_THEME: night
 #+REVEAL_TRANS: linear
-
+#+REVEAL_PLUGINS: (notes)
+#+REVEAL_REVEAL_JS_VERSION: 4
 
 * A LISP environment
 #+BEGIN_NOTES
