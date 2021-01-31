@@ -11,10 +11,9 @@
 #+PERMALINK: /resume
 
 * Scott McLeod
-** *Software Architect*
-- tel: 404-697-0103
-- email: scott.mcleod@zeddworks.com
-- website: https://www.zeddworks.com/resume
+  - tel: 404-697-0103
+  - email: scott.mcleod@zeddworks.com
+  - website: https://www.zeddworks.com/resume
 
 * Professional Summary
 *** *Programming Languages*
@@ -28,13 +27,13 @@ Org Mode, Markdown, AsciiDoc
 *** *Testing Frameworks and Tools*
 Mockito, TestNG, JUnit, Bats, Jasmine, Karma, Mocha, RSpec, Selenium
 *** *Web Technologies*
-Reagent, ReactJS, HTML5, Functional CSS (Tailwind), JavaScript, Angular, BackboneJS, jQuery, RequireJS, LessCSS, Sass, NodeJS, HandlebarsJS, Hiccup
+Reagent, React, HTML5, Functional CSS (Tailwind), Angular, Backbone, jQuery, LessCSS, Sass, NodeJS
 *** *Frameworks*
 re-frame, Integrant, Spring, Rails
 *** *Messaging*
 RabbitMQ
 *** *System Administration*
-Linux, Solaris, OpenBSD, FreeBSD
+Linux, OpenBSD, FreeBSD, Solaris
 *** *Build/Automation Tools*
 Maven, Gradle, Make, Ansible
 *** *SCM Tools*
@@ -65,134 +64,100 @@ Onyx, Kafka
 
 * Employment History
 ** January 2019 - Present Cisco Systems, Inc. - San Francisco, CA
+*** *Data Engineer*
+**** June 2020 - Present
+     - Clojure mentorship
+     - High speed validation of threat context data
+     - Lookup service for identifying addresses within malicious IPv4
+       and IPv6 CIDR blocks
+     - Lookup service for identifying vulnerabilities by affected
+       Common Platform Enumerations
+
 *** *Software Engineer*
-**** Security Business Group - Stealthwatch
-- Added TACACS authorization
-- Performance engineering for backing up product's live database clusters
-- Resolved problems product was having sending syslog to server over TLS
-- Design debt and tech debt elimination through simplification
+**** January 2019 - June 2020
+     - TACACS authorization
+     - Database cluster performance engineering
+     - Automate TLS certificate generation
+     - Design and technical debt reduction through simplification
 
 ** November 2018 - January 2019 CoinRegTech - Atlanta, GA
 *** *VP Engineering*
-- Built a crypto currency regulation system. Front end and back end
-  were written in Clojure and leveraged Datomic.
-- Responsible for continuous delivery. This included fully automated
-  testing, staging, and deployment to production in Kubernetes
+    - Crypto currency regulation system in full stack Clojure with Datomic
+    - Continuous delivery utilizing a private Kubernetes cluster with
+      fully automated testing, staging, and deployment to production
 
 ** October 2015 - November 2018 RentPath - LLC Atlanta, GA
 *** *Senior Clojure Developer*
-- Ported Endeca backend to Elasticsearch
-- Wrote regression suite which fully modeled and tested the backend API using Clojure Spec
-- Built ETL jobs in Onyx, a massively concurrent streaming data transformation platform
-- Daily contributor to backend services
-- Opensource contributions
-- Generative testing
-- Refactoring
-- Code Reviews
+    - Ported data backend from Endeca to Elasticsearch
+    - Regression test suite utilizing clojure spec and generative
+      testing to perform specification based testing
+    - ETL jobs using Onyx, a massively concurrent streaming data
+      transformation platform
 
 ** August 2014 - October 2015 Connolly iHealth Technologies - Sandy Springs, GA
 *** *Senior Technical Architect*
-- Secured REST endpoints of microservice with openid-connect
-- Built unit tests for microservice endpoints with MockMvc
-- Built Spring Boot microservice reference implementation
-- Refactored legacy code and built regression tests using Mockito
-- Automated build and deployment with Ansible
-- Developed front-end written in AngularJS
+    - Mentored offshore teams on code quality
+    - Spring Boot microservice reference implementation
+    - Secured microservice rest endpoints
 
 ** July 2013 - August 2014 Izenda, LLC - Atlanta, GA
 *** *VP Engineering*
-- Managed .NET Engineering business unit consisting of Development, QA, and Support departments
-- Designed and implemented an SDLC with a full release process
-- Launched wiki to serve as a knowledge archive
-- Migrated development from Subversion to Git
-- Automated build and deployment process
-- Mentored and built team of Clojurists
-- Built Clojure RESTful service on Heroku to provide license management and integrated it with website and SalesForce
+    - Managed Development, QA, and Customer Support
+    - SDLC
+    - Wiki to archive engineering knowledge
+    - Mentored and lead team of clojurists to a successful launch of
+      license management service
 
 ** December 2007 - July 2013 InterContinentalExchange, Inc. - Sandy Springs, GA
 *** *Senior Web Developer*
 **** 2011 - 2013
-- Responsible for developing new features for the website, in-house content management system, reporting systems, and associated customer-facing web products
-- Ported web application for maintaining products on the website from Grails to a BackboneJS & Grails architecture to provide for better "separation of concerns"
-- Wrote NodeJS program for providing ad hoc querying and data transformations for product managers
-- Wrote recursive non-blocking spidering/scraping utility to aggregate university data for a social media initiative utilizing NodeJS
+     - Devloped new features for website
+     - Utility to provide querying and data transformations for
+       product managers
+     - Utility to scrape and aggregate university data for a social
+       media initiative
 
 *** *SDLC Team Lead*
 **** 2009 - 2011
-- Championed and implemented Chef deployment strategies to automate provisioning of SDLC stack (Gitorious, Jenkins, Nexus, Jira) and wrote a Chef provider to automate signing of SSL certificates by ICE's Certificate Authority
-- Lead development of Nexus Artifact Cleaner to expunge old artifacts
-- Environment Dashboard project architect - System which provides real-time monitoring of ICE systems
-- Championed and introduced Buildr to the SDLC tools stack to supersede Maven
-- Championed and introduced Git to the SDLC tools stack to supersede Mercurial
-- Lead design and implementation of automated integration testing system for long running tests
-- Wrote single-button deployment system in Ruby to deploy to hundreds of target systems in parallel
-- Wrote Java Maven plugin to generate and email release notes upon Maven release builds
-- Implemented SDLC Release Process
+     - Responsible for onboarding new acquisitions to SDLC
+     - System monitoring dashboard
 
 *** *R&D Systems Engineer*
 **** 2007 - 2009
-- Developed and formalized SDLC release process
-- Architect of SDLC (Continuous Integration, Distributed Source Control, Shared Build Artifacts Repository, Build Process, and Defect Tracking)
-- Migrated IBM Directory Server schema to Sun Enterprise Directory Server schema for NYBOT eCOPS (Electronic Commodity Operations Processing System)
-- Designed and implemented multi-master SSL LDAP clusters (Sun Enterprise Directory Server) for Clearing and Trading business silos
-- Architect of production deployment system used to deploy to hundreds of systems within a one-hour maintenance window - included jruby test suite and deployment verification
-- System administrator of production Solaris, AIX, and Linux systems
+     - SDLC
+     - Data architecture for LDAP clusters
+     - Production deployment system used to deploy to hundreds of systems
+       in paralell within a one-hour maintenance window
+     - System administration for production Solaris, AIX, and Linux
 
 ** June 2004 - December 2007 Equifax, Inc. - Alpharetta, GA
 *** *Application Developer IV*
 **** Mar 2007 - Dec 2007
-- Wrote C++ bindings for parsing configuration files with libyaml
-- Developed server-side invocation and monitoring agent for grid job control system
+     - Wrote server-side invocation and monitoring agent for job
+       control system
 
 *** *Development Infrastructure Architect*
 **** Feb 2006 - Mar 2007
-- Architect of automated system to generate continuous integration environments on demand
-- Deployed enterprise Subversion SCM with LDAP backend
-- Perforce and Subversion SCM administrator
-- Migrated Nmake build environment to Boost Build
-- Trained team to use Subversion
-- Designed SDLC processes adopted by business process reengineering team
-- Consulted with security team on design of enterprise LDAP authentication system
-- Project manager for migration of production databases
+     - Automated deployment of continuous integration environments
+     - Perforce and Subversion administration
+     - Migrated C++ Nmake builds to Boost Build
 
 *** *CM Team Lead*
 **** Oct 2005 - Feb 2006
-- Supported J2EE eCommerce system
-- Liaison to IBM Global Architecture
-- Developed SDLC best practices
-- Implemented NIS centralized authentication system
-- Migrated source control management system from CVS to Subversion
-
-*** *Release Engineer*
-**** June 2004 - Oct 2005
-- Supported 20 SDLC environments
-- Responsible for building continuous integration environments
-- Second tier support for batch/offline production environments
-
-** April 1999 - November 2001 Exchange-America - Alpharetta, GA
-*** *Software Developer*
-- Developed a regular expression library for Java
-- Developed CORBA clients and servers in Java and C++
-- Developed utility enabling Internet Explorer 5.5sp2 to utilize Netscape plugins
-- Developed Netscape plugin to launch product in Solaris and Windows
-- Built plugin architecture for querying version metadata of in-house C++ libraries
-- Administered open source development tools
-
-** October 1997 - May 1999 GA State Board of Pardons and Paroles - Atlanta, GA
-*** *Network Engineer*
-- Developed Lotus Notes database applications
-- Administered Central Office Network serving 300 internal nodes and 57 Parole offices
-- Built network imaging system for deployment of Windows 95
+     - Developed SDLC best practices
 
 * Education
 ** Georgia Institute of Technology - Atlanta, GA
-- Bachelor of Computer Science (2007)
-- Certificate in Industrial Organizational Psychology (2007)
+   - Bachelor of Computer Science (2007)
+   - Certificate in Industrial Organizational Psychology (2007)
 
 ** Continuing Education
-- Computational Investing, Part I - Georgia Institute of Technology (2012)
-- Developing Innovative Ideas for New Companies - University of Maryland, College Park (2013)
-- Functional Programming Principles in Scala - École Polytechnique Fédérale de Lausanne (2013)
+   - Computational Investing, Part I - Georgia Institute of Technology
+     (2012)
+   - Developing Innovative Ideas for New Companies - University of
+     Maryland, College Park (2013)
+   - Functional Programming Principles in Scala - École Polytechnique
+     Fédérale de Lausanne (2013)
 
 * Professional References
-- Available upon request
+  - Available upon request
