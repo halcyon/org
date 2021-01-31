@@ -15,53 +15,6 @@
   - email: scott.mcleod@zeddworks.com
   - website: https://www.zeddworks.com/resume
 
-* Professional Summary
-*** *Programming Languages*
-Clojure, ClojureScript, Java, Shell, Common Lisp, Rust, CoffeeScript, C, JavaScript, Ruby
-*** *Cloud Deployment*
-Kubernetes, Amazon Lambda, Heroku
-*** *Continuous Integration/Continuous Delivery*
-Drone, Jenkins, Travis, Github Actions
-*** *Documentation*
-Org Mode, Markdown, AsciiDoc
-*** *Testing Frameworks and Tools*
-Mockito, TestNG, JUnit, Bats, Jasmine, Karma, Mocha, RSpec, Selenium
-*** *Web Technologies*
-Reagent, React, HTML5, Functional CSS (Tailwind), Angular, Backbone, jQuery, LessCSS, Sass, NodeJS
-*** *Frameworks*
-re-frame, Integrant, Spring, Rails
-*** *Messaging*
-RabbitMQ
-*** *System Administration*
-Linux, OpenBSD, FreeBSD, Solaris
-*** *Build/Automation Tools*
-Maven, Gradle, Make, Ansible
-*** *SCM Tools*
-Git, Mercurial, Subversion, Perforce, Bitkeeper, CVS
-*** *Network Administration*
-Apache, Nginx, IPTables, IPFilter, DNS, DHCP, PXE, NIS, NFS, SMB
-*** *Databases*
-Postgres, Datomic, MySQL, Oracle, Elasticsearch, Vertica, Redis, OpenLDAP
-*** *Solaris*
-ZFS, DTrace, Zones
-*** *Virtualization*
-Docker, KVM/QEMU, VMware ESX
-*** *Distributed Streaming Platforms/Data Integration/ETL*
-Onyx, Kafka
-
-* Open Source
-** Maintainer
-- [[https://github.com/halcyon/asdf-java][ASDF Java plugin]]
-- [[https://github.com/halcyon/asdf-maven][ASDF Maven plugin]]
-- [[https://github.com/halcyon/asdf-clojure][ASDF Clojure plugin]]
-** Contributor
-- [[https://github.com/smashedtoatoms/asdf-sbcl][ASDF SBCL plugin]]
-- [[https://github.com/ardumont/org2jekyll][Org2Jekyll]]
-- [[https://github.com/rentpath/rp-util-clj][RentPath Clojure Utility Library]]
-- [[https://github.com/mhjort/clj-lambda-utils][Clojure utilities for AWS Lambda (JVM based) deployment]]
-- [[https://github.com/yuya373/emacs-slack][Emacs Slack]]
-- [[https://github.com/onyx-platform/onyx][Onyx Platform]]
-
 * Employment History
 ** January 2019 - Present Cisco Systems, Inc. - San Francisco, CA
 *** *Data Engineer*
@@ -146,6 +99,19 @@ Onyx, Kafka
 *** *CM Team Lead*
 **** Oct 2005 - Feb 2006
      - Developed SDLC best practices
+
+* Open Source
+** Maintainer
+   - [[https://github.com/halcyon/asdf-java][ASDF Java plugin]]
+   - [[https://github.com/halcyon/asdf-maven][ASDF Maven plugin]]
+   - [[https://github.com/halcyon/asdf-clojure][ASDF Clojure plugin]]
+** Contributor
+   - [[https://github.com/smashedtoatoms/asdf-sbcl][ASDF SBCL plugin]]
+   - [[https://github.com/ardumont/org2jekyll][Org2Jekyll]]
+   - [[https://github.com/rentpath/rp-util-clj][RentPath Clojure Utility Library]]
+   - [[https://github.com/mhjort/clj-lambda-utils][Clojure utilities for AWS Lambda (JVM based) deployment]]
+   - [[https://github.com/yuya373/emacs-slack][Emacs Slack]]
+   - [[https://github.com/onyx-platform/onyx][Onyx Platform]]
 
 * Education
 ** Georgia Institute of Technology - Atlanta, GA
