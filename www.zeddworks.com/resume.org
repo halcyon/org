@@ -51,7 +51,7 @@
        fully automated testing, staging, and deployment to production
 
 ** RentPath - LLC Atlanta, GA
-*** *Senior Clojure Developer/Architect -- Product Development *
+*** *Senior Clojure Developer/Architect -- Product Development*
 **** October 2015 - November 2018
      - Ported data backend from Endeca to Elasticsearch
      - Regression test suite utilizing Clojure spec and generative
