@@ -137,7 +137,7 @@
     - Bachelor of Computer Science (2007)
     - Certificate in Industrial Organizational Psychology (2007)
 
-p*** *Continuing Education*
+*** *Continuing Education*
     - Computational Investing, Part I - Georgia Institute of
       Technology (2012)
     - Developing Innovative Ideas for New Companies - University of
