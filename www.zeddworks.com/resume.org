@@ -30,7 +30,7 @@
        Vulnerabilities and Exposures by querying Common Platform
        Enumerations in Elasticsearch
 
-*** *Software Engineer -- Architecture / Feature Delivery / Release Train & Management DevOps and SRE / Release Train & Management*
+*** *Software Engineer -- Architecture / Feature Delivery / DevOps / SRE / Release Train & Management*
 **** January 2019 - June 2020
      - Global authorization service using TACACS authorization
        developed with international partners
@@ -137,7 +137,7 @@
     - Bachelor of Computer Science (2007)
     - Certificate in Industrial Organizational Psychology (2007)
 
-*** *Continuing Education*
+p*** *Continuing Education*
     - Computational Investing, Part I - Georgia Institute of
       Technology (2012)
     - Developing Innovative Ideas for New Companies - University of
