@@ -30,7 +30,7 @@
        Vulnerability and Exposures based upon Common Platform
        Enumerations
 
-*** *Software Engineer -- Architecture / Feature Delivery / Release Train & Management**
+*** *Software Engineer -- Architecture / Feature Delivery / Release Train & Management*
 **** January 2019 - June 2020
      - Global authorization service using TACACS authorization
        developed with international partners
