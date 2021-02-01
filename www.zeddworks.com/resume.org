@@ -12,8 +12,8 @@
 
 * Scott McLeod (US Citizen)
   - 404-697-0103
-   - scott.mcleod@zeddworks.com
-   - https://www.zeddworks.com/resume
+  - scott.mcleod@zeddworks.com
+  - https://www.zeddworks.com/resume
 
 * Employment History
 ** Cisco Systems, Inc. - San Francisco, CA
@@ -41,7 +41,7 @@
 ** CoinRegTech - Atlanta, GA
 *** *VP Engineering -- Architecture / Worked directly with CTO / Systems Engineering / Data Architecture / MVP Development / First generation launch*
 **** November 2018 - January 2019
-     - Crypto currency regulation system in full stack Clojure with
+     - Cryptocurrency regulation system in full stack Clojure with
        Datomic
      - Business definition and algorithm development for automated
        regulation and compliance
@@ -54,7 +54,7 @@
 *** *Senior Clojure Developer/Architect -- Product Development *
 **** October 2015 - November 2018
      - Ported data backend from Endeca to Elasticsearch
-     - Regression test suite utilizing clojure spec and generative
+     - Regression test suite utilizing Clojure spec and generative
        testing to perform specification based testing
      - ETL jobs using Onyx, a massively concurrent streaming data
        transformation platform
@@ -70,7 +70,7 @@
 ** Izenda, LLC - Atlanta, GA
 *** *VP Engineering*
 **** July 2013 - August 2014
-     - Managed department of 25, converted team skillset from .NET to
+     - Managed department of 25, converted team skill-set from .NET to
        Clojure/Functional Programming yielding significant
        productivity and quality improvements
      - Brought infrastructure as code, revamping SDLC and release
@@ -91,7 +91,7 @@
 
 *** *SDLC Team Lead*
 **** 2009 - 2011
-     - Responsible for onboarding new acquisitions to SDLC
+     - Responsible for on-boarding new acquisitions to SDLC
      - System monitoring dashboard
 
 *** *R&D Systems Engineer*
@@ -99,7 +99,7 @@
      - Revamped SDLC and release pipeline
      - Data architecture for LDAP clusters
      - Production deployment system used to deploy to hundreds of systems
-       in paralell within a one-hour maintenance window
+       in parallel within a one-hour maintenance window
      - System administration for production Solaris, AIX, and Linux
 
 ** Equifax, Inc. - Alpharetta, GA
