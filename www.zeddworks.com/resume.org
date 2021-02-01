@@ -17,20 +17,20 @@
 
 * Employment History
 ** Cisco Systems, Inc. - San Francisco, CA
-*** *Data Engineer -- Hands on technical leadership / architecture / story creation / feature delivery / people and team management / quality engineering / DevOps and SRE / Release Train & Management*
+*** *Data Engineer -- Hands-on Technical Leadership / Architecture / Story Creation / Feature delivery / People and Team Management / Quality Engineering*
 **** June 2020 - Present
      - Clojure and Clojure ecosystem functional programming thought
        leader and peer mentor
-     - High speed threat context data validation
+     - Real-time threat context data validation
      - Tooling, libraries, and knowledge transfer for discovering and
        interacting with product APIs
-     - Global service framework for identifying addresses within
+     - Global service framework for real-time identification of addresses within
        malicious IPv4 and IPv6 CIDR blocks
      - Automated threat detection service that identifies Common
-       Vulnerability and Exposures based upon Common Platform
-       Enumerations
+       Vulnerabilities and Exposures by querying Common Platform
+       Enumerations in Elasticsearch
 
-*** *Software Engineer -- Architecture / Feature Delivery / Release Train & Management*
+*** *Software Engineer -- Architecture / Feature Delivery / Release Train & Management DevOps and SRE / Release Train & Management*
 **** January 2019 - June 2020
      - Global authorization service using TACACS authorization
        developed with international partners
@@ -39,7 +39,7 @@
      - Design and technical debt reduction
 
 ** CoinRegTech - Atlanta, GA
-*** *VP Engineering -- Architecture / Worked directly with CTO / Systems Engineering / Data Architecture / MVP Development / First generation launch*
+*** *VP Engineering -- Architecture / Worked Directly With CTO / Systems Engineering / Data Architecture / MVP Development / First Generation Launch*
 **** November 2018 - January 2019
      - Cryptocurrency regulation system in full stack Clojure with
        Datomic
