@@ -10,39 +10,48 @@
 #+CATEGORIES: resume
 #+PERMALINK: /resume
 
-* Scott McLeod
+* Scott McLeod (US Citizen)
   - 404-697-0103
-  - scott.mcleod@zeddworks.com
-  - https://www.zeddworks.com/resume
+   - scott.mcleod@zeddworks.com
+   - https://www.zeddworks.com/resume
 
 * Employment History
 ** Cisco Systems, Inc. - San Francisco, CA
-*** *Data Engineer*
+*** *Data Engineer -- Hands on technical leadership / architecture / story creation / feature delivery / people and team management / quality engineering / DevOps and SRE / Release Train & Management*
 **** June 2020 - Present
-     - Clojure mentorship
+     - Clojure and Clojure ecosystem functional programming thought
+       leader and peer mentor
      - High speed threat context data validation
-     - CLI utility for interacting with product APIs
-     - Lookup service for identifying addresses within malicious IPv4
-       and IPv6 CIDR blocks
-     - Lookup service for identifying vulnerabilities by affected
-       Common Platform Enumerations
+     - Tooling, libraries, and knowledge transfer for discovering and
+       interacting with product APIs
+     - Global service framework for identifying addresses within
+       malicious IPv4 and IPv6 CIDR blocks
+     - Automated threat detection service that identifies Common
+       Vulnerability and Exposures based upon Common Platform
+       Enumerations
 
-*** *Software Engineer*
+*** *Software Engineer -- Architecture / Feature Delivery / Release Train & Management**
 **** January 2019 - June 2020
-     - TACACS authorization
+     - Global authorization service using TACACS authorization
+       developed with international partners
      - Database cluster performance engineering
      - Automated TLS certificate generation
      - Design and technical debt reduction
 
 ** CoinRegTech - Atlanta, GA
-*** *VP Engineering*
+*** *VP Engineering -- Architecture / Worked directly with CTO / Systems Engineering / Data Architecture / MVP Development / First generation launch*
 **** November 2018 - January 2019
-     - Crypto currency regulation system in full stack Clojure with Datomic
+     - Crypto currency regulation system in full stack Clojure with
+       Datomic
+     - Business definition and algorithm development for automated
+       regulation and compliance
+     - Infrastructure as code using Drone and JenkinsX continuous
+       integration
      - Continuous delivery utilizing a private Kubernetes cluster with
        fully automated testing, staging, and deployment to production
 
 ** RentPath - LLC Atlanta, GA
-*** *Senior Clojure Developer*
+*** *Senior Clojure Developer/Architect -- Product Development *
 **** October 2015 - November 2018
      - Ported data backend from Endeca to Elasticsearch
      - Regression test suite utilizing clojure spec and generative
@@ -53,27 +62,32 @@
 ** Connolly iHealth Technologies - Sandy Springs, GA
 *** *Senior Technical Architect*
 **** August 2014 - October 2015
-     - Code quality mentorship of offshore teams
-     - Spring Boot microservice reference implementation
-     - Secured microservice rest endpoints
+     - Internationally deployed thought leader bringing delivery
+       excellence and code quality mentorship to offshore teams
+     - Created and promulgated Spring Boot microservice reference architecture
+     - Created standards and guidance for securing microservice rest endpoints
 
 ** Izenda, LLC - Atlanta, GA
 *** *VP Engineering*
 **** July 2013 - August 2014
-     - Managed Development, QA, and Customer Support
-     - SDLC
-     - Wiki to archive engineering knowledge
-     - Lead Clojure team to successful launch of license management
-       service
+     - Managed department of 25, converted team skillset from .NET to
+       Clojure/Functional Programming yielding significant
+       productivity and quality improvements
+     - Brought infrastructure as code, revamping SDLC and release
+       pipeline for optimal fidelity to requirements and nonfunctional
+       commitments
+     - Wiki to archive and promulgate engineering knowledge
+     - Lead team to successful launch of license management service
+       built on Clojure, Heroku, and Salesforce cloud technology
 
 ** InterContinentalExchange, Inc. - Sandy Springs, GA
 *** *Senior Web Developer*
 **** 2011 - 2013
-     - Devloped new features for website
-     - Utility to provide querying and data transformations for
-       product managers
-     - Utility to scrape and aggregate university data for a social
-       media initiative
+     - Developed new features for public facing website
+     - Provided querying and data transformation service for product
+       managers
+     - Built NodeJS service to scrape and aggregate university data
+       for social media
 
 *** *SDLC Team Lead*
 **** 2009 - 2011
@@ -82,7 +96,7 @@
 
 *** *R&D Systems Engineer*
 **** 2007 - 2009
-     - SDLC
+     - Revamped SDLC and release pipeline
      - Data architecture for LDAP clusters
      - Production deployment system used to deploy to hundreds of systems
        in paralell within a one-hour maintenance window
@@ -91,8 +105,8 @@
 ** Equifax, Inc. - Alpharetta, GA
 *** *Application Developer IV*
 **** Mar 2007 - Dec 2007
-     - Wrote server-side invocation and monitoring agent for job
-       control system
+     - Server-side invocation and monitoring agent for job control
+       system
 
 *** *Development Infrastructure Architect*
 **** Feb 2006 - Mar 2007
@@ -102,7 +116,7 @@
 
 *** *CM Team Lead*
 **** Oct 2005 - Feb 2006
-     - Developed SDLC best practices
+     - SDLC
 
 * Open Source
 *** *Maintainer*
