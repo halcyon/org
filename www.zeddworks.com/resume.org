@@ -29,6 +29,9 @@
      - Automated threat detection service that identifies Common
        Vulnerabilities and Exposures by querying Common Platform
        Enumerations in Elasticsearch
+     - Threat intelligence relational data-model for high performance analytics
+     - Data quality control process
+     - RESTful CRUD service for tracking financial risk associated with threat intelligence entities
 
 *** *Software Engineer -- Architecture / Feature Delivery / DevOps / SRE / Release Train & Management*
 **** January 2019 - June 2020
