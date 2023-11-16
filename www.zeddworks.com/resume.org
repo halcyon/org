@@ -32,6 +32,7 @@
      - Threat intelligence relational data-model for high performance analytics
      - Data quality control process
      - RESTful CRUD service for tracking financial risk associated with threat intelligence entities
+     - Developed endpoints providing aggregations and statistics for incident data
 
 *** *Software Engineer -- Architecture / Feature Delivery / DevOps / SRE / Release Train & Management*
 **** January 2019 - June 2020
