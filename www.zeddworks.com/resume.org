@@ -142,8 +142,8 @@
     - Certificate in Industrial Organizational Psychology (2007)
 
 *** *Continuing Education*
-    - GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certified (2023)
-    - SANS SEC660: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking (2023)
+    - [[https://www.giac.org/certified-professional/Scott-McLeod/226520][GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certified (2023)]]
+    - [[https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/][SANS SEC660: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking (2023)]]
     - Functional Programming Principles in Scala - École Polytechnique
       Fédérale de Lausanne (2013)
     - Developing Innovative Ideas for New Companies - University of
