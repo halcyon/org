@@ -142,9 +142,11 @@
     - Certificate in Industrial Organizational Psychology (2007)
 
 *** *Continuing Education*
-    - Computational Investing, Part I - Georgia Institute of
-      Technology (2012)
-    - Developing Innovative Ideas for New Companies - University of
-      Maryland, College Park (2013)
+    - GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) Certified (2023)
+    - SANS SEC660: Advanced Penetration Testing, Exploit Writing, and Ethical Hacking (2023)
     - Functional Programming Principles in Scala - École Polytechnique
       Fédérale de Lausanne (2013)
+    - Developing Innovative Ideas for New Companies - University of
+      Maryland, College Park (2013)
+    - Computational Investing, Part I - Georgia Institute of
+      Technology (2012)
